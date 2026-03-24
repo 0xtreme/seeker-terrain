@@ -1,0 +1,467 @@
+[
+  {
+    "id": "principal_upanishads",
+    "label": "Principal Upanishads",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -700,
+    "era_end": -200,
+    "origin_lat": 20.5937,
+    "origin_lng": 78.9629,
+    "origin_place": "India",
+    "summary": "Foundational Vedantic texts probing self, consciousness, and ultimate reality.",
+    "key_texts": [],
+    "tags": [
+      "brahman",
+      "non_duality",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Upanishads",
+    "image": null
+  },
+  {
+    "id": "brahma_sutras",
+    "label": "Brahma Sutras",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -200,
+    "era_end": 200,
+    "origin_lat": 20.5937,
+    "origin_lng": 78.9629,
+    "origin_place": "India",
+    "summary": "Aphoristic basis for major Vedanta commentarial traditions.",
+    "key_texts": [],
+    "tags": [
+      "brahman",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brahma_Sutras",
+    "image": null
+  },
+  {
+    "id": "bhagavad_gita",
+    "label": "Bhagavad Gita",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -200,
+    "era_end": 200,
+    "origin_lat": 28.6139,
+    "origin_lng": 77.209,
+    "origin_place": "India",
+    "summary": "Dialogue on duty, devotion, and liberation within an epic setting.",
+    "key_texts": [],
+    "tags": [
+      "dharma",
+      "moksha",
+      "karma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+    "image": null
+  },
+  {
+    "id": "dhammapada",
+    "label": "Dhammapada",
+    "type": "text",
+    "tradition": "buddhism",
+    "era_start": -300,
+    "era_end": 0,
+    "origin_lat": 7.8731,
+    "origin_lng": 80.7718,
+    "origin_place": "South Asia",
+    "summary": "Collection of Buddhist verses on ethics, mind training, and liberation.",
+    "key_texts": [],
+    "tags": [
+      "impermanence",
+      "nirvana",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dhammapada",
+    "image": null
+  },
+  {
+    "id": "heart_sutra",
+    "label": "Heart Sutra",
+    "type": "text",
+    "tradition": "buddhism",
+    "era_start": 200,
+    "era_end": 500,
+    "origin_lat": 34.0479,
+    "origin_lng": 100.6197,
+    "origin_place": "Central / East Asia",
+    "summary": "Compact Mahayana text presenting emptiness and non-attainment.",
+    "key_texts": [],
+    "tags": [
+      "emptiness",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Heart_Sutra",
+    "image": null
+  },
+  {
+    "id": "tao_te_ching",
+    "label": "Tao Te Ching",
+    "type": "text",
+    "tradition": "taoism",
+    "era_start": -500,
+    "era_end": -300,
+    "origin_lat": 34.7466,
+    "origin_lng": 113.6254,
+    "origin_place": "China",
+    "summary": "Classic Taoist text on naturalness, paradox, and non-forcing action.",
+    "key_texts": [],
+    "tags": [
+      "tao",
+      "wu_wei"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tao_Te_Ching",
+    "image": null
+  },
+  {
+    "id": "quran",
+    "label": "Quran",
+    "type": "text",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": 632,
+    "origin_lat": 21.4225,
+    "origin_lng": 39.8262,
+    "origin_place": "Arabian Peninsula",
+    "summary": "Central scripture of Islam and foundation for legal, theological, and contemplative traditions.",
+    "key_texts": [],
+    "tags": [
+      "dharma",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Quran",
+    "image": null
+  },
+  {
+    "id": "bible",
+    "label": "Bible",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": -500,
+    "era_end": 120,
+    "origin_lat": 31.7683,
+    "origin_lng": 35.2137,
+    "origin_place": "Levant",
+    "summary": "Scriptural collection shaping Christian theology, ethics, and contemplative interpretation.",
+    "key_texts": [],
+    "tags": [
+      "love_as_path",
+      "kenosis"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bible",
+    "image": null
+  },
+  {
+    "id": "zohar",
+    "label": "Zohar",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": 1280,
+    "era_end": 1300,
+    "origin_lat": 40.4168,
+    "origin_lng": -3.7038,
+    "origin_place": "Spain",
+    "summary": "Major Kabbalistic text exploring mystical dimensions of Torah.",
+    "key_texts": [],
+    "tags": [
+      "gnosis",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zohar",
+    "image": null
+  },
+  {
+    "id": "enneads",
+    "label": "Enneads",
+    "type": "text",
+    "tradition": "greek_philosophy",
+    "era_start": 270,
+    "era_end": 300,
+    "origin_lat": 41.9028,
+    "origin_lng": 12.4964,
+    "origin_place": "Rome",
+    "summary": "Compilation of Plotinus teachings on emanation and contemplative return to the One.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "via_negativa"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Enneads",
+    "image": null
+  },
+  {
+    "id": "meditations",
+    "label": "Meditations",
+    "type": "text",
+    "tradition": "greek_philosophy",
+    "era_start": 170,
+    "era_end": 180,
+    "origin_lat": 41.9028,
+    "origin_lng": 12.4964,
+    "origin_place": "Roman Empire",
+    "summary": "Stoic reflections on discipline, impermanence, and ethical life.",
+    "key_texts": [],
+    "tags": [
+      "impermanence",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Meditations",
+    "image": null
+  },
+  {
+    "id": "guru_granth_sahib",
+    "label": "Guru Granth Sahib",
+    "type": "text",
+    "tradition": "sikhism",
+    "era_start": 1604,
+    "era_end": 1604,
+    "origin_lat": 31.634,
+    "origin_lng": 74.8723,
+    "origin_place": "Punjab",
+    "summary": "Primary Sikh scripture preserving hymns of Gurus and allied bhakti voices.",
+    "key_texts": [],
+    "tags": [
+      "love_as_path",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+    "image": null
+  },
+  {
+    "id": "avesta",
+    "label": "Avesta",
+    "type": "text",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": 300,
+    "origin_lat": 29.5918,
+    "origin_lng": 52.5837,
+    "origin_place": "Persia",
+    "summary": "Sacred corpus of Zoroastrian tradition containing liturgical and theological material.",
+    "key_texts": [],
+    "tags": [
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Avesta",
+    "image": null
+  },
+  {
+    "id": "vivekachudamani",
+    "label": "Vivekachudamani",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": 800,
+    "era_end": 900,
+    "origin_lat": 10.8505,
+    "origin_lng": 76.2711,
+    "origin_place": "India",
+    "summary": "Advaita text presenting discrimination between the real and unreal.",
+    "key_texts": [],
+    "tags": [
+      "non_duality",
+      "brahman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivekachudamani",
+    "image": null
+  },
+  {
+    "id": "masnavi",
+    "label": "Masnavi",
+    "type": "text",
+    "tradition": "islam",
+    "era_start": 1258,
+    "era_end": 1273,
+    "origin_lat": 37.8715,
+    "origin_lng": 32.4846,
+    "origin_place": "Konya",
+    "summary": "Rumi’s poetic exploration of divine love and transformation.",
+    "key_texts": [],
+    "tags": [
+      "love_as_path",
+      "fana"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Masnavi",
+    "image": null
+  },
+  {
+    "id": "fusus_al_hikam",
+    "label": "Fusus al-Hikam",
+    "type": "text",
+    "tradition": "islam",
+    "era_start": 1230,
+    "era_end": 1240,
+    "origin_lat": 33.5138,
+    "origin_lng": 36.2765,
+    "origin_place": "Syria",
+    "summary": "Ibn Arabi’s metaphysical treatment of prophetic wisdom and unity of being.",
+    "key_texts": [],
+    "tags": [
+      "non_duality",
+      "fana",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fusus_al-Hikam",
+    "image": null
+  },
+  {
+    "id": "interior_castle",
+    "label": "Interior Castle",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 1577,
+    "era_end": 1577,
+    "origin_lat": 40.6564,
+    "origin_lng": -4.6818,
+    "origin_place": "Spain",
+    "summary": "Teresa of Avila’s map of contemplative maturation and prayer.",
+    "key_texts": [],
+    "tags": [
+      "kenosis",
+      "gnosis",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Interior_Castle",
+    "image": null
+  },
+  {
+    "id": "eckhart_sermons",
+    "label": "Sermons and Treatises",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 1300,
+    "era_end": 1328,
+    "origin_lat": 51.1657,
+    "origin_lng": 10.4515,
+    "origin_place": "Germany",
+    "summary": "Collected works of Meister Eckhart on detachment and divine birth in the soul.",
+    "key_texts": [],
+    "tags": [
+      "via_negativa",
+      "kenosis",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Meister_Eckhart",
+    "image": null
+  },
+  {
+    "id": "guide_for_perplexed",
+    "label": "Guide for the Perplexed",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": 1190,
+    "era_end": 1190,
+    "origin_lat": 30.0444,
+    "origin_lng": 31.2357,
+    "origin_place": "Egypt",
+    "summary": "Maimonides’ synthesis of reason, scripture, and negative theology.",
+    "key_texts": [],
+    "tags": [
+      "via_negativa",
+      "gnosis",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Guide_for_the_Perplexed",
+    "image": null
+  },
+  {
+    "id": "life_divine",
+    "label": "The Life Divine",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1939,
+    "era_end": 1940,
+    "origin_lat": 11.9416,
+    "origin_lng": 79.8083,
+    "origin_place": "Pondicherry, India",
+    "summary": "Aurobindo’s philosophical system describing evolution of consciousness.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "perennial_core",
+      "axial_breakthrough"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Life_Divine",
+    "image": null
+  },
+  {
+    "id": "sex_ecology_spirituality",
+    "label": "Sex, Ecology, Spirituality",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1995,
+    "era_end": 1995,
+    "origin_lat": 39.7392,
+    "origin_lng": -104.9903,
+    "origin_place": "USA",
+    "summary": "Ken Wilber’s major statement of integral theory.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "perennial_core"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sex,_Ecology,_Spirituality",
+    "image": null
+  },
+  {
+    "id": "phenomenon_of_man",
+    "label": "The Phenomenon of Man",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 1955,
+    "era_end": 1955,
+    "origin_lat": 48.8566,
+    "origin_lng": 2.3522,
+    "origin_place": "France",
+    "summary": "Teilhard’s synthesis of evolution, cosmology, and spiritual teleology.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "perennial_core"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Phenomenon_of_Man",
+    "image": null
+  },
+  {
+    "id": "way_of_zen",
+    "label": "The Way of Zen",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1957,
+    "era_end": 1957,
+    "origin_lat": 37.7749,
+    "origin_lng": -122.4194,
+    "origin_place": "USA",
+    "summary": "Alan Watts’ interpretation of Zen thought for modern Western audiences.",
+    "key_texts": [],
+    "tags": [
+      "non_duality",
+      "impermanence",
+      "tao"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Way_of_Zen",
+    "image": null
+  },
+  {
+    "id": "freedom_from_known",
+    "label": "The First and Last Freedom",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1954,
+    "era_end": 1954,
+    "origin_lat": 51.5072,
+    "origin_lng": -0.1276,
+    "origin_place": "UK",
+    "summary": "Krishnamurti’s dialogues on conditioning and direct perception.",
+    "key_texts": [],
+    "tags": [
+      "ego_dissolution",
+      "impermanence",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti_bibliography",
+    "image": null
+  }
+]

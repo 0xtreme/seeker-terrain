@@ -1,0 +1,368 @@
+[
+  {
+    "id": "advaita_vedanta",
+    "label": "Advaita Vedanta",
+    "type": "school",
+    "tradition": "hinduism",
+    "era_start": -800,
+    "era_end": null,
+    "origin_lat": 10.8505,
+    "origin_lng": 76.2711,
+    "origin_place": "Kerala / South India",
+    "summary": "Non-dual school of Vedantic philosophy teaching identity of Atman and Brahman; separation is interpreted as maya, a misperception of reality.",
+    "key_texts": [
+      "Brahma Sutras",
+      "Principal Upanishads",
+      "Vivekachudamani"
+    ],
+    "tags": [
+      "non_duality",
+      "brahman",
+      "maya",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Advaita_Vedanta",
+    "image": null
+  },
+  {
+    "id": "dvaita_vedanta",
+    "label": "Dvaita Vedanta",
+    "type": "school",
+    "tradition": "hinduism",
+    "era_start": 1200,
+    "era_end": null,
+    "origin_lat": 13.3409,
+    "origin_lng": 74.7421,
+    "origin_place": "Udupi, India",
+    "summary": "Dualist Vedanta school asserting an enduring distinction between individual souls and the divine.",
+    "key_texts": [
+      "Brahma Sutras"
+    ],
+    "tags": [
+      "dharma",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dvaita_Vedanta",
+    "image": null
+  },
+  {
+    "id": "kashmir_shaivism",
+    "label": "Kashmir Shaivism",
+    "type": "school",
+    "tradition": "hinduism",
+    "era_start": 850,
+    "era_end": null,
+    "origin_lat": 34.0837,
+    "origin_lng": 74.7973,
+    "origin_place": "Kashmir",
+    "summary": "A non-dual Shaiva tradition emphasizing consciousness as the dynamic ground of reality.",
+    "key_texts": [
+      "Shiva Sutras",
+      "Spanda Karikas"
+    ],
+    "tags": [
+      "consciousness",
+      "non_duality",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+    "image": null
+  },
+  {
+    "id": "tantra",
+    "label": "Tantra",
+    "type": "school",
+    "tradition": "hinduism",
+    "era_start": 500,
+    "era_end": null,
+    "origin_lat": 25.3176,
+    "origin_lng": 82.9739,
+    "origin_place": "North India",
+    "summary": "A family of ritual and yogic systems using body, energy, mantra, and symbol as direct means to realization.",
+    "key_texts": [
+      "Tantras"
+    ],
+    "tags": [
+      "consciousness",
+      "ego_dissolution",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tantra",
+    "image": null
+  },
+  {
+    "id": "bhakti",
+    "label": "Bhakti Movement",
+    "type": "school",
+    "tradition": "hinduism",
+    "era_start": 600,
+    "era_end": null,
+    "origin_lat": 25.3176,
+    "origin_lng": 82.9739,
+    "origin_place": "India",
+    "summary": "Devotional stream emphasizing loving relationship with the divine beyond strict social or ritual hierarchy.",
+    "key_texts": [
+      "Bhagavata Purana",
+      "Bhagavad Gita"
+    ],
+    "tags": [
+      "love_as_path",
+      "moksha",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhakti_movement",
+    "image": null
+  },
+  {
+    "id": "theravada",
+    "label": "Theravada",
+    "type": "school",
+    "tradition": "buddhism",
+    "era_start": -300,
+    "era_end": null,
+    "origin_lat": 7.8731,
+    "origin_lng": 80.7718,
+    "origin_place": "Sri Lanka",
+    "summary": "Early Buddhist lineage emphasizing Pali canon study, mindfulness, and liberation through direct insight.",
+    "key_texts": [
+      "Pali Canon",
+      "Dhammapada"
+    ],
+    "tags": [
+      "impermanence",
+      "nirvana",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Theravada",
+    "image": null
+  },
+  {
+    "id": "mahayana",
+    "label": "Mahayana",
+    "type": "school",
+    "tradition": "buddhism",
+    "era_start": 0,
+    "era_end": null,
+    "origin_lat": 34.0479,
+    "origin_lng": 100.6197,
+    "origin_place": "Central and East Asia",
+    "summary": "Major Buddhist stream stressing bodhisattva compassion and philosophical analysis of emptiness and mind.",
+    "key_texts": [
+      "Prajnaparamita Sutras",
+      "Lotus Sutra"
+    ],
+    "tags": [
+      "emptiness",
+      "impermanence",
+      "nirvana",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahayana",
+    "image": null
+  },
+  {
+    "id": "vajrayana",
+    "label": "Vajrayana / Tibetan",
+    "type": "school",
+    "tradition": "buddhism",
+    "era_start": 700,
+    "era_end": null,
+    "origin_lat": 29.65,
+    "origin_lng": 91.12,
+    "origin_place": "Tibet",
+    "summary": "Tantric Buddhist stream using visualization, mantra, and teacher lineage to accelerate realization.",
+    "key_texts": [
+      "Tibetan Book of the Dead"
+    ],
+    "tags": [
+      "ego_dissolution",
+      "emptiness",
+      "nirvana"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vajrayana",
+    "image": null
+  },
+  {
+    "id": "zen",
+    "label": "Zen",
+    "type": "school",
+    "tradition": "buddhism",
+    "era_start": 520,
+    "era_end": null,
+    "origin_lat": 35.6762,
+    "origin_lng": 139.6503,
+    "origin_place": "China / Japan",
+    "summary": "Meditation-centered Mahayana lineage emphasizing direct realization beyond conceptual elaboration.",
+    "key_texts": [
+      "Platform Sutra"
+    ],
+    "tags": [
+      "non_duality",
+      "impermanence",
+      "wu_wei",
+      "ego_dissolution"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zen",
+    "image": null
+  },
+  {
+    "id": "sufism",
+    "label": "Sufism",
+    "type": "school",
+    "tradition": "islam",
+    "era_start": 700,
+    "era_end": null,
+    "origin_lat": 33.3152,
+    "origin_lng": 44.3661,
+    "origin_place": "Iraq / Persia",
+    "summary": "Islamic mystical stream focused on purification of the heart, remembrance, and union with the divine.",
+    "key_texts": [
+      "Masnavi",
+      "Fusus al-Hikam"
+    ],
+    "tags": [
+      "love_as_path",
+      "fana",
+      "non_duality",
+      "ego_dissolution"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sufism",
+    "image": null
+  },
+  {
+    "id": "christian_mysticism",
+    "label": "Christian Mysticism",
+    "type": "school",
+    "tradition": "christianity",
+    "era_start": 200,
+    "era_end": null,
+    "origin_lat": 41.9028,
+    "origin_lng": 12.4964,
+    "origin_place": "Mediterranean Europe",
+    "summary": "Contemplative Christian lineage emphasizing union with God through prayer, silence, love, and self-emptying.",
+    "key_texts": [
+      "Interior Castle",
+      "Cloud of Unknowing"
+    ],
+    "tags": [
+      "kenosis",
+      "via_negativa",
+      "love_as_path",
+      "gnosis"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_mysticism",
+    "image": null
+  },
+  {
+    "id": "kabbalah",
+    "label": "Kabbalah",
+    "type": "school",
+    "tradition": "judaism",
+    "era_start": 1100,
+    "era_end": null,
+    "origin_lat": 31.7683,
+    "origin_lng": 35.2137,
+    "origin_place": "Levant / Iberia",
+    "summary": "Jewish mystical stream exploring emanation, divine attributes, and transformative contemplative practice.",
+    "key_texts": [
+      "Zohar"
+    ],
+    "tags": [
+      "gnosis",
+      "non_duality",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kabbalah",
+    "image": null
+  },
+  {
+    "id": "neoplatonism",
+    "label": "Neoplatonism",
+    "type": "school",
+    "tradition": "greek_philosophy",
+    "era_start": 200,
+    "era_end": 600,
+    "origin_lat": 31.2001,
+    "origin_lng": 29.9187,
+    "origin_place": "Alexandria / Rome",
+    "summary": "Late antique philosophical school centered on emanation from the One and return through contemplative ascent.",
+    "key_texts": [
+      "Enneads"
+    ],
+    "tags": [
+      "consciousness",
+      "via_negativa",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Neoplatonism",
+    "image": null
+  },
+  {
+    "id": "stoicism",
+    "label": "Stoicism",
+    "type": "school",
+    "tradition": "greek_philosophy",
+    "era_start": -300,
+    "era_end": 300,
+    "origin_lat": 37.9838,
+    "origin_lng": 23.7275,
+    "origin_place": "Athens / Rome",
+    "summary": "Practical philosophical school teaching freedom through disciplined judgment, virtue, and alignment with nature.",
+    "key_texts": [
+      "Meditations",
+      "Discourses"
+    ],
+    "tags": [
+      "impermanence",
+      "ego_dissolution",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stoicism",
+    "image": null
+  },
+  {
+    "id": "perennial_philosophy",
+    "label": "Perennial Philosophy",
+    "type": "school",
+    "tradition": "synthesis",
+    "era_start": 1500,
+    "era_end": null,
+    "origin_lat": 48.8566,
+    "origin_lng": 2.3522,
+    "origin_place": "Europe / global",
+    "summary": "Comparative stream proposing a shared mystical core across traditions while preserving contextual differences.",
+    "key_texts": [
+      "The Perennial Philosophy"
+    ],
+    "tags": [
+      "perennial_core",
+      "non_duality",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+    "image": null
+  },
+  {
+    "id": "integral",
+    "label": "Integral Philosophy",
+    "type": "school",
+    "tradition": "synthesis",
+    "era_start": 1900,
+    "era_end": null,
+    "origin_lat": 40.7128,
+    "origin_lng": -74.006,
+    "origin_place": "USA / global",
+    "summary": "Modern synthetic framework integrating contemplative, developmental, and systems perspectives.",
+    "key_texts": [
+      "The Life Divine",
+      "Sex, Ecology, Spirituality"
+    ],
+    "tags": [
+      "consciousness",
+      "perennial_core",
+      "axial_breakthrough"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)",
+    "image": null
+  }
+]

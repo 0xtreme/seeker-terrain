@@ -1,0 +1,77 @@
+#graph-canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.graph-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.graph-link {
+  stroke-opacity: 0.45;
+  fill: none;
+}
+
+.graph-link.relation-founded {
+  stroke-width: 2.5;
+  stroke-dasharray: none;
+}
+
+.graph-link.relation-influenced {
+  stroke-width: 1.8;
+  stroke-dasharray: 6 5;
+}
+
+.graph-link.relation-student_of {
+  stroke-width: 1.2;
+  stroke-dasharray: none;
+}
+
+.graph-link.relation-shares_concept {
+  stroke-width: 1.5;
+  stroke-dasharray: 2 6;
+}
+
+.graph-link.relation-opposed {
+  stroke-width: 1.5;
+  stroke: #ac4b4b !important;
+  stroke-dasharray: 4 4;
+}
+
+.graph-link.relation-belongs_to,
+.graph-link.relation-wrote,
+.graph-link.relation-synthesised {
+  stroke-width: 1;
+  stroke-dasharray: 4 5;
+}
+
+.graph-node {
+  cursor: pointer;
+}
+
+.graph-node-label {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  fill: rgba(230, 228, 222, 0.85);
+  pointer-events: none;
+}
+
+.graph-node.highlighted > *:first-child {
+  stroke: #f2f0eb;
+  stroke-width: 2.3;
+}
+
+.graph-node.dimmed {
+  opacity: 0.12;
+}
+
+.graph-link.dimmed {
+  opacity: 0.1;
+}
+
+.graph-link.focus-cross {
+  opacity: 0.95;
+  stroke-opacity: 1;
+}

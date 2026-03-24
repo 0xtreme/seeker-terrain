@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spiritus — Spirituality Knowledge Graph</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=JetBrains+Mono:wght@400&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+    />
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/graph.css" />
+    <link rel="stylesheet" href="css/map.css" />
+    <link rel="stylesheet" href="css/timeline.css" />
+    <link rel="stylesheet" href="css/concept.css" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <div class="brand-block">
+          <button id="filters-toggle" class="ghost-btn" aria-label="Toggle filters">
+            Filters
+          </button>
+          <div class="brand-title">
+            <span class="brand-name">Spiritus</span>
+            <span class="brand-tagline">Spirituality Knowledge Graph</span>
+          </div>
+        </div>
+
+        <nav class="view-switcher" aria-label="View switcher">
+          <button class="view-btn active" data-view="graph">Graph</button>
+          <button class="view-btn" data-view="map">Map</button>
+          <button class="view-btn" data-view="timeline">Timeline</button>
+          <button class="view-btn" data-view="concept">Concept Explorer</button>
+        </nav>
+
+        <div class="search-wrap">
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Search traditions, people, schools, concepts..."
+            autocomplete="off"
+          />
+          <div id="search-results" class="search-results" hidden></div>
+        </div>
+      </header>
+
+      <aside id="filters-drawer" class="filters-drawer" aria-label="Filters" data-open="false">
+        <div class="filters-header">
+          <h2>Filters</h2>
+          <button id="filters-close" class="ghost-btn" aria-label="Close filters">Close</button>
+        </div>
+
+        <section class="filter-group">
+          <h3>Traditions</h3>
+          <div id="tradition-filters" class="checklist"></div>
+        </section>
+
+        <section class="filter-group">
+          <h3>Node Types</h3>
+          <div id="type-filters" class="checklist"></div>
+        </section>
+
+        <section class="filter-group">
+          <h3>Era Range</h3>
+          <div class="era-range">
+            <label>
+              Start
+              <input id="era-start" type="range" min="-3000" max="2026" step="1" value="-3000" />
+            </label>
+            <label>
+              End
+              <input id="era-end" type="range" min="-3000" max="2026" step="1" value="2026" />
+            </label>
+          </div>
+          <p id="era-range-label" class="meta-line">3000 BCE to 2026 CE</p>
+        </section>
+
+        <section class="filter-group">
+          <h3>Concept Tag</h3>
+          <select id="tag-filter">
+            <option value="">All tags</option>
+          </select>
+        </section>
+
+        <section class="filter-group">
+          <h3>Tradition Focus Mode</h3>
+          <select id="focus-tradition">
+            <option value="">Off</option>
+          </select>
+          <p class="meta-line">
+            Keeps selected tradition fully visible while preserving cross-tradition edges.
+          </p>
+        </section>
+
+        <button id="filters-reset" class="primary-btn">Reset Filters</button>
+      </aside>
+
+      <main class="view-stage">
+        <section id="view-graph" class="view-panel active" aria-label="Graph view">
+          <div id="graph-canvas"></div>
+          <div id="graph-tooltip" class="tooltip" hidden></div>
+        </section>
+
+        <section id="view-map" class="view-panel" aria-label="Map view">
+          <div id="map-canvas"></div>
+          <div class="map-controls">
+            <label>
+              Timeline scrubber
+              <input id="map-year" type="range" min="-3000" max="2026" value="2026" step="1" />
+            </label>
+            <span id="map-year-label" class="map-year-label">2026 CE</span>
+            <label class="toggle-line">
+              <input id="map-spread-toggle" type="checkbox" />
+              Show spread
+            </label>
+          </div>
+        </section>
+
+        <section id="view-timeline" class="view-panel" aria-label="Timeline view">
+          <div class="timeline-controls">
+            <label class="toggle-line">
+              <input id="axial-toggle" type="checkbox" checked />
+              Axial Age highlight
+            </label>
+            <label class="toggle-line">
+              <input id="influence-toggle" type="checkbox" />
+              Influence arcs
+            </label>
+          </div>
+          <div id="timeline-canvas" class="timeline-canvas"></div>
+        </section>
+
+        <section id="view-concept" class="view-panel" aria-label="Concept explorer">
+          <div class="concept-header">
+            <label for="concept-select">Concept</label>
+            <select id="concept-select"></select>
+          </div>
+          <div id="concept-cloud" class="concept-cloud"></div>
+          <div id="concept-grid" class="concept-grid"></div>
+        </section>
+      </main>
+
+      <aside id="detail-panel" class="detail-panel" data-open="false" aria-label="Node details">
+        <div id="detail-accent" class="detail-accent"></div>
+        <div class="detail-head">
+          <div class="detail-badges">
+            <span id="detail-type" class="badge"></span>
+            <span id="detail-era" class="badge"></span>
+            <span id="detail-origin" class="badge"></span>
+          </div>
+          <button id="detail-close" class="ghost-btn" aria-label="Close detail">Close</button>
+        </div>
+
+        <h2 id="detail-title"></h2>
+        <p id="detail-summary"></p>
+
+        <section>
+          <h3>Key concepts</h3>
+          <div id="detail-tags" class="chip-wrap"></div>
+        </section>
+
+        <section>
+          <h3>Connected to</h3>
+          <div id="detail-connections" class="connections"></div>
+        </section>
+
+        <section>
+          <h3>Key texts</h3>
+          <ul id="detail-texts" class="plain-list"></ul>
+        </section>
+
+        <div class="detail-links">
+          <a id="detail-wikipedia" href="#" target="_blank" rel="noopener noreferrer">Wikipedia</a>
+        </div>
+      </aside>
+
+      <footer class="site-footer">
+        Spiritus presents historical and scholarly perspectives on spiritual traditions. It is not
+        affiliated with any religion or organisation. It does not make theological claims or rank
+        traditions. Content reviewed: March 2026.
+      </footer>
+    </div>
+
+    <script
+      src="https://unpkg.com/d3@7.9.0/dist/d3.min.js"
+    ></script>
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>

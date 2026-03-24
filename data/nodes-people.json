@@ -1,0 +1,667 @@
+[
+  {
+    "id": "adi_shankaracharya",
+    "label": "Adi Shankaracharya",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 788,
+    "era_end": 820,
+    "origin_lat": 10.5276,
+    "origin_lng": 76.2144,
+    "origin_place": "Kerala, India",
+    "summary": "Philosopher and monk who consolidated Advaita Vedanta, arguing that ultimate reality is non-dual consciousness.",
+    "key_texts": [
+      "Vivekachudamani",
+      "Commentary on Brahma Sutras"
+    ],
+    "tags": [
+      "non_duality",
+      "brahman",
+      "maya",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adi_Shankara",
+    "image": null
+  },
+  {
+    "id": "narayana_guru",
+    "label": "Sree Narayana Guru",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1856,
+    "era_end": 1928,
+    "origin_lat": 8.5241,
+    "origin_lng": 76.9366,
+    "origin_place": "Kerala, India",
+    "summary": "Social reformer and spiritual teacher who articulated non-dual insight with a strong ethic of equality and compassion.",
+    "key_texts": [
+      "Atmopadesa Satakam"
+    ],
+    "tags": [
+      "non_duality",
+      "love_as_path",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Narayana_Guru",
+    "image": null
+  },
+  {
+    "id": "ramana_maharshi",
+    "label": "Ramana Maharshi",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1879,
+    "era_end": 1950,
+    "origin_lat": 11.1271,
+    "origin_lng": 78.6569,
+    "origin_place": "Tamil Nadu, India",
+    "summary": "Modern sage known for self-inquiry practice that directs attention to the root sense of I and reveals non-dual awareness.",
+    "key_texts": [
+      "Who Am I?"
+    ],
+    "tags": [
+      "non_duality",
+      "ego_dissolution",
+      "consciousness",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramana_Maharshi",
+    "image": null
+  },
+  {
+    "id": "ramakrishna",
+    "label": "Ramakrishna",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1836,
+    "era_end": 1886,
+    "origin_lat": 22.5726,
+    "origin_lng": 88.3639,
+    "origin_place": "West Bengal, India",
+    "summary": "Mystic associated with intense devotional states and experiential claim that multiple religious paths can realize the same divine ground.",
+    "key_texts": [
+      "The Gospel of Sri Ramakrishna"
+    ],
+    "tags": [
+      "love_as_path",
+      "perennial_core",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramakrishna",
+    "image": null
+  },
+  {
+    "id": "vivekananda",
+    "label": "Swami Vivekananda",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1863,
+    "era_end": 1902,
+    "origin_lat": 22.5726,
+    "origin_lng": 88.3639,
+    "origin_place": "West Bengal, India",
+    "summary": "Disciple of Ramakrishna who translated Vedantic and yogic ideas for global audiences in modern prose and lectures.",
+    "key_texts": [
+      "Raja Yoga",
+      "Jnana Yoga"
+    ],
+    "tags": [
+      "perennial_core",
+      "dharma",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+    "image": null
+  },
+  {
+    "id": "aurobindo",
+    "label": "Sri Aurobindo",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1872,
+    "era_end": 1950,
+    "origin_lat": 22.5726,
+    "origin_lng": 88.3639,
+    "origin_place": "West Bengal, India",
+    "summary": "Philosopher-yogi who proposed evolutionary spirituality in which consciousness unfolds toward integral realization.",
+    "key_texts": [
+      "The Life Divine"
+    ],
+    "tags": [
+      "consciousness",
+      "perennial_core",
+      "axial_breakthrough"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sri_Aurobindo",
+    "image": null
+  },
+  {
+    "id": "nagarjuna",
+    "label": "Nagarjuna",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 200,
+    "era_end": 250,
+    "origin_lat": 16.5062,
+    "origin_lng": 80.648,
+    "origin_place": "South India",
+    "summary": "Madhyamaka philosopher who analyzed all fixed views and argued for emptiness as dependent arising, not nihilism.",
+    "key_texts": [
+      "Mulamadhyamakakarika"
+    ],
+    "tags": [
+      "emptiness",
+      "non_duality",
+      "impermanence"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nagarjuna",
+    "image": null
+  },
+  {
+    "id": "bodhidharma",
+    "label": "Bodhidharma",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 520,
+    "era_end": 560,
+    "origin_lat": 17.6868,
+    "origin_lng": 83.2185,
+    "origin_place": "India / China",
+    "summary": "Semi-legendary monk associated with transmission of meditative Buddhism to China and formation of Chan lineage.",
+    "key_texts": [
+      "Two Entrances and Four Practices"
+    ],
+    "tags": [
+      "non_duality",
+      "wu_wei",
+      "impermanence"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bodhidharma",
+    "image": null
+  },
+  {
+    "id": "milarepa",
+    "label": "Milarepa",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 1052,
+    "era_end": 1135,
+    "origin_lat": 29.65,
+    "origin_lng": 91.12,
+    "origin_place": "Tibet",
+    "summary": "Tibetan yogi and poet remembered for radical renunciation and songs of direct realization.",
+    "key_texts": [
+      "The Hundred Thousand Songs of Milarepa"
+    ],
+    "tags": [
+      "ego_dissolution",
+      "emptiness",
+      "nirvana"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Milarepa",
+    "image": null
+  },
+  {
+    "id": "buddha",
+    "label": "Siddhartha Gautama",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": -563,
+    "era_end": -483,
+    "origin_lat": 27.4833,
+    "origin_lng": 83.2767,
+    "origin_place": "Nepal / North India",
+    "summary": "Founder of Buddhism who diagnosed suffering as rooted in craving and taught a practical path to liberation.",
+    "key_texts": [
+      "Dhammapada",
+      "Pali Canon"
+    ],
+    "tags": [
+      "impermanence",
+      "nirvana",
+      "dharma",
+      "karma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+    "image": null
+  },
+  {
+    "id": "rumi",
+    "label": "Rumi",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1207,
+    "era_end": 1273,
+    "origin_lat": 36.2605,
+    "origin_lng": 59.6168,
+    "origin_place": "Persia / Turkey",
+    "summary": "Sufi poet whose teachings describe love as a transformative force dissolving the separate self into divine presence.",
+    "key_texts": [
+      "Masnavi"
+    ],
+    "tags": [
+      "love_as_path",
+      "fana",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rumi",
+    "image": null
+  },
+  {
+    "id": "ibn_arabi",
+    "label": "Ibn Arabi",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1165,
+    "era_end": 1240,
+    "origin_lat": 37.3891,
+    "origin_lng": -5.9845,
+    "origin_place": "Andalusia / Syria",
+    "summary": "Sufi metaphysician known for wahdat al-wujud, a doctrine of unity of being with strong non-dual resonance.",
+    "key_texts": [
+      "Fusus al-Hikam",
+      "Meccan Revelations"
+    ],
+    "tags": [
+      "non_duality",
+      "fana",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Arabi",
+    "image": null
+  },
+  {
+    "id": "al_ghazali",
+    "label": "Al-Ghazali",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1058,
+    "era_end": 1111,
+    "origin_lat": 36.297,
+    "origin_lng": 59.6062,
+    "origin_place": "Persia",
+    "summary": "Theologian and mystic who integrated law, philosophy, and inner transformation in Sunni Islam.",
+    "key_texts": [
+      "Revival of the Religious Sciences"
+    ],
+    "tags": [
+      "ego_dissolution",
+      "gnosis",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Ghazali",
+    "image": null
+  },
+  {
+    "id": "rabi_al_adawiyya",
+    "label": "Rabi'a al-Adawiyya",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 714,
+    "era_end": 801,
+    "origin_lat": 30.5085,
+    "origin_lng": 47.7804,
+    "origin_place": "Basra, Iraq",
+    "summary": "Early Sufi mystic famous for radical devotional love of God beyond fear and reward.",
+    "key_texts": [
+      "Sayings of Rabi'a"
+    ],
+    "tags": [
+      "love_as_path",
+      "fana"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rabia_Basri",
+    "image": null
+  },
+  {
+    "id": "meister_eckhart",
+    "label": "Meister Eckhart",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 1260,
+    "era_end": 1328,
+    "origin_lat": 51.1657,
+    "origin_lng": 10.4515,
+    "origin_place": "Germany",
+    "summary": "Christian theologian whose sermons emphasize inner detachment and direct birth of the divine in the soul.",
+    "key_texts": [
+      "Sermons and Treatises"
+    ],
+    "tags": [
+      "via_negativa",
+      "kenosis",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Meister_Eckhart",
+    "image": null
+  },
+  {
+    "id": "teresa_of_avila",
+    "label": "Teresa of Avila",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 1515,
+    "era_end": 1582,
+    "origin_lat": 40.6564,
+    "origin_lng": -4.6818,
+    "origin_place": "Spain",
+    "summary": "Carmelite reformer whose writings map the contemplative journey through interior stages of prayer.",
+    "key_texts": [
+      "Interior Castle"
+    ],
+    "tags": [
+      "love_as_path",
+      "kenosis",
+      "gnosis"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila",
+    "image": null
+  },
+  {
+    "id": "plotinus",
+    "label": "Plotinus",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": 204,
+    "era_end": 270,
+    "origin_lat": 30.0444,
+    "origin_lng": 31.2357,
+    "origin_place": "Egypt / Rome",
+    "summary": "Founder of Neoplatonism who described all reality as emanating from and returning to the One.",
+    "key_texts": [
+      "Enneads"
+    ],
+    "tags": [
+      "consciousness",
+      "non_duality",
+      "via_negativa"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Plotinus",
+    "image": null
+  },
+  {
+    "id": "socrates",
+    "label": "Socrates",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -470,
+    "era_end": -399,
+    "origin_lat": 37.9838,
+    "origin_lng": 23.7275,
+    "origin_place": "Athens, Greece",
+    "summary": "Foundational philosopher of ethical inquiry who framed wisdom as disciplined self-examination.",
+    "key_texts": [
+      "Platonic Dialogues"
+    ],
+    "tags": [
+      "dharma",
+      "ego_dissolution"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Socrates",
+    "image": null
+  },
+  {
+    "id": "pythagoras",
+    "label": "Pythagoras",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -570,
+    "era_end": -495,
+    "origin_lat": 37.7544,
+    "origin_lng": 26.9774,
+    "origin_place": "Samos, Greece",
+    "summary": "Philosopher-mystic who linked mathematics, cosmology, and spiritual discipline in a way that influenced later esoteric thought.",
+    "key_texts": [
+      "Pythagorean Fragments"
+    ],
+    "tags": [
+      "consciousness",
+      "karma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pythagoras",
+    "image": null
+  },
+  {
+    "id": "laozi",
+    "label": "Laozi",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": -600,
+    "era_end": -531,
+    "origin_lat": 34.7466,
+    "origin_lng": 113.6254,
+    "origin_place": "China",
+    "summary": "Traditionally regarded author of Tao Te Ching, teaching alignment with the nameless Tao through simplicity and non-forcing.",
+    "key_texts": [
+      "Tao Te Ching"
+    ],
+    "tags": [
+      "tao",
+      "wu_wei",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Laozi",
+    "image": null
+  },
+  {
+    "id": "zhuangzi",
+    "label": "Zhuangzi",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": -369,
+    "era_end": -286,
+    "origin_lat": 35.8617,
+    "origin_lng": 104.1954,
+    "origin_place": "China",
+    "summary": "Taoist thinker known for paradoxical stories that loosen rigid identity and cultivate spontaneous freedom.",
+    "key_texts": [
+      "Zhuangzi"
+    ],
+    "tags": [
+      "wu_wei",
+      "tao",
+      "impermanence"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhuangzi",
+    "image": null
+  },
+  {
+    "id": "mahavira",
+    "label": "Mahavira",
+    "type": "person",
+    "tradition": "jainism",
+    "era_start": -599,
+    "era_end": -527,
+    "origin_lat": 25.5941,
+    "origin_lng": 85.1376,
+    "origin_place": "Bihar, India",
+    "summary": "24th Tirthankara of Jain tradition, emphasizing nonviolence, discipline, and liberation through purification.",
+    "key_texts": [
+      "Agamas"
+    ],
+    "tags": [
+      "karma",
+      "moksha",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahavira",
+    "image": null
+  },
+  {
+    "id": "guru_nanak",
+    "label": "Guru Nanak",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": 1539,
+    "origin_lat": 31.634,
+    "origin_lng": 74.8723,
+    "origin_place": "Punjab, India",
+    "summary": "Founder of Sikhism who taught remembrance of one divine reality and equality across social divisions.",
+    "key_texts": [
+      "Guru Granth Sahib"
+    ],
+    "tags": [
+      "love_as_path",
+      "non_duality",
+      "perennial_core"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Nanak",
+    "image": null
+  },
+  {
+    "id": "kabir",
+    "label": "Kabir",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1440,
+    "era_end": 1518,
+    "origin_lat": 25.3176,
+    "origin_lng": 82.9739,
+    "origin_place": "Varanasi, India",
+    "summary": "Poet-saint who critiqued sectarianism and emphasized direct devotion beyond rigid religious identity.",
+    "key_texts": [
+      "Bijak"
+    ],
+    "tags": [
+      "love_as_path",
+      "non_duality",
+      "perennial_core"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kabir",
+    "image": null
+  },
+  {
+    "id": "baal_shem_tov",
+    "label": "Baal Shem Tov",
+    "type": "person",
+    "tradition": "judaism",
+    "era_start": 1698,
+    "era_end": 1760,
+    "origin_lat": 49.4229,
+    "origin_lng": 26.9871,
+    "origin_place": "Ukraine",
+    "summary": "Founder of Hasidism, highlighting joyous devotion and direct experiential relationship to the divine.",
+    "key_texts": [
+      "Teachings of the Baal Shem Tov"
+    ],
+    "tags": [
+      "love_as_path",
+      "gnosis",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Baal_Shem_Tov",
+    "image": null
+  },
+  {
+    "id": "maimonides",
+    "label": "Maimonides",
+    "type": "person",
+    "tradition": "judaism",
+    "era_start": 1138,
+    "era_end": 1204,
+    "origin_lat": 37.8882,
+    "origin_lng": -4.7794,
+    "origin_place": "Spain / Egypt",
+    "summary": "Jewish philosopher and legal scholar whose negative theology deeply influenced later mystical and scholastic traditions.",
+    "key_texts": [
+      "Guide for the Perplexed"
+    ],
+    "tags": [
+      "via_negativa",
+      "dharma",
+      "gnosis"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maimonides",
+    "image": null
+  },
+  {
+    "id": "krishnamurti",
+    "label": "J. Krishnamurti",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1895,
+    "era_end": 1986,
+    "origin_lat": 15.8281,
+    "origin_lng": 78.0373,
+    "origin_place": "Andhra Pradesh, India",
+    "summary": "Modern teacher who rejected institutional authority and emphasized direct observation of thought without method.",
+    "key_texts": [
+      "The First and Last Freedom"
+    ],
+    "tags": [
+      "ego_dissolution",
+      "impermanence",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti",
+    "image": null
+  },
+  {
+    "id": "alan_watts",
+    "label": "Alan Watts",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1915,
+    "era_end": 1973,
+    "origin_lat": 51.5072,
+    "origin_lng": -0.1276,
+    "origin_place": "UK / USA",
+    "summary": "Writer and speaker who popularized comparative Eastern and Western contemplative ideas for modern audiences.",
+    "key_texts": [
+      "The Way of Zen",
+      "The Book"
+    ],
+    "tags": [
+      "non_duality",
+      "tao",
+      "perennial_core"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Watts",
+    "image": null
+  },
+  {
+    "id": "ken_wilber",
+    "label": "Ken Wilber",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1949,
+    "era_end": null,
+    "origin_lat": 40.7608,
+    "origin_lng": -111.891,
+    "origin_place": "USA",
+    "summary": "Contemporary philosopher known for integral theory, combining contemplative insight with developmental psychology and systems thinking.",
+    "key_texts": [
+      "Sex, Ecology, Spirituality"
+    ],
+    "tags": [
+      "consciousness",
+      "perennial_core",
+      "axial_breakthrough"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ken_Wilber",
+    "image": null
+  },
+  {
+    "id": "teilhard",
+    "label": "Teilhard de Chardin",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 1881,
+    "era_end": 1955,
+    "origin_lat": 46.2276,
+    "origin_lng": 2.2137,
+    "origin_place": "France",
+    "summary": "Jesuit thinker proposing spiritual evolution toward greater complexity and unification in consciousness.",
+    "key_texts": [
+      "The Phenomenon of Man"
+    ],
+    "tags": [
+      "consciousness",
+      "love_as_path",
+      "perennial_core"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin",
+    "image": null
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "id": "non_duality",
+    "label": "Non-Duality",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Cross-tradition",
+    "summary": "Subject and object, self and universe, are not ultimately separate at the deepest level of realization.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "ego_dissolution",
+      "perennial_core"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nondualism",
+    "image": null,
+    "comparisons": [
+      {
+        "tradition": "hinduism",
+        "term": "Advaita",
+        "figure_id": "adi_shankaracharya",
+        "quote": "Brahman alone is real; apparent separateness is misperception."
+      },
+      {
+        "tradition": "buddhism",
+        "term": "Sunyata",
+        "figure_id": "nagarjuna",
+        "quote": "No independent essence can be found in any phenomenon."
+      },
+      {
+        "tradition": "islam",
+        "term": "Wahdat al-Wujud / Fana",
+        "figure_id": "ibn_arabi",
+        "quote": "Multiplicity appears within a deeper unity of being."
+      },
+      {
+        "tradition": "christianity",
+        "term": "Unio Mystica",
+        "figure_id": "meister_eckhart",
+        "quote": "In letting-go, the ground of soul and God is discovered."
+      },
+      {
+        "tradition": "judaism",
+        "term": "Ayin",
+        "figure_id": "baal_shem_tov",
+        "quote": "The divine no-thingness is beyond fixed conceptual grasp."
+      },
+      {
+        "tradition": "taoism",
+        "term": "Wu Ji",
+        "figure_id": "laozi",
+        "quote": "The nameless ground gives rise to ten thousand things."
+      }
+    ]
+  },
+  {
+    "id": "impermanence",
+    "label": "Impermanence",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Cross-tradition",
+    "summary": "All conditioned phenomena change; attachment to permanence produces suffering and confusion.",
+    "key_texts": [],
+    "tags": [
+      "nirvana",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Impermanence",
+    "image": null,
+    "comparisons": [
+      {
+        "tradition": "buddhism",
+        "term": "Anicca",
+        "figure_id": "buddha",
+        "quote": "Whatever arises passes away."
+      },
+      {
+        "tradition": "greek_philosophy",
+        "term": "Flux and Practice",
+        "figure_id": "socrates",
+        "quote": "Wisdom depends on right judgment amid changing circumstances."
+      },
+      {
+        "tradition": "taoism",
+        "term": "Transformation",
+        "figure_id": "zhuangzi",
+        "quote": "Rigid identity yields to spontaneous change."
+      }
+    ]
+  },
+  {
+    "id": "consciousness",
+    "label": "Consciousness as Ground",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Cross-tradition",
+    "summary": "Ultimate reality is interpreted as luminous awareness rather than inert matter.",
+    "key_texts": [],
+    "tags": [
+      "non_duality",
+      "brahman",
+      "gnosis"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Consciousness",
+    "image": null
+  },
+  {
+    "id": "ego_dissolution",
+    "label": "Ego Dissolution",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Cross-tradition",
+    "summary": "The rigid sense of separate self relaxes or dissolves in deep contemplative realization.",
+    "key_texts": [],
+    "tags": [
+      "non_duality",
+      "fana",
+      "kenosis"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ego_death",
+    "image": null
+  },
+  {
+    "id": "love_as_path",
+    "label": "Love as the Path",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -100,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Cross-tradition",
+    "summary": "Love is treated as an active transformative discipline leading toward union with the absolute.",
+    "key_texts": [],
+    "tags": [
+      "gnosis",
+      "kenosis",
+      "fana"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Divine_love",
+    "image": null
+  },
+  {
+    "id": "emptiness",
+    "label": "Emptiness / Sunyata",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Buddhist philosophy",
+    "summary": "Phenomena lack independent, fixed essence and arise interdependently.",
+    "key_texts": [],
+    "tags": [
+      "impermanence",
+      "non_duality",
+      "nirvana"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81",
+    "image": null
+  },
+  {
+    "id": "via_negativa",
+    "label": "Via Negativa",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": 200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Apophatic lineages",
+    "summary": "Approaching ultimate reality by negating limiting conceptual descriptions.",
+    "key_texts": [],
+    "tags": [
+      "gnosis",
+      "kenosis",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Apophatic_theology",
+    "image": null
+  },
+  {
+    "id": "moksha",
+    "label": "Liberation / Moksha",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "South Asian traditions",
+    "summary": "Release from conditioned cycles of suffering, rebirth, and ignorance.",
+    "key_texts": [],
+    "tags": [
+      "karma",
+      "dharma",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Moksha",
+    "image": null
+  },
+  {
+    "id": "fana",
+    "label": "Annihilation / Fana",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": 800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Sufism",
+    "summary": "Sufi process of dissolving egoic identity in remembrance of the divine.",
+    "key_texts": [],
+    "tags": [
+      "ego_dissolution",
+      "love_as_path",
+      "non_duality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fana_(Sufism)",
+    "image": null
+  },
+  {
+    "id": "kenosis",
+    "label": "Self-Emptying / Kenosis",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": 100,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Christian mysticism",
+    "summary": "Letting go of self-will so divine life can unfold through the person.",
+    "key_texts": [],
+    "tags": [
+      "ego_dissolution",
+      "love_as_path",
+      "via_negativa"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenosis",
+    "image": null
+  },
+  {
+    "id": "tao",
+    "label": "The Tao",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "China",
+    "summary": "The unnameable source-pattern from which all phenomena arise and into which they return.",
+    "key_texts": [],
+    "tags": [
+      "wu_wei",
+      "non_duality",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tao",
+    "image": null
+  },
+  {
+    "id": "wu_wei",
+    "label": "Non-Action / Wu Wei",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "China",
+    "summary": "Effortless action in harmony with natural process rather than forceful control.",
+    "key_texts": [],
+    "tags": [
+      "tao",
+      "impermanence"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wu_wei",
+    "image": null
+  },
+  {
+    "id": "dharma",
+    "label": "Dharma",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "South Asian traditions",
+    "summary": "The moral, existential, and cosmic order that guides right relationship and practice.",
+    "key_texts": [],
+    "tags": [
+      "karma",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dharma",
+    "image": null
+  },
+  {
+    "id": "karma",
+    "label": "Karma",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "South Asian traditions",
+    "summary": "Intentional action and its consequences unfolding across time and character.",
+    "key_texts": [],
+    "tags": [
+      "dharma",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Karma",
+    "image": null
+  },
+  {
+    "id": "maya",
+    "label": "Maya / Illusion",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Vedantic traditions",
+    "summary": "Conditioned perception that mistakes appearances for ultimate reality.",
+    "key_texts": [],
+    "tags": [
+      "non_duality",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_(religion)",
+    "image": null
+  },
+  {
+    "id": "gnosis",
+    "label": "Gnosis",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -100,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Mediterranean mystical traditions",
+    "summary": "Direct experiential knowledge of the divine, beyond second-hand belief.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "love_as_path",
+      "via_negativa"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gnosis",
+    "image": null
+  },
+  {
+    "id": "brahman",
+    "label": "Brahman",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Vedantic traditions",
+    "summary": "Infinite, self-luminous reality understood as the ground of all beings.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "non_duality",
+      "moksha"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brahman",
+    "image": null
+  },
+  {
+    "id": "nirvana",
+    "label": "Nirvana",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Buddhist traditions",
+    "summary": "The extinguishing of craving and ignorance that brings an end to compulsive suffering.",
+    "key_texts": [],
+    "tags": [
+      "impermanence",
+      "emptiness",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nirvana_(Buddhism)",
+    "image": null
+  },
+  {
+    "id": "perennial_core",
+    "label": "The Perennial Core",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": 1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Comparative spirituality",
+    "summary": "Proposal that multiple traditions share overlapping mystical insights beneath doctrinal surface differences.",
+    "key_texts": [],
+    "tags": [
+      "non_duality",
+      "consciousness",
+      "axial_breakthrough"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+    "image": null
+  },
+  {
+    "id": "axial_breakthrough",
+    "label": "The Axial Breakthrough",
+    "type": "concept",
+    "tradition": "concept",
+    "era_start": -800,
+    "era_end": -200,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Eurasia",
+    "summary": "Parallel emergence of reflective ethics and interiority across several civilizations in the first millennium BCE.",
+    "key_texts": [],
+    "tags": [
+      "dharma",
+      "consciousness",
+      "perennial_core"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Axial_Age",
+    "image": null
+  }
+]

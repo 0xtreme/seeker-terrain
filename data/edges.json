@@ -1,0 +1,1857 @@
+[
+  {
+    "source": "advaita_vedanta",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "dvaita_vedanta",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "kashmir_shaivism",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "tantra",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "bhakti",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "theravada",
+    "target": "buddhism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "mahayana",
+    "target": "buddhism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "vajrayana",
+    "target": "buddhism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "zen",
+    "target": "buddhism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "sufism",
+    "target": "islam",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "christian_mysticism",
+    "target": "christianity",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "kabbalah",
+    "target": "judaism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "neoplatonism",
+    "target": "greek_philosophy",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "stoicism",
+    "target": "greek_philosophy",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "perennial_philosophy",
+    "target": "synthesis",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "integral",
+    "target": "synthesis",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition."
+  },
+  {
+    "source": "adi_shankaracharya",
+    "target": "advaita_vedanta",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "adi_shankaracharya",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "adi_shankaracharya",
+    "target": "brahman",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "adi_shankaracharya",
+    "target": "vivekachudamani",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "narayana_guru",
+    "target": "advaita_vedanta",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "narayana_guru",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "narayana_guru",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "ramana_maharshi",
+    "target": "advaita_vedanta",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "ramana_maharshi",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "ramana_maharshi",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "ramakrishna",
+    "target": "bhakti",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "ramakrishna",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "ramakrishna",
+    "target": "perennial_core",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "vivekananda",
+    "target": "bhakti",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "vivekananda",
+    "target": "perennial_core",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "vivekananda",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "aurobindo",
+    "target": "integral",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "aurobindo",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "aurobindo",
+    "target": "perennial_core",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "aurobindo",
+    "target": "life_divine",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "nagarjuna",
+    "target": "mahayana",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "nagarjuna",
+    "target": "emptiness",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "nagarjuna",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "bodhidharma",
+    "target": "zen",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "bodhidharma",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "bodhidharma",
+    "target": "wu_wei",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "milarepa",
+    "target": "vajrayana",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "milarepa",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "milarepa",
+    "target": "emptiness",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "buddha",
+    "target": "buddhism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "buddha",
+    "target": "impermanence",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "buddha",
+    "target": "nirvana",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "buddha",
+    "target": "dhammapada",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "rumi",
+    "target": "sufism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "rumi",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "rumi",
+    "target": "fana",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "rumi",
+    "target": "masnavi",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "ibn_arabi",
+    "target": "sufism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "ibn_arabi",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "ibn_arabi",
+    "target": "fana",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "ibn_arabi",
+    "target": "fusus_al_hikam",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "al_ghazali",
+    "target": "islam",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "al_ghazali",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "al_ghazali",
+    "target": "gnosis",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "rabi_al_adawiyya",
+    "target": "sufism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "rabi_al_adawiyya",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "rabi_al_adawiyya",
+    "target": "fana",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "meister_eckhart",
+    "target": "christian_mysticism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "meister_eckhart",
+    "target": "via_negativa",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "meister_eckhart",
+    "target": "kenosis",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "meister_eckhart",
+    "target": "eckhart_sermons",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "teresa_of_avila",
+    "target": "christian_mysticism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "teresa_of_avila",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "teresa_of_avila",
+    "target": "kenosis",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "teresa_of_avila",
+    "target": "interior_castle",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "plotinus",
+    "target": "neoplatonism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "plotinus",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "plotinus",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "plotinus",
+    "target": "enneads",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "socrates",
+    "target": "greek_philosophy",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "socrates",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "socrates",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "pythagoras",
+    "target": "greek_philosophy",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "pythagoras",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "pythagoras",
+    "target": "karma",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "laozi",
+    "target": "taoism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "laozi",
+    "target": "tao",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "laozi",
+    "target": "wu_wei",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "laozi",
+    "target": "tao_te_ching",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "zhuangzi",
+    "target": "taoism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "zhuangzi",
+    "target": "wu_wei",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "zhuangzi",
+    "target": "tao",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "mahavira",
+    "target": "jainism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "mahavira",
+    "target": "karma",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "mahavira",
+    "target": "moksha",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "guru_nanak",
+    "target": "sikhism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "guru_nanak",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "guru_nanak",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "guru_nanak",
+    "target": "guru_granth_sahib",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "kabir",
+    "target": "bhakti",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "kabir",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "kabir",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "baal_shem_tov",
+    "target": "kabbalah",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "baal_shem_tov",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "baal_shem_tov",
+    "target": "gnosis",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "maimonides",
+    "target": "judaism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "maimonides",
+    "target": "via_negativa",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "maimonides",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "maimonides",
+    "target": "guide_for_perplexed",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "krishnamurti",
+    "target": "perennial_philosophy",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "krishnamurti",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "krishnamurti",
+    "target": "impermanence",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "krishnamurti",
+    "target": "freedom_from_known",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "alan_watts",
+    "target": "perennial_philosophy",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "alan_watts",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "alan_watts",
+    "target": "tao",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "alan_watts",
+    "target": "way_of_zen",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "ken_wilber",
+    "target": "integral",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "ken_wilber",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "ken_wilber",
+    "target": "perennial_core",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "ken_wilber",
+    "target": "sex_ecology_spirituality",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "teilhard",
+    "target": "christian_mysticism",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "Primary affiliation."
+  },
+  {
+    "source": "teilhard",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "teilhard",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.82,
+    "notes": "Key concept association."
+  },
+  {
+    "source": "teilhard",
+    "target": "phenomenon_of_man",
+    "relation": "wrote",
+    "strength": 0.92,
+    "notes": "Attributed authorship or canonical association."
+  },
+  {
+    "source": "advaita_vedanta",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "advaita_vedanta",
+    "target": "brahman",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "advaita_vedanta",
+    "target": "maya",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "dvaita_vedanta",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "dvaita_vedanta",
+    "target": "moksha",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "kashmir_shaivism",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "kashmir_shaivism",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "tantra",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "tantra",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "bhakti",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "bhakti",
+    "target": "moksha",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "theravada",
+    "target": "impermanence",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "theravada",
+    "target": "nirvana",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "theravada",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "mahayana",
+    "target": "emptiness",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "mahayana",
+    "target": "impermanence",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "mahayana",
+    "target": "nirvana",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "vajrayana",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "vajrayana",
+    "target": "emptiness",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "vajrayana",
+    "target": "nirvana",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "zen",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "zen",
+    "target": "wu_wei",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "zen",
+    "target": "impermanence",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "sufism",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "sufism",
+    "target": "fana",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "sufism",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "christian_mysticism",
+    "target": "kenosis",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "christian_mysticism",
+    "target": "via_negativa",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "christian_mysticism",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "kabbalah",
+    "target": "gnosis",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "kabbalah",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "neoplatonism",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "neoplatonism",
+    "target": "via_negativa",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "neoplatonism",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "stoicism",
+    "target": "impermanence",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "stoicism",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "stoicism",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "perennial_philosophy",
+    "target": "perennial_core",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "perennial_philosophy",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "perennial_philosophy",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "integral",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "integral",
+    "target": "perennial_core",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "integral",
+    "target": "axial_breakthrough",
+    "relation": "shares_concept",
+    "strength": 0.7,
+    "notes": "School-level concept association."
+  },
+  {
+    "source": "hinduism",
+    "target": "moksha",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "hinduism",
+    "target": "karma",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "hinduism",
+    "target": "maya",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "buddhism",
+    "target": "impermanence",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "buddhism",
+    "target": "emptiness",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "buddhism",
+    "target": "nirvana",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "islam",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "islam",
+    "target": "fana",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "islam",
+    "target": "gnosis",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "christianity",
+    "target": "kenosis",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "christianity",
+    "target": "via_negativa",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "christianity",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "judaism",
+    "target": "gnosis",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "judaism",
+    "target": "via_negativa",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "taoism",
+    "target": "tao",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "taoism",
+    "target": "wu_wei",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "taoism",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "jainism",
+    "target": "karma",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "jainism",
+    "target": "moksha",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "jainism",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "sikhism",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "sikhism",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "greek_philosophy",
+    "target": "impermanence",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "greek_philosophy",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "greek_philosophy",
+    "target": "via_negativa",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "synthesis",
+    "target": "perennial_core",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "synthesis",
+    "target": "axial_breakthrough",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "synthesis",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.58,
+    "notes": "Tradition-level concept association."
+  },
+  {
+    "source": "plotinus",
+    "target": "sufism",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Neoplatonic emanationism shaped early Islamic mysticism."
+  },
+  {
+    "source": "neoplatonism",
+    "target": "christian_mysticism",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Via Pseudo-Dionysius and Augustine."
+  },
+  {
+    "source": "nagarjuna",
+    "target": "advaita_vedanta",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Madhyamaka logic influenced non-dual Vedanta debates."
+  },
+  {
+    "source": "kabir",
+    "target": "sikhism",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Kabir's Sant tradition influenced Guru Nanak."
+  },
+  {
+    "source": "rumi",
+    "target": "alan_watts",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Watts helped popularize Sufi themes in the modern West."
+  },
+  {
+    "source": "advaita_vedanta",
+    "target": "alan_watts",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Watts drew on Vedantic non-dual framing."
+  },
+  {
+    "source": "zen",
+    "target": "alan_watts",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Zen vocabulary and paradox were central to his work."
+  },
+  {
+    "source": "laozi",
+    "target": "krishnamurti",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Both emphasize freedom from compulsive becoming."
+  },
+  {
+    "source": "aurobindo",
+    "target": "teilhard",
+    "relation": "shares_concept",
+    "strength": 0.96,
+    "notes": "Both proposed evolution toward collective divine consciousness."
+  },
+  {
+    "source": "meister_eckhart",
+    "target": "non_duality",
+    "relation": "shares_concept",
+    "strength": 0.96,
+    "notes": "Eckhart's ground-language resonates with non-dual insight."
+  },
+  {
+    "source": "buddhism",
+    "target": "stoicism",
+    "relation": "shares_concept",
+    "strength": 0.96,
+    "notes": "Both map suffering to attachment and judgment."
+  },
+  {
+    "source": "adi_shankaracharya",
+    "target": "ramana_maharshi",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Ramana's language follows Advaitic framing."
+  },
+  {
+    "source": "ramakrishna",
+    "target": "vivekananda",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Direct guru-disciple transmission."
+  },
+  {
+    "source": "buddha",
+    "target": "nagarjuna",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Nagarjuna extends foundational Buddhist analysis."
+  },
+  {
+    "source": "bodhidharma",
+    "target": "zen",
+    "relation": "founded",
+    "strength": 0.9,
+    "notes": "Traditional founder of Chan/Zen lineage."
+  },
+  {
+    "source": "ibn_arabi",
+    "target": "rumi",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Shared Sufi metaphysical vocabulary."
+  },
+  {
+    "source": "al_ghazali",
+    "target": "rumi",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Ghazali helped legitimize Islamic mysticism in Sunni discourse."
+  },
+  {
+    "source": "socrates",
+    "target": "stoicism",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Stoics inherited Socratic ethical method."
+  },
+  {
+    "source": "pythagoras",
+    "target": "plotinus",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Late antique Platonism absorbed Pythagorean themes."
+  },
+  {
+    "source": "vivekananda",
+    "target": "alan_watts",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Vedanta popularization shaped comparative spirituality."
+  },
+  {
+    "source": "zhuangzi",
+    "target": "alan_watts",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Watts drew heavily on Taoist anti-grasping themes."
+  },
+  {
+    "source": "krishnamurti",
+    "target": "ken_wilber",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Wilber engages Krishnamurti in integral discourse."
+  },
+  {
+    "source": "teilhard",
+    "target": "ken_wilber",
+    "relation": "influenced",
+    "strength": 0.9,
+    "notes": "Integral theory inherits evolutionary spirituality motifs."
+  },
+  {
+    "source": "guru_nanak",
+    "target": "sikhism",
+    "relation": "founded",
+    "strength": 0.9,
+    "notes": "Founder of Sikh tradition."
+  },
+  {
+    "source": "mahavira",
+    "target": "jainism",
+    "relation": "founded",
+    "strength": 0.9,
+    "notes": "24th Tirthankara central to Jain lineage."
+  },
+  {
+    "source": "buddha",
+    "target": "buddhism",
+    "relation": "founded",
+    "strength": 0.9,
+    "notes": "Founder of Buddhism."
+  },
+  {
+    "source": "adi_shankaracharya",
+    "target": "advaita_vedanta",
+    "relation": "founded",
+    "strength": 0.9,
+    "notes": "Systematized classical Advaita."
+  },
+  {
+    "source": "plotinus",
+    "target": "neoplatonism",
+    "relation": "founded",
+    "strength": 0.9,
+    "notes": "Primary architect of Neoplatonism."
+  },
+  {
+    "source": "ken_wilber",
+    "target": "integral",
+    "relation": "founded",
+    "strength": 0.9,
+    "notes": "Principal architect of integral theory."
+  },
+  {
+    "source": "laozi",
+    "target": "taoism",
+    "relation": "founded",
+    "strength": 0.9,
+    "notes": "Canonical founder figure in Taoism."
+  },
+  {
+    "source": "zhuangzi",
+    "target": "laozi",
+    "relation": "student_of",
+    "strength": 0.9,
+    "notes": "Philosophical lineage relation in Taoist canon."
+  },
+  {
+    "source": "vivekananda",
+    "target": "ramakrishna",
+    "relation": "student_of",
+    "strength": 0.9,
+    "notes": "Direct disciple relationship."
+  },
+  {
+    "source": "alan_watts",
+    "target": "advaita_vedanta",
+    "relation": "synthesised",
+    "strength": 0.9,
+    "notes": "Watts synthesized Advaita into modern comparative language."
+  },
+  {
+    "source": "alan_watts",
+    "target": "zen",
+    "relation": "synthesised",
+    "strength": 0.9,
+    "notes": "Watts synthesized Zen ideas for Western audiences."
+  },
+  {
+    "source": "alan_watts",
+    "target": "taoism",
+    "relation": "synthesised",
+    "strength": 0.9,
+    "notes": "Watts synthesized Taoist framing in modern language."
+  },
+  {
+    "source": "krishnamurti",
+    "target": "buddhism",
+    "relation": "synthesised",
+    "strength": 0.9,
+    "notes": "Krishnamurti recast contemplative insights outside institutions."
+  },
+  {
+    "source": "krishnamurti",
+    "target": "advaita_vedanta",
+    "relation": "synthesised",
+    "strength": 0.9,
+    "notes": "He reframed non-dual inquiry without doctrinal dependence."
+  },
+  {
+    "source": "ken_wilber",
+    "target": "buddhism",
+    "relation": "synthesised",
+    "strength": 0.9,
+    "notes": "Integral theory incorporates Buddhist developmental maps."
+  },
+  {
+    "source": "ken_wilber",
+    "target": "hinduism",
+    "relation": "synthesised",
+    "strength": 0.9,
+    "notes": "Integral theory incorporates Vedantic metaphysics."
+  },
+  {
+    "source": "advaita_vedanta",
+    "target": "dvaita_vedanta",
+    "relation": "opposed",
+    "strength": 0.9,
+    "notes": "Major metaphysical disagreement on self and God."
+  },
+  {
+    "source": "theravada",
+    "target": "vajrayana",
+    "relation": "opposed",
+    "strength": 0.9,
+    "notes": "Distinct methods and doctrinal emphases inside Buddhism."
+  },
+  {
+    "source": "adi_shankaracharya",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "narayana_guru",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "ramana_maharshi",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "ramakrishna",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "vivekananda",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "aurobindo",
+    "target": "synthesis",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "nagarjuna",
+    "target": "buddhism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "bodhidharma",
+    "target": "buddhism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "milarepa",
+    "target": "buddhism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "rumi",
+    "target": "islam",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "ibn_arabi",
+    "target": "islam",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "rabi_al_adawiyya",
+    "target": "islam",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "meister_eckhart",
+    "target": "christianity",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "teresa_of_avila",
+    "target": "christianity",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "plotinus",
+    "target": "greek_philosophy",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "kabir",
+    "target": "hinduism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "baal_shem_tov",
+    "target": "judaism",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "krishnamurti",
+    "target": "synthesis",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "alan_watts",
+    "target": "synthesis",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "ken_wilber",
+    "target": "synthesis",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "teilhard",
+    "target": "christianity",
+    "relation": "belongs_to",
+    "strength": 0.55,
+    "notes": "Secondary tradition affiliation."
+  },
+  {
+    "source": "hinduism",
+    "target": "principal_upanishads",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "hinduism",
+    "target": "brahma_sutras",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "hinduism",
+    "target": "bhagavad_gita",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "buddhism",
+    "target": "dhammapada",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "buddhism",
+    "target": "heart_sutra",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "islam",
+    "target": "quran",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "christianity",
+    "target": "bible",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "judaism",
+    "target": "zohar",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "taoism",
+    "target": "tao_te_ching",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "sikhism",
+    "target": "guru_granth_sahib",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "zoroastrianism",
+    "target": "avesta",
+    "relation": "wrote",
+    "strength": 0.45,
+    "notes": "Tradition canonical text connection."
+  }
+]

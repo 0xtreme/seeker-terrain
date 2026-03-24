@@ -1,0 +1,80 @@
+#map-canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.map-controls {
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: rgba(19, 19, 28, 0.86);
+  backdrop-filter: blur(8px);
+  z-index: 410;
+}
+
+.map-controls label {
+  display: grid;
+  gap: 4px;
+  color: var(--text-2);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  font-family: var(--font-mono);
+}
+
+#map-year {
+  width: clamp(160px, 28vw, 320px);
+}
+
+.map-year-label {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  min-width: 64px;
+}
+
+.leaflet-container {
+  background: #09090f;
+}
+
+.map-dot {
+  background: transparent;
+  border: none;
+}
+
+.leaflet-tooltip.map-label {
+  background: rgba(19, 19, 28, 0.93);
+  color: var(--text-1);
+  border: 1px solid var(--border);
+  box-shadow: none;
+}
+
+.map-spread-line {
+  animation: spreadPulse 2.6s linear infinite;
+}
+
+@keyframes spreadPulse {
+  0% {
+    stroke-dashoffset: 20;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+@media (max-width: 800px) {
+  .map-controls {
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    flex-wrap: wrap;
+  }
+
+  #map-year {
+    width: 100%;
+  }
+}

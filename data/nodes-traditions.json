@@ -1,0 +1,286 @@
+[
+  {
+    "id": "hinduism",
+    "label": "Hinduism",
+    "type": "tradition",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": 20.5937,
+    "origin_lng": 78.9629,
+    "origin_place": "Indian subcontinent",
+    "summary": "A diverse family of South Asian spiritual traditions centered on dharma, karma, liberation, and multiple contemplative paths including devotion, knowledge, and disciplined practice.",
+    "key_texts": [
+      "Vedas",
+      "Upanishads",
+      "Bhagavad Gita"
+    ],
+    "tags": [
+      "dharma",
+      "karma",
+      "moksha",
+      "maya",
+      "brahman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hinduism",
+    "image": null
+  },
+  {
+    "id": "buddhism",
+    "label": "Buddhism",
+    "type": "tradition",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": 27.7172,
+    "origin_lng": 85.324,
+    "origin_place": "Nepal / North India",
+    "summary": "A contemplative tradition founded on understanding suffering, impermanence, and non-self through ethical life, meditation, and insight into the nature of mind.",
+    "key_texts": [
+      "Pali Canon",
+      "Dhammapada",
+      "Heart Sutra"
+    ],
+    "tags": [
+      "impermanence",
+      "emptiness",
+      "nirvana",
+      "dharma",
+      "karma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Buddhism",
+    "image": null
+  },
+  {
+    "id": "islam",
+    "label": "Islam",
+    "type": "tradition",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": 21.4225,
+    "origin_lng": 39.8262,
+    "origin_place": "Mecca / Arabian Peninsula",
+    "summary": "A monotheistic tradition rooted in revelation to Prophet Muhammad, with a rich intellectual history spanning law, theology, philosophy, and mystical practice.",
+    "key_texts": [
+      "Quran",
+      "Hadith"
+    ],
+    "tags": [
+      "love_as_path",
+      "fana",
+      "gnosis",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Islam",
+    "image": null
+  },
+  {
+    "id": "christianity",
+    "label": "Christianity",
+    "type": "tradition",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": 31.7683,
+    "origin_lng": 35.2137,
+    "origin_place": "Levant / Mediterranean",
+    "summary": "A global tradition centered on the life and teachings of Jesus, with streams of contemplative theology, mysticism, and philosophical reflection.",
+    "key_texts": [
+      "Bible",
+      "Desert Fathers writings"
+    ],
+    "tags": [
+      "kenosis",
+      "via_negativa",
+      "love_as_path",
+      "gnosis"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christianity",
+    "image": null
+  },
+  {
+    "id": "judaism",
+    "label": "Judaism",
+    "type": "tradition",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": 31.7683,
+    "origin_lng": 35.2137,
+    "origin_place": "Levant",
+    "summary": "An ancient covenantal tradition with deep scriptural, legal, and mystical lineages, including philosophical and contemplative schools.",
+    "key_texts": [
+      "Tanakh",
+      "Talmud",
+      "Zohar"
+    ],
+    "tags": [
+      "gnosis",
+      "via_negativa",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Judaism",
+    "image": null
+  },
+  {
+    "id": "taoism",
+    "label": "Taoism",
+    "type": "tradition",
+    "tradition": "taoism",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": 34.3416,
+    "origin_lng": 108.9398,
+    "origin_place": "China",
+    "summary": "A Chinese philosophical and spiritual tradition emphasizing alignment with the Tao through simplicity, naturalness, and effortless action.",
+    "key_texts": [
+      "Tao Te Ching",
+      "Zhuangzi"
+    ],
+    "tags": [
+      "tao",
+      "wu_wei",
+      "non_duality",
+      "impermanence"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Taoism",
+    "image": null
+  },
+  {
+    "id": "jainism",
+    "label": "Jainism",
+    "type": "tradition",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": 25.5941,
+    "origin_lng": 85.1376,
+    "origin_place": "Bihar, India",
+    "summary": "An Indian shramana tradition focused on nonviolence, disciplined ethics, and liberation from karmic conditioning through rigorous self-transformation.",
+    "key_texts": [
+      "Agamas",
+      "Tattvartha Sutra"
+    ],
+    "tags": [
+      "karma",
+      "moksha",
+      "dharma",
+      "ego_dissolution"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jainism",
+    "image": null
+  },
+  {
+    "id": "sikhism",
+    "label": "Sikhism",
+    "type": "tradition",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": 31.1471,
+    "origin_lng": 75.3412,
+    "origin_place": "Punjab, India",
+    "summary": "A monotheistic tradition founded by Guru Nanak that integrates devotion, social equality, disciplined practice, and remembrance of the divine.",
+    "key_texts": [
+      "Guru Granth Sahib"
+    ],
+    "tags": [
+      "love_as_path",
+      "non_duality",
+      "dharma",
+      "karma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sikhism",
+    "image": null
+  },
+  {
+    "id": "zoroastrianism",
+    "label": "Zoroastrianism",
+    "type": "tradition",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": 29.5918,
+    "origin_lng": 52.5837,
+    "origin_place": "Ancient Persia",
+    "summary": "One of the world’s oldest monotheistic traditions, emphasizing ethical responsibility, truth, and the moral struggle between constructive and destructive forces.",
+    "key_texts": [
+      "Avesta"
+    ],
+    "tags": [
+      "dharma",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zoroastrianism",
+    "image": null
+  },
+  {
+    "id": "greek_philosophy",
+    "label": "Greek Philosophy",
+    "type": "tradition",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
+    "era_end": 500,
+    "origin_lat": 37.9838,
+    "origin_lng": 23.7275,
+    "origin_place": "Greece / Mediterranean",
+    "summary": "A foundational philosophical tradition exploring ethics, metaphysics, consciousness, and the good life, deeply shaping later religious and mystical thought.",
+    "key_texts": [
+      "Dialogues",
+      "Enneads",
+      "Meditations"
+    ],
+    "tags": [
+      "impermanence",
+      "consciousness",
+      "dharma",
+      "via_negativa"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Greek_philosophy",
+    "image": null
+  },
+  {
+    "id": "indigenous",
+    "label": "Indigenous / Shamanic",
+    "type": "tradition",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Global / multiple origins",
+    "summary": "Diverse first-nations spiritual lineages rooted in land, kinship, ritual, and relational cosmology across many continents and cultures.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "love_as_path",
+      "dharma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shamanism",
+    "image": null
+  },
+  {
+    "id": "synthesis",
+    "label": "Synthesis",
+    "type": "tradition",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": 51.5072,
+    "origin_lng": -0.1276,
+    "origin_place": "Modern global",
+    "summary": "Modern integrative streams that compare, synthesize, and translate insights across multiple traditions without collapsing their differences.",
+    "key_texts": [
+      "The Perennial Philosophy",
+      "The Life Divine"
+    ],
+    "tags": [
+      "perennial_core",
+      "axial_breakthrough",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+    "image": null
+  }
+]
