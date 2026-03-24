@@ -11,7 +11,7 @@
   position: absolute;
   top: 14px;
   right: 14px;
-  width: min(380px, calc(100vw - 28px));
+  width: min(380px, calc(100vw - 20px));
   display: grid;
   gap: 10px;
   z-index: 30;
@@ -55,6 +55,9 @@
 
 .graph-actions {
   justify-self: end;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
 }
 
 .graph-legend {
@@ -63,6 +66,8 @@
   background: rgba(19, 19, 28, 0.88);
   backdrop-filter: blur(8px);
   padding: 10px;
+  max-height: min(56vh, 520px);
+  overflow: auto;
 }
 
 .graph-legend h3 {

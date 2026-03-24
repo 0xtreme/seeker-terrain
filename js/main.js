@@ -71,6 +71,8 @@ const elements = {
   conceptGrid: document.getElementById("concept-grid"),
 
   graphReset: document.getElementById("graph-reset"),
+  graphLegend: document.getElementById("graph-legend"),
+  graphLegendToggle: document.getElementById("graph-legend-toggle"),
   legendTraditions: document.getElementById("legend-traditions"),
   searchFocusBanner: document.getElementById("search-focus-banner"),
   searchFocusLabel: document.getElementById("search-focus-label"),
@@ -97,6 +99,11 @@ function setDrawerOpen(open) {
 
 function setDetailOpen(open) {
   elements.detailPanel.dataset.open = String(open);
+}
+
+function setGraphLegendOpen(open) {
+  elements.graphLegend.hidden = !open;
+  elements.graphLegendToggle.textContent = open ? "Hide Legend" : "Legend";
 }
 
 function isPrimaryTradition(node) {
@@ -700,6 +707,10 @@ function bindEvents() {
     views.graph.resetView({ reheat: true });
   });
 
+  elements.graphLegendToggle.addEventListener("click", () => {
+    setGraphLegendOpen(elements.graphLegend.hidden);
+  });
+
   document.addEventListener("keydown", (event) => {
     const target = event.target;
     const isTypingTarget =
@@ -717,6 +728,10 @@ function bindEvents() {
     if (key === "r" || key === "0") {
       event.preventDefault();
       views.graph.resetView({ reheat: true });
+    }
+    if (key === "l") {
+      event.preventDefault();
+      setGraphLegendOpen(elements.graphLegend.hidden);
     }
   });
 
@@ -771,6 +786,7 @@ async function bootstrap() {
   initViews();
   populateFilterControls(state.data);
   populateGraphLegend(state.data);
+  setGraphLegendOpen(false);
   bindEvents();
   applyAll();
 }
