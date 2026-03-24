@@ -1853,5 +1853,356 @@
     "relation": "wrote",
     "strength": 0.45,
     "notes": "Tradition canonical text connection."
+  },
+  {
+    "source": "siberian_shamanism",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "siberian_shamanism",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "siberian_shamanism",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "slavic_folk_spirituality",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "slavic_folk_spirituality",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "slavic_folk_spirituality",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "yoruba_ifa",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "yoruba_ifa",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "yoruba_ifa",
+    "target": "karma",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "akan_spirituality",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "akan_spirituality",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "akan_spirituality",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "san_spirituality",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "san_spirituality",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "san_spirituality",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "andean_cosmovision",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "andean_cosmovision",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "andean_cosmovision",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "amazonian_shamanism",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "amazonian_shamanism",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "amazonian_shamanism",
+    "target": "ego_dissolution",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "guarani_spirituality",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "guarani_spirituality",
+    "target": "dharma",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "guarani_spirituality",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "candomble",
+    "target": "indigenous",
+    "relation": "belongs_to",
+    "strength": 1,
+    "notes": "School belongs to tradition.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual geo-coverage extension for underrepresented regions."
+      }
+    ]
+  },
+  {
+    "source": "candomble",
+    "target": "love_as_path",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
+  },
+  {
+    "source": "candomble",
+    "target": "consciousness",
+    "relation": "shares_concept",
+    "strength": 0.67,
+    "notes": "Regional conceptual alignment for map coverage and comparison.",
+    "sources": [
+      {
+        "title": "Spiritus data curation",
+        "note": "Manual concept mapping based on baseline references in node sources."
+      }
+    ]
   }
 ]

@@ -17,7 +17,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Upanishads",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Principal Upanishads",
+        "url": "https://en.wikipedia.org/wiki/Upanishads",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "brahma_sutras",
@@ -36,7 +43,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Brahma_Sutras",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Brahma Sutras",
+        "url": "https://en.wikipedia.org/wiki/Brahma_Sutras",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "bhagavad_gita",
@@ -56,7 +70,14 @@
       "karma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhagavad Gita",
+        "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "dhammapada",
@@ -76,7 +97,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Dhammapada",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Dhammapada",
+        "url": "https://en.wikipedia.org/wiki/Dhammapada",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "heart_sutra",
@@ -95,7 +123,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Heart_Sutra",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Heart Sutra",
+        "url": "https://en.wikipedia.org/wiki/Heart_Sutra",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "tao_te_ching",
@@ -114,7 +149,14 @@
       "wu_wei"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Tao_Te_Ching",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Tao Te Ching",
+        "url": "https://en.wikipedia.org/wiki/Tao_Te_Ching",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "quran",
@@ -133,7 +175,14 @@
       "love_as_path"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Quran",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Quran",
+        "url": "https://en.wikipedia.org/wiki/Quran",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "bible",
@@ -152,7 +201,14 @@
       "kenosis"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Bible",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bible",
+        "url": "https://en.wikipedia.org/wiki/Bible",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "zohar",
@@ -171,7 +227,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Zohar",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Zohar",
+        "url": "https://en.wikipedia.org/wiki/Zohar",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "enneads",
@@ -190,7 +253,14 @@
       "via_negativa"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Enneads",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Enneads",
+        "url": "https://en.wikipedia.org/wiki/Enneads",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "meditations",
@@ -209,7 +279,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Meditations",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Meditations",
+        "url": "https://en.wikipedia.org/wiki/Meditations",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "guru_granth_sahib",
@@ -228,7 +305,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guru Granth Sahib",
+        "url": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "avesta",
@@ -246,7 +330,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Avesta",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Avesta",
+        "url": "https://en.wikipedia.org/wiki/Avesta",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "vivekachudamani",
@@ -265,7 +356,14 @@
       "brahman"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Vivekachudamani",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Vivekachudamani",
+        "url": "https://en.wikipedia.org/wiki/Vivekachudamani",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "masnavi",
@@ -284,7 +382,14 @@
       "fana"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Masnavi",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Masnavi",
+        "url": "https://en.wikipedia.org/wiki/Masnavi",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "fusus_al_hikam",
@@ -304,7 +409,14 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Fusus_al-Hikam",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Fusus al-Hikam",
+        "url": "https://en.wikipedia.org/wiki/Fusus_al-Hikam",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "interior_castle",
@@ -324,7 +436,14 @@
       "love_as_path"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/The_Interior_Castle",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Interior Castle",
+        "url": "https://en.wikipedia.org/wiki/The_Interior_Castle",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "eckhart_sermons",
@@ -344,7 +463,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Meister_Eckhart",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Sermons and Treatises",
+        "url": "https://en.wikipedia.org/wiki/Meister_Eckhart",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "guide_for_perplexed",
@@ -364,7 +490,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/The_Guide_for_the_Perplexed",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guide for the Perplexed",
+        "url": "https://en.wikipedia.org/wiki/The_Guide_for_the_Perplexed",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "life_divine",
@@ -384,7 +517,14 @@
       "axial_breakthrough"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/The_Life_Divine",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: The Life Divine",
+        "url": "https://en.wikipedia.org/wiki/The_Life_Divine",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "sex_ecology_spirituality",
@@ -403,7 +543,14 @@
       "perennial_core"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Sex,_Ecology,_Spirituality",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Sex, Ecology, Spirituality",
+        "url": "https://en.wikipedia.org/wiki/Sex,_Ecology,_Spirituality",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "phenomenon_of_man",
@@ -422,7 +569,14 @@
       "perennial_core"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/The_Phenomenon_of_Man",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: The Phenomenon of Man",
+        "url": "https://en.wikipedia.org/wiki/The_Phenomenon_of_Man",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "way_of_zen",
@@ -442,7 +596,14 @@
       "tao"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/The_Way_of_Zen",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: The Way of Zen",
+        "url": "https://en.wikipedia.org/wiki/The_Way_of_Zen",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "freedom_from_known",
@@ -462,6 +623,13 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti_bibliography",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: The First and Last Freedom",
+        "url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti_bibliography",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   }
 ]

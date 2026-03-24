@@ -22,7 +22,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Advaita_Vedanta",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Advaita Vedanta",
+        "url": "https://en.wikipedia.org/wiki/Advaita_Vedanta",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "dvaita_vedanta",
@@ -43,7 +50,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Dvaita_Vedanta",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Dvaita Vedanta",
+        "url": "https://en.wikipedia.org/wiki/Dvaita_Vedanta",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "kashmir_shaivism",
@@ -66,7 +80,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Kashmir Shaivism",
+        "url": "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "tantra",
@@ -88,7 +109,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Tantra",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Tantra",
+        "url": "https://en.wikipedia.org/wiki/Tantra",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "bhakti",
@@ -111,7 +139,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Bhakti_movement",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhakti Movement",
+        "url": "https://en.wikipedia.org/wiki/Bhakti_movement",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "theravada",
@@ -134,7 +169,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Theravada",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Theravada",
+        "url": "https://en.wikipedia.org/wiki/Theravada",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "mahayana",
@@ -158,7 +200,14 @@
       "love_as_path"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Mahayana",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Mahayana",
+        "url": "https://en.wikipedia.org/wiki/Mahayana",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "vajrayana",
@@ -180,7 +229,14 @@
       "nirvana"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Vajrayana",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Vajrayana / Tibetan",
+        "url": "https://en.wikipedia.org/wiki/Vajrayana",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "zen",
@@ -203,7 +259,14 @@
       "ego_dissolution"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Zen",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Zen",
+        "url": "https://en.wikipedia.org/wiki/Zen",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "sufism",
@@ -227,7 +290,14 @@
       "ego_dissolution"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Sufism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Sufism",
+        "url": "https://en.wikipedia.org/wiki/Sufism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "christian_mysticism",
@@ -251,7 +321,14 @@
       "gnosis"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Christian_mysticism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Christian Mysticism",
+        "url": "https://en.wikipedia.org/wiki/Christian_mysticism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "kabbalah",
@@ -273,7 +350,14 @@
       "love_as_path"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Kabbalah",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Kabbalah",
+        "url": "https://en.wikipedia.org/wiki/Kabbalah",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "neoplatonism",
@@ -295,7 +379,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Neoplatonism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Neoplatonism",
+        "url": "https://en.wikipedia.org/wiki/Neoplatonism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "stoicism",
@@ -318,7 +409,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Stoicism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Stoicism",
+        "url": "https://en.wikipedia.org/wiki/Stoicism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "perennial_philosophy",
@@ -340,7 +438,14 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Perennial_philosophy",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Perennial Philosophy",
+        "url": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "integral",
@@ -363,6 +468,257 @@
       "axial_breakthrough"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Integral Philosophy",
+        "url": "https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
+  },
+  {
+    "id": "siberian_shamanism",
+    "label": "Siberian Shamanism",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": 61.524,
+    "origin_lng": 105.3188,
+    "origin_place": "Siberia, Russia",
+    "summary": "A family of Siberian indigenous ritual practices involving spirit mediation, healing, and cosmological journey traditions.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "dharma",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Siberian_shamanism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Siberian shamanism",
+        "url": "https://en.wikipedia.org/wiki/Siberian_shamanism",
+        "note": "Regional baseline reference."
+      }
+    ]
+  },
+  {
+    "id": "slavic_folk_spirituality",
+    "label": "Slavic Folk Spirituality",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": 55.7558,
+    "origin_lng": 37.6173,
+    "origin_place": "Eastern Europe / Russia",
+    "summary": "A set of pre-Christian and folk spiritual practices in Slavic regions emphasizing seasonal ritual, ancestors, and sacred landscape.",
+    "key_texts": [],
+    "tags": [
+      "dharma",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Slavic_Native_Faith",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Slavic Native Faith",
+        "url": "https://en.wikipedia.org/wiki/Slavic_Native_Faith",
+        "note": "Regional baseline reference."
+      }
+    ]
+  },
+  {
+    "id": "yoruba_ifa",
+    "label": "Yoruba Ifa Tradition",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": -400,
+    "era_end": null,
+    "origin_lat": 7.4904,
+    "origin_lng": 4.5521,
+    "origin_place": "Nigeria, West Africa",
+    "summary": "A Yoruba knowledge and divination tradition centered on Ifa corpus, ethics, and relational cosmology between humans and orisa.",
+    "key_texts": [
+      "Odu Ifa"
+    ],
+    "tags": [
+      "dharma",
+      "consciousness",
+      "karma"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/If%C3%A1",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ifa",
+        "url": "https://en.wikipedia.org/wiki/If%C3%A1",
+        "note": "Regional baseline reference."
+      }
+    ]
+  },
+  {
+    "id": "akan_spirituality",
+    "label": "Akan Spirituality",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": -300,
+    "era_end": null,
+    "origin_lat": 5.6037,
+    "origin_lng": -0.187,
+    "origin_place": "Ghana, West Africa",
+    "summary": "Akan religious worldview emphasizing creator, ancestral continuity, and ethical life embedded in community and land.",
+    "key_texts": [],
+    "tags": [
+      "dharma",
+      "love_as_path",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Akan_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Akan religion",
+        "url": "https://en.wikipedia.org/wiki/Akan_religion",
+        "note": "Regional baseline reference."
+      }
+    ]
+  },
+  {
+    "id": "san_spirituality",
+    "label": "San Spirituality",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": -2000,
+    "era_end": null,
+    "origin_lat": -24.6545,
+    "origin_lng": 25.9089,
+    "origin_place": "Southern Africa",
+    "summary": "Spiritual traditions of San peoples involving trance healing, dance, and relationships with animate environment.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "dharma",
+      "ego_dissolution"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/San_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: San religion",
+        "url": "https://en.wikipedia.org/wiki/San_religion",
+        "note": "Regional baseline reference."
+      }
+    ]
+  },
+  {
+    "id": "andean_cosmovision",
+    "label": "Andean Cosmovision",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": -13.5319,
+    "origin_lng": -71.9675,
+    "origin_place": "Peru / Bolivia, South America",
+    "summary": "Andean indigenous cosmology focused on reciprocity, sacred geography, and relational balance between community and nature.",
+    "key_texts": [],
+    "tags": [
+      "dharma",
+      "consciousness",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andean_cosmovision",
+    "image": null,
+    "sources": [
+      {
+        "title": "UNESCO Intangible Heritage references for Andean ritual traditions",
+        "url": "https://ich.unesco.org/",
+        "note": "Regional baseline reference; specific country entries should be expanded next."
+      }
+    ]
+  },
+  {
+    "id": "amazonian_shamanism",
+    "label": "Amazonian Shamanic Traditions",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": -3.4653,
+    "origin_lng": -62.2159,
+    "origin_place": "Amazon Basin, South America",
+    "summary": "Diverse Amazonian healing and cosmological practices linking plants, ritual specialists, and non-human agencies.",
+    "key_texts": [],
+    "tags": [
+      "consciousness",
+      "ego_dissolution",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amazonian_shamanism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Amazonian shamanism",
+        "url": "https://en.wikipedia.org/wiki/Amazonian_shamanism",
+        "note": "Regional baseline reference."
+      }
+    ]
+  },
+  {
+    "id": "guarani_spirituality",
+    "label": "Guarani Spiritual Traditions",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": -25.2637,
+    "origin_lng": -57.5759,
+    "origin_place": "Paraguay / Brazil, South America",
+    "summary": "Guarani ritual and cosmological traditions emphasizing sacred speech, community, and harmony with ecological world.",
+    "key_texts": [],
+    "tags": [
+      "dharma",
+      "consciousness",
+      "love_as_path"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guarani_people",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guarani people",
+        "url": "https://en.wikipedia.org/wiki/Guarani_people",
+        "note": "Regional baseline reference."
+      }
+    ]
+  },
+  {
+    "id": "candomble",
+    "label": "Candomble",
+    "type": "school",
+    "tradition": "indigenous",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": -12.9777,
+    "origin_lng": -38.5016,
+    "origin_place": "Brazil, South America",
+    "summary": "Afro-Brazilian religious tradition integrating West African ritual lineages with Brazilian cultural history.",
+    "key_texts": [],
+    "tags": [
+      "love_as_path",
+      "dharma",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Candombl%C3%A9",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Candomble",
+        "url": "https://en.wikipedia.org/wiki/Candombl%C3%A9",
+        "note": "Regional baseline reference."
+      }
+    ]
   }
 ]

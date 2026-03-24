@@ -221,7 +221,7 @@ export function createGraphView({ container, tooltipEl, onNodeSelect }) {
           })
           .on("mouseleave", hideTooltip)
           .on("click", function onClick(_event, node) {
-            onNodeSelect(node.id);
+            onNodeSelect(node.id, { sourceView: "graph", skipFocus: true });
           });
 
         return group;
@@ -253,8 +253,8 @@ export function createGraphView({ container, tooltipEl, onNodeSelect }) {
         })
         .on("end", (event) => {
           if (!event.active) simulation.alphaTarget(0);
-          event.subject.fx = null;
-          event.subject.fy = null;
+          event.subject.fx = event.subject.x;
+          event.subject.fy = event.subject.y;
         })
     );
 
@@ -301,6 +301,17 @@ export function createGraphView({ container, tooltipEl, onNodeSelect }) {
     applyVisibilityStyles();
   }
 
+  function resetView({ reheat = true } = {}) {
+    svg.transition().duration(380).call(zoomBehavior.transform, d3.zoomIdentity);
+    if (reheat) {
+      simulation.nodes().forEach((node) => {
+        node.fx = null;
+        node.fy = null;
+      });
+      simulation.alpha(0.9).restart();
+    }
+  }
+
   window.addEventListener("resize", resize);
 
   return {
@@ -308,6 +319,7 @@ export function createGraphView({ container, tooltipEl, onNodeSelect }) {
     focusNode,
     highlight,
     setFocusTradition,
+    resetView,
     clearHighlight: () => highlight(null),
     onActivate: () => {
       resize();

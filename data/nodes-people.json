@@ -21,7 +21,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Adi_Shankara",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adi Shankaracharya",
+        "url": "https://en.wikipedia.org/wiki/Adi_Shankara",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "narayana_guru",
@@ -43,7 +50,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Narayana_Guru",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Sree Narayana Guru",
+        "url": "https://en.wikipedia.org/wiki/Narayana_Guru",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "ramana_maharshi",
@@ -66,7 +80,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Ramana_Maharshi",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ramana Maharshi",
+        "url": "https://en.wikipedia.org/wiki/Ramana_Maharshi",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "ramakrishna",
@@ -88,7 +109,14 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Ramakrishna",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ramakrishna",
+        "url": "https://en.wikipedia.org/wiki/Ramakrishna",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "vivekananda",
@@ -111,7 +139,14 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Swami Vivekananda",
+        "url": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "aurobindo",
@@ -133,7 +168,14 @@
       "axial_breakthrough"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Sri_Aurobindo",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Sri Aurobindo",
+        "url": "https://en.wikipedia.org/wiki/Sri_Aurobindo",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "nagarjuna",
@@ -155,7 +197,14 @@
       "impermanence"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Nagarjuna",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Nagarjuna",
+        "url": "https://en.wikipedia.org/wiki/Nagarjuna",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "bodhidharma",
@@ -177,7 +226,14 @@
       "impermanence"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Bodhidharma",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bodhidharma",
+        "url": "https://en.wikipedia.org/wiki/Bodhidharma",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "milarepa",
@@ -199,7 +255,14 @@
       "nirvana"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Milarepa",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Milarepa",
+        "url": "https://en.wikipedia.org/wiki/Milarepa",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "buddha",
@@ -223,7 +286,14 @@
       "karma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Gautama_Buddha",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Siddhartha Gautama",
+        "url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "rumi",
@@ -245,7 +315,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Rumi",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Rumi",
+        "url": "https://en.wikipedia.org/wiki/Rumi",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "ibn_arabi",
@@ -268,7 +345,14 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Arabi",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ibn Arabi",
+        "url": "https://en.wikipedia.org/wiki/Ibn_Arabi",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "al_ghazali",
@@ -290,7 +374,14 @@
       "love_as_path"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Al-Ghazali",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Al-Ghazali",
+        "url": "https://en.wikipedia.org/wiki/Al-Ghazali",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "rabi_al_adawiyya",
@@ -311,7 +402,14 @@
       "fana"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Rabia_Basri",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Rabi'a al-Adawiyya",
+        "url": "https://en.wikipedia.org/wiki/Rabia_Basri",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "meister_eckhart",
@@ -333,7 +431,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Meister_Eckhart",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Meister Eckhart",
+        "url": "https://en.wikipedia.org/wiki/Meister_Eckhart",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "teresa_of_avila",
@@ -355,7 +460,14 @@
       "gnosis"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Teresa of Avila",
+        "url": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "plotinus",
@@ -377,7 +489,14 @@
       "via_negativa"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Plotinus",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Plotinus",
+        "url": "https://en.wikipedia.org/wiki/Plotinus",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "socrates",
@@ -398,7 +517,14 @@
       "ego_dissolution"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Socrates",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Socrates",
+        "url": "https://en.wikipedia.org/wiki/Socrates",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "pythagoras",
@@ -419,7 +545,14 @@
       "karma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Pythagoras",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Pythagoras",
+        "url": "https://en.wikipedia.org/wiki/Pythagoras",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "laozi",
@@ -441,7 +574,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Laozi",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Laozi",
+        "url": "https://en.wikipedia.org/wiki/Laozi",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "zhuangzi",
@@ -463,7 +603,14 @@
       "impermanence"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Zhuangzi",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Zhuangzi",
+        "url": "https://en.wikipedia.org/wiki/Zhuangzi",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "mahavira",
@@ -485,7 +632,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Mahavira",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Mahavira",
+        "url": "https://en.wikipedia.org/wiki/Mahavira",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "guru_nanak",
@@ -507,7 +661,14 @@
       "perennial_core"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Guru_Nanak",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guru Nanak",
+        "url": "https://en.wikipedia.org/wiki/Guru_Nanak",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "kabir",
@@ -529,7 +690,14 @@
       "perennial_core"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Kabir",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Kabir",
+        "url": "https://en.wikipedia.org/wiki/Kabir",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "baal_shem_tov",
@@ -551,7 +719,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Baal_Shem_Tov",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Baal Shem Tov",
+        "url": "https://en.wikipedia.org/wiki/Baal_Shem_Tov",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "maimonides",
@@ -573,7 +748,14 @@
       "gnosis"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Maimonides",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Maimonides",
+        "url": "https://en.wikipedia.org/wiki/Maimonides",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "krishnamurti",
@@ -595,7 +777,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: J. Krishnamurti",
+        "url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "alan_watts",
@@ -618,7 +807,14 @@
       "perennial_core"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Alan_Watts",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alan Watts",
+        "url": "https://en.wikipedia.org/wiki/Alan_Watts",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "ken_wilber",
@@ -640,7 +836,14 @@
       "axial_breakthrough"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Ken_Wilber",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ken Wilber",
+        "url": "https://en.wikipedia.org/wiki/Ken_Wilber",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "teilhard",
@@ -662,6 +865,13 @@
       "perennial_core"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Teilhard de Chardin",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   }
 ]

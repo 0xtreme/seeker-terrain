@@ -29,9 +29,11 @@ const state = {
   },
   timeline: {
     showAxial: true,
-    showInfluence: false
+    showInfluence: false,
+    zoom: 1.8
   },
-  selectedNodeId: null
+  selectedNodeId: null,
+  searchFocusNodeId: null
 };
 
 const views = {};
@@ -61,10 +63,18 @@ const elements = {
 
   axialToggle: document.getElementById("axial-toggle"),
   influenceToggle: document.getElementById("influence-toggle"),
+  timelineZoom: document.getElementById("timeline-zoom"),
+  timelineZoomLabel: document.getElementById("timeline-zoom-label"),
 
   conceptSelect: document.getElementById("concept-select"),
   conceptCloud: document.getElementById("concept-cloud"),
   conceptGrid: document.getElementById("concept-grid"),
+
+  graphReset: document.getElementById("graph-reset"),
+  legendTraditions: document.getElementById("legend-traditions"),
+  searchFocusBanner: document.getElementById("search-focus-banner"),
+  searchFocusLabel: document.getElementById("search-focus-label"),
+  searchFocusClear: document.getElementById("search-focus-clear"),
 
   detailPanel: document.getElementById("detail-panel"),
   detailAccent: document.getElementById("detail-accent"),
@@ -77,6 +87,7 @@ const elements = {
   detailTags: document.getElementById("detail-tags"),
   detailConnections: document.getElementById("detail-connections"),
   detailTexts: document.getElementById("detail-texts"),
+  detailSources: document.getElementById("detail-sources"),
   detailWikipedia: document.getElementById("detail-wikipedia")
 };
 
@@ -126,6 +137,30 @@ function computeFilteredData() {
     return true;
   });
 
+  if (state.searchFocusNodeId && data.nodeById.has(state.searchFocusNodeId)) {
+    const focusId = state.searchFocusNodeId;
+    const focusIds = new Set([focusId]);
+
+    data.edges.forEach((edge) => {
+      if (edge.source === focusId) {
+        focusIds.add(edge.target);
+      }
+      if (edge.target === focusId) {
+        focusIds.add(edge.source);
+      }
+    });
+
+    const byId = new Map(filteredNodes.map((node) => [node.id, node]));
+    focusIds.forEach((id) => {
+      if (!byId.has(id) && data.nodeById.has(id)) {
+        byId.set(id, data.nodeById.get(id));
+      }
+    });
+
+    filteredNodes.length = 0;
+    filteredNodes.push(...Array.from(byId.values()).filter((node) => focusIds.has(node.id)));
+  }
+
   const idSet = new Set(filteredNodes.map((node) => node.id));
 
   const filteredEdges = data.edges.filter((edge) => idSet.has(edge.source) && idSet.has(edge.target));
@@ -142,10 +177,53 @@ function updateMapYearLabel() {
   elements.mapYearLabel.textContent = formatYear(Number(elements.mapYear.value));
 }
 
+function updateTimelineZoomLabel() {
+  elements.timelineZoomLabel.textContent = `x${Number(state.timeline.zoom).toFixed(1)}`;
+}
+
 function updateEraLabel() {
   elements.eraRangeLabel.textContent = `${formatYear(state.filters.eraStart)} to ${formatYear(
     state.filters.eraEnd
   )}`;
+}
+
+function updateSearchFocusBanner() {
+  if (!state.searchFocusNodeId || !state.data?.nodeById.has(state.searchFocusNodeId)) {
+    elements.searchFocusBanner.hidden = true;
+    elements.searchFocusLabel.textContent = "";
+    return;
+  }
+
+  elements.searchFocusBanner.hidden = false;
+  elements.searchFocusLabel.textContent = state.data.nodeById.get(state.searchFocusNodeId).label;
+}
+
+function populateGraphLegend(data) {
+  elements.legendTraditions.innerHTML = "";
+
+  const entries = [
+    ...data.traditions.slice().sort((a, b) => a.label.localeCompare(b.label)).map((tradition) => ({
+      id: tradition.id,
+      label: tradition.label
+    })),
+    { id: "concept", label: "Concept" },
+    { id: "text", label: "Text" }
+  ];
+
+  entries.forEach((entry) => {
+    const item = document.createElement("div");
+    item.className = "legend-item";
+
+    const swatch = document.createElement("span");
+    swatch.className = "swatch";
+    swatch.style.backgroundColor = getTraditionColor(entry.id);
+
+    const label = document.createElement("span");
+    label.textContent = entry.label;
+
+    item.append(swatch, label);
+    elements.legendTraditions.appendChild(item);
+  });
 }
 
 function populateFilterControls(data) {
@@ -217,11 +295,18 @@ function populateFilterControls(data) {
 
   updateEraLabel();
   updateMapYearLabel();
+  elements.timelineZoom.value = String(state.timeline.zoom);
+  updateTimelineZoomLabel();
 }
 
 function renderSearchResults(query) {
   const text = query.trim().toLowerCase();
   if (!text) {
+    if (state.searchFocusNodeId) {
+      state.searchFocusNodeId = null;
+      updateSearchFocusBanner();
+      applyAll();
+    }
     elements.searchResults.hidden = true;
     elements.searchResults.innerHTML = "";
     return;
@@ -261,6 +346,9 @@ function renderSearchResults(query) {
     )}</small>`;
 
     button.addEventListener("click", () => {
+      state.searchFocusNodeId = node.id;
+      updateSearchFocusBanner();
+      applyAll();
       openNode(node.id);
       elements.searchResults.hidden = true;
       elements.searchInput.blur();
@@ -368,6 +456,32 @@ function renderDetailPanel(node) {
     });
   }
 
+  elements.detailSources.innerHTML = "";
+  const sources = Array.isArray(node.sources) ? node.sources : [];
+  if (!sources.length) {
+    const li = document.createElement("li");
+    li.textContent = "Source metadata not yet added for this node.";
+    elements.detailSources.appendChild(li);
+  } else {
+    sources.forEach((source) => {
+      const li = document.createElement("li");
+      if (source.url) {
+        const link = document.createElement("a");
+        link.href = source.url;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = source.title || source.url;
+        li.appendChild(link);
+        if (source.note) {
+          li.appendChild(document.createTextNode(` — ${source.note}`));
+        }
+      } else {
+        li.textContent = source.title || source.note || "Source";
+      }
+      elements.detailSources.appendChild(li);
+    });
+  }
+
   if (node.wikipedia) {
     elements.detailWikipedia.hidden = false;
     elements.detailWikipedia.href = node.wikipedia;
@@ -379,7 +493,7 @@ function renderDetailPanel(node) {
   setDetailOpen(true);
 }
 
-function openNode(nodeId) {
+function openNode(nodeId, options = {}) {
   const node = state.data.nodeById.get(nodeId);
   if (!node) {
     return;
@@ -390,6 +504,10 @@ function openNode(nodeId) {
 
   views.graph.highlight(nodeId);
   views.timeline.highlight(nodeId);
+
+  if (options.skipFocus) {
+    return;
+  }
 
   if (state.view === "graph") {
     views.graph.focusNode(nodeId);
@@ -430,6 +548,7 @@ function setActiveView(viewName) {
 }
 
 function applyAll() {
+  updateSearchFocusBanner();
   const filtered = computeFilteredData();
 
   views.graph.render(filtered);
@@ -446,7 +565,8 @@ function applyAll() {
     nodes: filtered.nodes,
     edges: filtered.edges,
     showAxial: state.timeline.showAxial,
-    showInfluence: state.timeline.showInfluence
+    showInfluence: state.timeline.showInfluence,
+    zoom: state.timeline.zoom
   });
 
   const conceptNodes = filtered.concepts.length ? filtered.concepts : state.data.concepts;
@@ -548,8 +668,56 @@ function bindEvents() {
     applyAll();
   });
 
+  elements.timelineZoom.addEventListener("input", (event) => {
+    state.timeline.zoom = Number(event.target.value);
+    updateTimelineZoomLabel();
+    applyAll();
+  });
+
   elements.searchInput.addEventListener("input", (event) => {
     renderSearchResults(event.target.value);
+  });
+
+  elements.searchInput.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter") {
+      return;
+    }
+    const firstResult = elements.searchResults.querySelector("button.search-result");
+    if (firstResult) {
+      event.preventDefault();
+      firstResult.click();
+    }
+  });
+
+  elements.searchFocusClear.addEventListener("click", () => {
+    state.searchFocusNodeId = null;
+    elements.searchInput.value = "";
+    updateSearchFocusBanner();
+    applyAll();
+  });
+
+  elements.graphReset.addEventListener("click", () => {
+    views.graph.resetView({ reheat: true });
+  });
+
+  document.addEventListener("keydown", (event) => {
+    const target = event.target;
+    const isTypingTarget =
+      target instanceof HTMLElement &&
+      (target.tagName === "INPUT" ||
+        target.tagName === "TEXTAREA" ||
+        target.tagName === "SELECT" ||
+        target.isContentEditable);
+
+    if (isTypingTarget || state.view !== "graph") {
+      return;
+    }
+
+    const key = event.key.toLowerCase();
+    if (key === "r" || key === "0") {
+      event.preventDefault();
+      views.graph.resetView({ reheat: true });
+    }
   });
 
   document.addEventListener("click", (event) => {
@@ -602,6 +770,7 @@ async function bootstrap() {
 
   initViews();
   populateFilterControls(state.data);
+  populateGraphLegend(state.data);
   bindEvents();
   applyAll();
 }

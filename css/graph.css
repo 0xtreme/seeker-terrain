@@ -3,6 +3,170 @@
   height: 100%;
 }
 
+#view-graph {
+  position: relative;
+}
+
+.graph-ui {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: min(380px, calc(100vw - 28px));
+  display: grid;
+  gap: 10px;
+  z-index: 30;
+  pointer-events: none;
+}
+
+.graph-actions,
+.graph-legend {
+  pointer-events: auto;
+}
+
+.search-focus-banner {
+  justify-self: end;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  max-width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 10px;
+  background: rgba(19, 19, 28, 0.92);
+  backdrop-filter: blur(8px);
+  pointer-events: auto;
+  color: var(--text-2);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+}
+
+.search-focus-banner strong {
+  max-width: 170px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--text-1);
+}
+
+.search-focus-banner .ghost-btn {
+  padding: 4px 8px;
+}
+
+.graph-actions {
+  justify-self: end;
+}
+
+.graph-legend {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: rgba(19, 19, 28, 0.88);
+  backdrop-filter: blur(8px);
+  padding: 10px;
+}
+
+.graph-legend h3 {
+  margin: 0 0 10px;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+}
+
+.legend-section + .legend-section {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(37, 37, 53, 0.72);
+}
+
+.legend-title {
+  margin: 0 0 6px;
+  color: var(--text-3);
+  font-family: var(--font-mono);
+  font-size: 0.64rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.legend-type-list,
+.legend-tradition-list,
+.legend-edge-list {
+  display: grid;
+  gap: 5px;
+}
+
+.legend-type-list {
+  grid-template-columns: repeat(2, minmax(120px, 1fr));
+}
+
+.legend-tradition-list {
+  grid-template-columns: repeat(2, minmax(130px, 1fr));
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--text-2);
+  font-size: 0.75rem;
+}
+
+.legend-shape {
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  border: 1px solid rgba(230, 228, 222, 0.35);
+  background: rgba(230, 228, 222, 0.15);
+}
+
+.legend-shape.tradition {
+  clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%);
+}
+
+.legend-shape.school {
+  border-radius: 3px;
+}
+
+.legend-shape.person {
+  border-radius: 50%;
+}
+
+.legend-shape.concept {
+  transform: rotate(45deg);
+}
+
+.legend-shape.text {
+  width: 9px;
+  height: 9px;
+}
+
+.legend-edge {
+  width: 24px;
+  height: 0;
+  border-top: 2px solid var(--text-2);
+  display: inline-block;
+}
+
+.legend-edge.relation-founded {
+  border-top-width: 3px;
+  border-top-color: #f1efe9;
+}
+
+.legend-edge.relation-influenced {
+  border-top-width: 2px;
+  border-top-style: dashed;
+  border-top-color: #86a6f6;
+}
+
+.legend-edge.relation-student_of {
+  border-top-width: 1px;
+  border-top-color: #9ac9bf;
+}
+
+.legend-edge.relation-shares_concept {
+  border-top-width: 2px;
+  border-top-style: dotted;
+  border-top-color: #d4c89a;
+}
+
 .graph-svg {
   width: 100%;
   height: 100%;
@@ -74,4 +238,17 @@
 .graph-link.focus-cross {
   opacity: 0.95;
   stroke-opacity: 1;
+}
+
+@media (max-width: 920px) {
+  .graph-ui {
+    width: min(360px, calc(100vw - 20px));
+    top: 10px;
+    right: 10px;
+  }
+
+  .legend-type-list,
+  .legend-tradition-list {
+    grid-template-columns: 1fr;
+  }
 }

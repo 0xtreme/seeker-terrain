@@ -10,18 +10,26 @@ function markerHtml(color) {
 
 export function createMapView({ containerId, onNodeSelect }) {
   const mapElement = document.getElementById(containerId);
+  const worldBounds = [
+    [-85, -180],
+    [85, 180]
+  ];
 
   const map = L.map(mapElement, {
     zoomControl: true,
     minZoom: 2,
     maxZoom: 9,
-    worldCopyJump: true
+    worldCopyJump: false,
+    maxBounds: worldBounds,
+    maxBoundsViscosity: 1
   }).setView([25, 20], 2);
 
   L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; CARTO',
     subdomains: "abcd",
-    maxZoom: 19
+    maxZoom: 19,
+    noWrap: true,
+    bounds: worldBounds
   }).addTo(map);
 
   const markerLayer = L.markerClusterGroup({
@@ -104,7 +112,7 @@ export function createMapView({ containerId, onNodeSelect }) {
       });
 
       marker.on("click", () => {
-        onNodeSelect(node.id);
+        onNodeSelect(node.id, { sourceView: "map", skipFocus: true });
       });
 
       markerLayer.addLayer(marker);

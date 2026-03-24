@@ -23,7 +23,14 @@
       "brahman"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Hinduism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Hinduism",
+        "url": "https://en.wikipedia.org/wiki/Hinduism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "buddhism",
@@ -49,7 +56,14 @@
       "karma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Buddhism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Buddhism",
+        "url": "https://en.wikipedia.org/wiki/Buddhism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "islam",
@@ -73,7 +87,14 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Islam",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Islam",
+        "url": "https://en.wikipedia.org/wiki/Islam",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "christianity",
@@ -97,7 +118,14 @@
       "gnosis"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Christianity",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Christianity",
+        "url": "https://en.wikipedia.org/wiki/Christianity",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "judaism",
@@ -121,7 +149,14 @@
       "love_as_path"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Judaism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Judaism",
+        "url": "https://en.wikipedia.org/wiki/Judaism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "taoism",
@@ -145,7 +180,14 @@
       "impermanence"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Taoism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Taoism",
+        "url": "https://en.wikipedia.org/wiki/Taoism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "jainism",
@@ -169,7 +211,14 @@
       "ego_dissolution"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Jainism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Jainism",
+        "url": "https://en.wikipedia.org/wiki/Jainism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "sikhism",
@@ -192,7 +241,14 @@
       "karma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Sikhism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Sikhism",
+        "url": "https://en.wikipedia.org/wiki/Sikhism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "zoroastrianism",
@@ -213,7 +269,14 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Zoroastrianism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Zoroastrianism",
+        "url": "https://en.wikipedia.org/wiki/Zoroastrianism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "greek_philosophy",
@@ -238,7 +301,14 @@
       "via_negativa"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Greek_philosophy",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Greek Philosophy",
+        "url": "https://en.wikipedia.org/wiki/Ancient_Greek_philosophy",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "indigenous",
@@ -258,7 +328,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Shamanism",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Indigenous / Shamanic",
+        "url": "https://en.wikipedia.org/wiki/Shamanism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "synthesis",
@@ -281,6 +358,13 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Perennial_philosophy",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Synthesis",
+        "url": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   }
 ]

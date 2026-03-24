@@ -115,6 +115,72 @@
       <main class="view-stage">
         <section id="view-graph" class="view-panel active" aria-label="Graph view">
           <div id="graph-canvas"></div>
+          <div class="graph-ui">
+            <div id="search-focus-banner" class="search-focus-banner" hidden>
+              <span>Focus:</span>
+              <strong id="search-focus-label"></strong>
+              <button id="search-focus-clear" class="ghost-btn" type="button">Clear</button>
+            </div>
+            <div class="graph-actions">
+              <button id="graph-reset" class="ghost-btn" type="button">Reset Graph (R)</button>
+            </div>
+            <aside class="graph-legend" aria-label="Graph legend">
+              <h3>Legend</h3>
+
+              <section class="legend-section">
+                <p class="legend-title">Node Icons</p>
+                <div class="legend-type-list">
+                  <div class="legend-item">
+                    <span class="legend-shape tradition"></span>
+                    <span>Tradition</span>
+                  </div>
+                  <div class="legend-item">
+                    <span class="legend-shape school"></span>
+                    <span>School</span>
+                  </div>
+                  <div class="legend-item">
+                    <span class="legend-shape person"></span>
+                    <span>Person</span>
+                  </div>
+                  <div class="legend-item">
+                    <span class="legend-shape concept"></span>
+                    <span>Concept</span>
+                  </div>
+                  <div class="legend-item">
+                    <span class="legend-shape text"></span>
+                    <span>Text</span>
+                  </div>
+                </div>
+              </section>
+
+              <section class="legend-section">
+                <p class="legend-title">Tradition Colors</p>
+                <div id="legend-traditions" class="legend-tradition-list"></div>
+              </section>
+
+              <section class="legend-section">
+                <p class="legend-title">Key Edges</p>
+                <div class="legend-edge-list">
+                  <div class="legend-item">
+                    <span class="legend-edge relation-founded"></span>
+                    <span>Founded</span>
+                  </div>
+                  <div class="legend-item">
+                    <span class="legend-edge relation-influenced"></span>
+                    <span>Influenced</span>
+                  </div>
+                  <div class="legend-item">
+                    <span class="legend-edge relation-student_of"></span>
+                    <span>Student Of</span>
+                  </div>
+                  <div class="legend-item">
+                    <span class="legend-edge relation-shares_concept"></span>
+                    <span>Shared Concept</span>
+                  </div>
+                </div>
+              </section>
+            </aside>
+          </div>
           <div id="graph-tooltip" class="tooltip" hidden></div>
         </section>
 
@@ -143,6 +209,11 @@
               <input id="influence-toggle" type="checkbox" />
               Influence arcs
             </label>
+            <label class="timeline-density">
+              Density
+              <input id="timeline-zoom" type="range" min="1" max="3" step="0.1" value="1.8" />
+            </label>
+            <span id="timeline-zoom-label" class="timeline-zoom-label">x1.8</span>
           </div>
           <div id="timeline-canvas" class="timeline-canvas"></div>
         </section>
@@ -184,6 +255,11 @@
         <section>
           <h3>Key texts</h3>
           <ul id="detail-texts" class="plain-list"></ul>
+        </section>
+
+        <section>
+          <h3>Sources</h3>
+          <ul id="detail-sources" class="plain-list"></ul>
         </section>
 
         <div class="detail-links">

@@ -55,6 +55,13 @@
         "figure_id": "laozi",
         "quote": "The nameless ground gives rise to ten thousand things."
       }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia: Non-Duality",
+        "url": "https://en.wikipedia.org/wiki/Nondualism",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
     ]
   },
   {
@@ -94,6 +101,13 @@
         "figure_id": "zhuangzi",
         "quote": "Rigid identity yields to spontaneous change."
       }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia: Impermanence",
+        "url": "https://en.wikipedia.org/wiki/Impermanence",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
     ]
   },
   {
@@ -114,7 +128,14 @@
       "gnosis"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Consciousness",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Consciousness as Ground",
+        "url": "https://en.wikipedia.org/wiki/Consciousness",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "ego_dissolution",
@@ -134,7 +155,14 @@
       "kenosis"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Ego_death",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ego Dissolution",
+        "url": "https://en.wikipedia.org/wiki/Ego_death",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "love_as_path",
@@ -154,7 +182,14 @@
       "fana"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Divine_love",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Love as the Path",
+        "url": "https://en.wikipedia.org/wiki/Divine_love",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "emptiness",
@@ -174,7 +209,14 @@
       "nirvana"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Emptiness / Sunyata",
+        "url": "https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "via_negativa",
@@ -194,7 +236,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Apophatic_theology",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Via Negativa",
+        "url": "https://en.wikipedia.org/wiki/Apophatic_theology",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "moksha",
@@ -214,7 +263,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Moksha",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Liberation / Moksha",
+        "url": "https://en.wikipedia.org/wiki/Moksha",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "fana",
@@ -234,7 +290,14 @@
       "non_duality"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Fana_(Sufism)",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Annihilation / Fana",
+        "url": "https://en.wikipedia.org/wiki/Fana_(Sufism)",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "kenosis",
@@ -254,7 +317,14 @@
       "via_negativa"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Kenosis",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Self-Emptying / Kenosis",
+        "url": "https://en.wikipedia.org/wiki/Kenosis",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "tao",
@@ -274,7 +344,14 @@
       "consciousness"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Tao",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: The Tao",
+        "url": "https://en.wikipedia.org/wiki/Tao",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "wu_wei",
@@ -293,7 +370,14 @@
       "impermanence"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Wu_wei",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Non-Action / Wu Wei",
+        "url": "https://en.wikipedia.org/wiki/Wu_wei",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "dharma",
@@ -312,7 +396,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Dharma",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Dharma",
+        "url": "https://en.wikipedia.org/wiki/Dharma",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "karma",
@@ -331,7 +422,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Karma",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Karma",
+        "url": "https://en.wikipedia.org/wiki/Karma",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "maya",
@@ -350,7 +448,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Maya_(religion)",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Maya / Illusion",
+        "url": "https://en.wikipedia.org/wiki/Maya_(religion)",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "gnosis",
@@ -370,7 +475,14 @@
       "via_negativa"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Gnosis",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Gnosis",
+        "url": "https://en.wikipedia.org/wiki/Gnosis",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "brahman",
@@ -390,7 +502,14 @@
       "moksha"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Brahman",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Brahman",
+        "url": "https://en.wikipedia.org/wiki/Brahman",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "nirvana",
@@ -410,7 +529,14 @@
       "dharma"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Nirvana_(Buddhism)",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Nirvana",
+        "url": "https://en.wikipedia.org/wiki/Nirvana_(Buddhism)",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "perennial_core",
@@ -430,7 +556,14 @@
       "axial_breakthrough"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Perennial_philosophy",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: The Perennial Core",
+        "url": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   },
   {
     "id": "axial_breakthrough",
@@ -450,6 +583,13 @@
       "perennial_core"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Axial_Age",
-    "image": null
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: The Axial Breakthrough",
+        "url": "https://en.wikipedia.org/wiki/Axial_Age",
+        "note": "Baseline seed reference; strengthen with primary sources for academic use."
+      }
+    ]
   }
 ]
