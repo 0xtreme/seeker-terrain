@@ -624,33 +624,28 @@
     ]
   },
   {
-    "id": "wiki_yoga",
-    "label": "Yoga",
+    "id": "wiki_abkhaz_traditional_religion",
+    "label": "Abkhaz traditional religion",
     "type": "concept",
-    "tradition": "hinduism",
-    "era_start": 1950,
+    "tradition": "synthesis",
+    "era_start": 2003,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Yoga (UK: , US: ; Sanskrit: योग 'yoga' [joːɡɐ] ; lit. 'yoke' or 'union') is a group of physical, mental, and spiritual practices or disciplines that originated with its own philosophy in ancient India, aimed at controlling body and mind to attain liberation (moksha), as practiced in the Hindu, Jain, and Buddhist traditions.",
+    "summary": "Abkhaz neopaganism, or the Abkhaz native religion, is the contemporary re-emergence of the ethnic religion of the Abkhaz people in unrecognized Abkhazia, a revitalisation which started in the 1980s. The most important holy sites of the religion are the Seven Shrines of Abkhazia, each one having its own priestly clan, where rituals and prayers began to be restored in the 1990s.",
     "key_texts": [],
     "tags": [
-      "hinduism",
+      "synthesis",
       "concept",
-      "non_duality",
-      "consciousness",
-      "meditation",
-      "liberation",
-      "ritual",
-      "scripture"
+      "ritual"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Yoga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abkhaz_traditional_religion",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Yoga",
-        "url": "https://en.wikipedia.org/wiki/Yoga",
+        "title": "Wikipedia: Abkhaz traditional religion",
+        "url": "https://en.wikipedia.org/wiki/Abkhaz_traditional_religion",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -682,28 +677,89 @@
     ]
   },
   {
-    "id": "wiki_adivasi",
-    "label": "Adivasi",
+    "id": "wiki_achintya_bheda_abheda",
+    "label": "Achintya Bheda Abheda",
     "type": "concept",
-    "tradition": "hinduism",
-    "era_start": 2011,
+    "tradition": "synthesis",
+    "era_start": 1800,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "The Adivasi (also spelled Adibasi) are the heterogeneous tribal groups across the Indian subcontinent. The term Adivasi, a 20th-century construct meaning \"ancient inhabitants\", is now widely used as a self-designation by many of the communities who are officially recognized as \"Scheduled Tribes\" in India and as \"Ethnic minorities\" in Bangladesh.",
+    "summary": "Achintya-Bheda-Abheda (अचिन्त्यभेदाभेद, acintyabhedābheda in IAST) is a school of Vedanta representing the philosophy of inconceivable one-ness and difference. In Sanskrit, achintya means 'inconceivable', bheda translates as 'difference', and abheda translates as 'non-difference'.",
     "key_texts": [],
     "tags": [
-      "hinduism",
+      "synthesis",
       "concept",
-      "scripture"
+      "non_duality",
+      "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adivasi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Achintya_Bheda_Abheda",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Adivasi",
-        "url": "https://en.wikipedia.org/wiki/Adivasi",
+        "title": "Wikipedia: Achintya Bheda Abheda",
+        "url": "https://en.wikipedia.org/wiki/Achintya_Bheda_Abheda",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adyghe_xabze",
+    "label": "Adyghe Xabze",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Adyghe Khabze is the traditional worldview and moral code of the Circassian people. It regulates most aspects of individual as well as social social life, and has historically served as the unwritten constitution of Circassia, regulating legal proceedings, conflict resolution, military affairs, and governance.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adyghe_Xabze",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adyghe Xabze",
+        "url": "https://en.wikipedia.org/wiki/Adyghe_Xabze",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_agni_yoga",
+    "label": "Agni Yoga",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Agni Yoga (Russian: А́гни Йо́га) or the Living Ethics (Russian: Жива́я Э́тика), or the Teaching of Life (Russian: Уче́ние Жи́зни), is a Neo-Theosophical religious doctrine transmitted by Helena Roerich and Nicholas Roerich from 1920. The term Agni Yoga means \"Mergence with Divine Fire\" or \"Path to Mergence with Divine Fire\". This term was introduced by the Roerichs.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "consciousness",
+      "mysticism",
+      "ritual",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Agni_Yoga",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Agni Yoga",
+        "url": "https://en.wikipedia.org/wiki/Agni_Yoga",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -765,6 +821,35 @@
     ]
   },
   {
+    "id": "wiki_ancient_celtic_religion",
+    "label": "Ancient Celtic religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ancient Celtic religion, commonly known as Celtic paganism, was the religion of the ancient Celtic peoples of Europe. Because there are no extant native records of their beliefs, evidence about their religion is gleaned from archaeology, Greco-Roman accounts (some of them hostile and probably not well-informed), and literature from the early Christian period.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Celtic_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ancient Celtic religion",
+        "url": "https://en.wikipedia.org/wiki/Ancient_Celtic_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_ancient_egyptian_religion",
     "label": "Ancient Egyptian religion",
     "type": "concept",
@@ -789,6 +874,35 @@
       {
         "title": "Wikipedia: Ancient Egyptian religion",
         "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ancient_greek_religion",
+    "label": "Ancient Greek religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Religious practices in ancient Greece encompassed a collection of beliefs, rituals, and mythology, in the form of both popular public religion and cult practices. The application of the modern concept of \"religion\" to ancient cultures has been questioned as anachronistic. The ancient Greeks did not have a word for 'religion' in the modern sense.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Greek_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ancient Greek religion",
+        "url": "https://en.wikipedia.org/wiki/Ancient_Greek_religion",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -822,6 +936,33 @@
     ]
   },
   {
+    "id": "wiki_angkor_wat",
+    "label": "Angkor Wat",
+    "type": "concept",
+    "tradition": "hinduism",
+    "era_start": 1150,
+    "era_end": null,
+    "origin_lat": 13.4125,
+    "origin_lng": 103.86666667,
+    "origin_place": "Wikipedia coordinates",
+    "summary": "Angkor Wat (; Khmer: អង្គរវត្ត, 'City/Capital of Temples') is a Theravada Buddhist temple complex and the largest religious complex in the world. Located on a site measuring 162.6 hectares (1.6 km2; 401.8 acres) within the ancient capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Angkor_Wat",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Angkor Wat",
+        "url": "https://en.wikipedia.org/wiki/Angkor_Wat",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_anishinaabe_religions",
     "label": "Anishinaabe religions",
     "type": "concept",
@@ -849,6 +990,32 @@
     ]
   },
   {
+    "id": "wiki_anthropology_of_religion",
+    "label": "Anthropology of religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Anthropology of religion is the study of religion in relation to other social institutions, and the comparison of religious beliefs and practices across cultures. The anthropology of religion, as a field, overlaps with but is distinct from the field of Religious Studies. The history of anthropology of religion is a history of striving to understand how other people view and navigate the world.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthropology_of_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anthropology of religion",
+        "url": "https://en.wikipedia.org/wiki/Anthropology_of_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_antireligion",
     "label": "Antireligion",
     "type": "concept",
@@ -870,6 +1037,59 @@
       {
         "title": "Wikipedia: Antireligion",
         "url": "https://en.wikipedia.org/wiki/Antireligion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_arya_samaj",
+    "label": "Arya Samaj",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Arya Samaj (lit. 'Noble Society') is a monotheistic Indian Hindu reform movement that promotes values and practices based on the belief in the infallible authority of the Vedas. Dayananda Saraswati founded the Samaj in the 1870s. Arya Samaj was the first Hindu organisation to introduce proselytisation in Hinduism.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arya_Samaj",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Arya Samaj",
+        "url": "https://en.wikipedia.org/wiki/Arya_Samaj",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_shayani_ekadashi",
+    "label": "Shayani Ekadashi",
+    "type": "concept",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Shayani Ekadashi (Sanskrit: शयनी एकादशी, romanized: Śayanī Ekādaśī, lit. 'eleventh day of sleep'), also known by various other names, is the eleventh lunar day (Ekadashi) of the bright fortnight (Shukla Paksha) of the Hindu month of Ashadha (June - July). This occasion is holy to Vaishnavas, the followers of the Hindu preserver deity, Vishnu, as it is regarded to be the day the deity's sleep commences.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shayani_Ekadashi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Shayani Ekadashi",
+        "url": "https://en.wikipedia.org/wiki/Shayani_Ekadashi",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -932,8 +1152,8 @@
     ]
   },
   {
-    "id": "wiki_abhisheka",
-    "label": "Abhisheka",
+    "id": "wiki_baluba_religion",
+    "label": "Baluba religion",
     "type": "concept",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -941,136 +1161,19 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Abhishek (Sanskrit: अभिषेक, romanized: Abhiṣeka) is a religious rite or method of prayer in which a devotee pours a liquid offering on an image or murti of a deity. This is common to religions such as Jainism, Hinduism, Buddhism.",
+    "summary": "The Baluba are one of the Bantu peoples of Central Africa. Their creator deity's name is Kabezya-Mpungu. The Baluba people are also known as the Luba people",
     "key_texts": [],
     "tags": [
       "synthesis",
       "concept",
-      "ritual",
       "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Abhisheka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baluba_religion",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Abhisheka",
-        "url": "https://en.wikipedia.org/wiki/Abhisheka",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_achintya_bheda_abheda",
-    "label": "Achintya Bheda Abheda",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Achintya-Bheda-Abheda (अचिन्त्यभेदाभेद, acintyabhedābheda in IAST) is a school of Vedanta representing the philosophy of inconceivable one-ness and difference. In Sanskrit, achintya means 'inconceivable', bheda translates as 'difference', and abheda translates as 'non-difference'.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "non_duality",
-      "theology"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Achintya_Bheda_Abheda",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Achintya Bheda Abheda",
-        "url": "https://en.wikipedia.org/wiki/Achintya_Bheda_Abheda",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_achourya",
-    "label": "Achourya",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Achourya (Sanskrit: अचौर्यः, IAST: Acauryaḥ) or Asteya (Sanskrit: अस्तेय; IAST: Asteya) is the Sanskrit term for \"non-stealing\". It is a virtue in Jainism. The practice of asteya demands that one must not steal, nor have the intent to steal, another's property through action, speech, and thoughts. Asteya is one of the five major vows of Hinduism and Jainism.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "ethics",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Achourya",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Achourya",
-        "url": "https://en.wikipedia.org/wiki/Achourya",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_adyghe_xabze",
-    "label": "Adyghe Xabze",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The Adyghe Khabze is the traditional worldview and moral code of the Circassian people. It regulates most aspects of individual as well as social social life, and has historically served as the unwritten constitution of Circassia, regulating legal proceedings, conflict resolution, military affairs, and governance.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "ethics",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adyghe_Xabze",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Adyghe Xabze",
-        "url": "https://en.wikipedia.org/wiki/Adyghe_Xabze",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_afterlife",
-    "label": "Afterlife",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The afterlife or life after death is a speculation concerning existence after death, in which the essential part of an individual's stream of consciousness or identity continues to exist after the death of their physical body. The surviving essential aspect varies between belief systems; it may be some partial element, or the entire soul or spirit, which carries with it one's personal identity.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "consciousness",
-      "mysticism",
-      "ritual",
-      "scripture",
-      "theology",
-      "metaphysics"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Afterlife",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Afterlife",
-        "url": "https://en.wikipedia.org/wiki/Afterlife",
+        "title": "Wikipedia: Baluba religion",
+        "url": "https://en.wikipedia.org/wiki/Baluba_religion",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1108,94 +1211,8 @@
     ]
   },
   {
-    "id": "wiki_ahimsa",
-    "label": "Ahimsa",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ahimsa (Sanskrit: अहिंसा, IAST: ahiṃsā; IPA: [ɐ́.ɦĩ.sɑː]; lit. 'nonviolence') is the ancient Indian principle of nonviolence which applies to actions towards all living beings. It is a key virtue in Jainism and Buddhism. Ahimsa (also spelled Ahinsa) is one of the cardinal virtues of Jainism, where it is the first of the Pancha Mahavrata.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "ritual",
-      "ethics",
-      "scripture",
-      "theology"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahimsa",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ahimsa",
-        "url": "https://en.wikipedia.org/wiki/Ahimsa",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_ahmadiyya",
-    "label": "Ahmadiyya",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ahmadiyya (, also UK: ), officially the Ahmadiyya Muslim Jama'at (Arabic: الجماعة الإسلامية الأحمدية, romanized: al-Jamāʿah al-Islāmīyyah al-Aḥmadīyyah; Urdu: جماعتِ احمدیہ مسلمہ, romanized: Jamā‘at-i-Aḥmadiyah Muslimah) is an Islamic messianic movement originating in British India in the late 19th century.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "ethics",
-      "scripture",
-      "theology"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahmadiyya",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ahmadiyya",
-        "url": "https://en.wikipedia.org/wiki/Ahmadiyya",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_ainu_people",
-    "label": "Ainu people",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The Ainu (/ˈaɪnuː/) are an indigenous ethnic group who reside in northern Japan and southeastern Russia, including Hokkaido and the Tōhoku region of Honshu, as well as the land surrounding the Sea of Okhotsk, such as Sakhalin, the Kuril Islands, the Kamchatka Peninsula, and the Khabarovsk Krai. They have occupied these areas, known to them as \"Ainu Mosir\" (Ainu: アイヌモシㇼ, lit.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ainu_people",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ainu people",
-        "url": "https://en.wikipedia.org/wiki/Ainu_people",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_akriyavada",
-    "label": "Akriyavada",
+    "id": "wiki_anattalakkha_a_sutta",
+    "label": "Anattalakkhaṇa Sutta",
     "type": "concept",
     "tradition": "buddhism",
     "era_start": -500,
@@ -1203,19 +1220,101 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Akriyavada is the doctrine, considered heretical by Buddhists, that moral acts do not have any consequences. This belief was taught by many of the Buddha's contemporaries, but since it contradicts belief in karma it was denounced by the Buddha. His own teachings are considered kiriyavada. Akriya means – inactive, without action of any kind.",
+    "summary": "The Anattalakkhaṇa Sutta (Pali) or Anātmalakṣaṇa Sūtra (Sanskrit), is traditionally recorded as the second discourse delivered by Gautama Buddha. The title translates to the \"Not-Self Characteristic Discourse\", but is also known as the Pañcavaggiya Sutta (Pali) or Pañcavargīya Sūtra (Skt.), meaning the \"Group of Five\" Discourse.",
     "key_texts": [],
     "tags": [
       "buddhism",
       "concept",
-      "ethics"
+      "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Akriyavada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anattalakkha%E1%B9%87a_Sutta",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Akriyavada",
-        "url": "https://en.wikipedia.org/wiki/Akriyavada",
+        "title": "Wikipedia: Anattalakkhaṇa Sutta",
+        "url": "https://en.wikipedia.org/wiki/Anattalakkha%E1%B9%87a_Sutta",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_classes_of_tantra_in_tibetan_buddhism",
+    "label": "Classes of Tantra in Tibetan Buddhism",
+    "type": "concept",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Classes of Tantra in Tibetan Buddhism refers to the categorization of Buddhist tantric scriptures in Indo-Tibetan Buddhism. Tibetan Buddhism inherited numerous tantras and forms of tantric practice from medieval Indian Buddhist Tantra. There were various ways of categorizing these tantras in India.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Classes_of_Tantra_in_Tibetan_Buddhism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Classes of Tantra in Tibetan Buddhism",
+        "url": "https://en.wikipedia.org/wiki/Classes_of_Tantra_in_Tibetan_Buddhism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bodhisattva_precepts",
+    "label": "Bodhisattva Precepts",
+    "type": "concept",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Bodhisattva Precepts (Skt. bodhisattva-śīla or bodhisattva-saṃvāra, traditional Chinese: 菩薩戒; ; pinyin: Púsà Jiè, Japanese: 菩薩戒, romanized: bosatsukai; Wylie: byang chub sems dpa’i sdom pa) are a set of ethical trainings (śīla) used in Mahāyāna Buddhism to advance a practitioner along the path to becoming a bodhisattva.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "concept",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bodhisattva_Precepts",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bodhisattva Precepts",
+        "url": "https://en.wikipedia.org/wiki/Bodhisattva_Precepts",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_buddha_tooth_relic_temple_and_museum",
+    "label": "Buddha Tooth Relic Temple and Museum",
+    "type": "concept",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Buddha Tooth Relic Temple and Museum (Chinese: 新加坡佛牙寺龍華院) is a Buddhist temple and museum complex located in the Chinatown district of Singapore. The temple's monastics and devotees officially practice Chinese Buddhism.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Buddha_Tooth_Relic_Temple_and_Museum",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Buddha Tooth Relic Temple and Museum",
+        "url": "https://en.wikipedia.org/wiki/Buddha_Tooth_Relic_Temple_and_Museum",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1251,8 +1350,8 @@
     ]
   },
   {
-    "id": "wiki_ahl_al_bayt",
-    "label": "Ahl al-Bayt",
+    "id": "wiki_schools_of_islamic_theology",
+    "label": "Schools of Islamic theology",
     "type": "concept",
     "tradition": "islam",
     "era_start": 610,
@@ -1260,21 +1359,211 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Ahl al-Bayt (Arabic: أهل البيت, lit. 'people of the house') refers to the family of the Islamic prophet Muhammad. In Sunni Islam, the term has also been extended to all descendants of the Banu Hashim (Muhammad's clan) and even to all Muslims. In Shia Islam, the term is limited to Muhammad, his daughter Fatima, his cousin and son-in-law Ali, and their two sons, Ḥasan and Ḥusayn.",
+    "summary": "Schools of Islamic theology are various Islamic schools and branches in different schools of thought regarding creed. The main schools of Islamic theology include the extant Mu'tazili, Ash'ari, Maturidi, and Athari schools; the extinct ones include the Qadari, Jahmi, Murji', and Batini schools.",
     "key_texts": [],
     "tags": [
       "islam",
       "concept",
-      "ritual",
       "scripture",
       "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahl_al-Bayt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Schools_of_Islamic_theology",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ahl al-Bayt",
-        "url": "https://en.wikipedia.org/wiki/Ahl_al-Bayt",
+        "title": "Wikipedia: Schools of Islamic theology",
+        "url": "https://en.wikipedia.org/wiki/Schools_of_Islamic_theology",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_afzal_upal",
+    "label": "Afzal Upal",
+    "type": "concept",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Muhammad Afzal Upal is a writer and a cognitive scientist with contributions to cognitive science of religion, machine learning for planning, and agent-based social simulation.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Afzal_Upal",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Afzal Upal",
+        "url": "https://en.wikipedia.org/wiki/Afzal_Upal",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahmadiyya",
+    "label": "Ahmadiyya",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahmadiyya (, also UK: ), officially the Ahmadiyya Muslim Jama'at (Arabic: الجماعة الإسلامية الأحمدية, romanized: al-Jamāʿah al-Islāmīyyah al-Aḥmadīyyah; Urdu: جماعتِ احمدیہ مسلمہ, romanized: Jamā‘at-i-Aḥmadiyah Muslimah) is an Islamic messianic movement originating in British India in the late 19th century.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmadiyya",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahmadiyya",
+        "url": "https://en.wikipedia.org/wiki/Ahmadiyya",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_american_academy_of_religion",
+    "label": "American Academy of Religion",
+    "type": "concept",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The American Academy of Religion (AAR) is the world's largest association of scholars in the field of religious studies and related topics. It is a nonprofit member association, serving as a professional and learned society for scholars involved in the academic study of religion. It has some 10,000 members worldwide, with the largest concentration being in the United States and Canada.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "concept",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Academy_of_Religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: American Academy of Religion",
+        "url": "https://en.wikipedia.org/wiki/American_Academy_of_Religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_asia_times",
+    "label": "Asia Times",
+    "type": "concept",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Asia Times (Chinese: 亞洲時報), formerly known as Asia Times Online, is a Hong Kong-based English language news media publishing group, covering politics, economics, business, and culture from an Asian perspective. Asia Times publishes in English and simplified Chinese.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Asia_Times",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Asia Times",
+        "url": "https://en.wikipedia.org/wiki/Asia_Times",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adhan",
+    "label": "Adhan",
+    "type": "concept",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The adhan ([ʔaˈðaːn], Arabic: أَذَان, romanized: ʔaḏān) is the Islamic call to prayer, usually recited by a muezzin, traditionally from the minaret of a mosque, shortly before each of the five obligatory daily prayers. It is the first call summoning Muslims to enter the mosque for obligatory (fard) prayers (salawat); a second call, known as the iqama, summons those already in the mosque to assemble for prayer.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adhan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adhan",
+        "url": "https://en.wikipedia.org/wiki/Adhan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adventism",
+    "label": "Adventism",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Adventism is a branch of Protestant Christianity that believes in the imminent Second Coming (or the \"Second Advent\") of Jesus Christ. It originated in the 1830s in the United States during the Second Great Awakening when Baptist preacher William Miller first publicly shared his belief that the Second Coming would occur at some point between 1843 and 1844. His followers became known as Millerites.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "consciousness",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adventism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adventism",
+        "url": "https://en.wikipedia.org/wiki/Adventism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_agnosticism",
+    "label": "Agnosticism",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": -450,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Agnosticism is the view or belief that the existence of God, the divine, or the supernatural is either unknowable in principle or unknown in fact. It can also mean an apathy towards such religious belief and refer to personal limitations rather than a worldview.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Agnosticism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Agnosticism",
+        "url": "https://en.wikipedia.org/wiki/Agnosticism",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1308,121 +1597,34 @@
     ]
   },
   {
-    "id": "wiki_adoptionism",
-    "label": "Adoptionism",
+    "id": "wiki_american_political_science_association",
+    "label": "American Political Science Association",
     "type": "concept",
     "tradition": "christianity",
-    "era_start": 30,
+    "era_start": 15,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Adoptionism, closely associated with dynamic monarchianism, is an early Christian nontrinitarian theological doctrine, subsequently revived in various forms. Adoptionism is a theology about relationship, which does not affirm the virgin birth and holds that Jesus was adopted as the Son of God at his baptism, his resurrection, or his ascension. Dynamic Monarchianism does not hold Jesus' sonship was through adoption.",
+    "summary": "The American Political Science Association (APSA) is a professional association of political scientists in the United States. Founded in 1903 in the Tilton Memorial Library (now Tilton Hall) of Tulane University in New Orleans, it publishes four academic journals: American Political Science Review, Perspectives on Politics, Journal of Political Science Education, and PS – Political Science & Politics.",
     "key_texts": [],
     "tags": [
       "christianity",
-      "concept",
-      "scripture",
-      "theology"
+      "concept"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adoptionism",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Political_Science_Association",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Adoptionism",
-        "url": "https://en.wikipedia.org/wiki/Adoptionism",
+        "title": "Wikipedia: American Political Science Association",
+        "url": "https://en.wikipedia.org/wiki/American_Political_Science_Association",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_affusion",
-    "label": "Affusion",
-    "type": "concept",
-    "tradition": "christianity",
-    "era_start": 30,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Affusion is a method of baptism where water is poured on the head of the person being baptized. The word \"affusion\" comes from the Latin affusio, meaning \"to pour on\". Affusion is one of four methods of baptism used by Christians, which also include total or partial immersion baptism and aspersion or sprinkling.",
-    "key_texts": [],
-    "tags": [
-      "christianity",
-      "concept",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Affusion",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Affusion",
-        "url": "https://en.wikipedia.org/wiki/Affusion",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_jewish_mysticism",
-    "label": "Jewish mysticism",
-    "type": "concept",
-    "tradition": "judaism",
-    "era_start": -100,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Academic study of Jewish mysticism, especially since Gershom Scholem's Major Trends in Jewish Mysticism (1941), draws distinctions between different forms of mysticism which were practiced in different eras of Jewish history. Of these, Kabbalah, which emerged in 12th-century southwestern Europe, is the most well known, but it is not the only typological form, nor was it the first form which emerged.",
-    "key_texts": [],
-    "tags": [
-      "judaism",
-      "concept",
-      "mysticism",
-      "scripture",
-      "theology"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Jewish_mysticism",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Jewish mysticism",
-        "url": "https://en.wikipedia.org/wiki/Jewish_mysticism",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_hasidic_judaism",
-    "label": "Hasidic Judaism",
-    "type": "concept",
-    "tradition": "judaism",
-    "era_start": -1200,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Hasidism (Hebrew: חסידות, romanized: Ḥăsīdūt) or Hasidic Judaism is a religious movement within Judaism that arose in the 18th century as a spiritual revival movement in contemporary Western Ukraine before spreading rapidly throughout Eastern Europe. Today, most of those affiliated with the movement, known as hassidim, reside in Israel and in the United States.",
-    "key_texts": [],
-    "tags": [
-      "judaism",
-      "concept",
-      "ritual",
-      "scripture",
-      "theology"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Hasidic_Judaism",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Hasidic Judaism",
-        "url": "https://en.wikipedia.org/wiki/Hasidic_Judaism",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_acosmism",
-    "label": "Acosmism",
+    "id": "wiki_analytic_philosophy",
+    "label": "Analytic philosophy",
     "type": "concept",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -1430,26 +1632,160 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Acosmism, held in contrast or equivalent to pantheism, denies the reality of the universe, seeing it as ultimately illusory (the prefix \"ἀ-\" in Greek meaning negation; like \"un-\" in English), and only the infinite unmanifest Absolute as real. Conceptual versions of Acosmism are found in eastern and western philosophies.",
+    "summary": "Analytic philosophy is a broad school of thought or style in contemporary Western philosophy, especially anglophone philosophy, with an emphasis on analysis, clear prose, rigorous arguments, formal logic, mathematics, and the natural sciences (with less emphasis on the humanities). It is further characterized by the linguistic turn, or a concern with language and meaning.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "concept",
+      "scripture",
       "metaphysics"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Acosmism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Analytic_philosophy",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Acosmism",
-        "url": "https://en.wikipedia.org/wiki/Acosmism",
+        "title": "Wikipedia: Analytic philosophy",
+        "url": "https://en.wikipedia.org/wiki/Analytic_philosophy",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_afrikaner_jews",
-    "label": "Afrikaner-Jews",
+    "id": "wiki_anno_domini",
+    "label": "Anno Domini",
+    "type": "concept",
+    "tradition": "christianity",
+    "era_start": -1,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The terms anno Domini (AD) and before Christ (BC) are used when designating years in the Gregorian and Julian calendars. The term anno Domini is Medieval Latin and means \"in the year of the Lord\" but is often presented using \"our Lord\" instead of \"the Lord\", taken from the full original phrase \"anno Domini nostri Jesu Christi\", which translates to \"in the year of our Lord Jesus Christ\".",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anno_Domini",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anno Domini",
+        "url": "https://en.wikipedia.org/wiki/Anno_Domini",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_apostolic_see",
+    "label": "Apostolic see",
+    "type": "concept",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "An apostolic see is an episcopal see whose foundation is attributed to one or more of the apostles of Jesus or to one of their close associates. In Catholicism, the phrase \"the Apostolic See\" when capitalized refers specifically to the See of Rome. Tertullian (c. 155 − c.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Apostolic_see",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Apostolic see",
+        "url": "https://en.wikipedia.org/wiki/Apostolic_see",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_apostolic_throne",
+    "label": "Apostolic throne",
+    "type": "concept",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In Christianity, the concept of an apostolic throne refers to one of the historic patriarchates that was associated with a specific apostle. Not all of the apostles are associated with specific \"thrones\"; in general, the phrase applies to apostles who presided over a specific geographic church. Notably, there is no apostolic throne associated with St. Paul, who along with St.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Apostolic_throne",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Apostolic throne",
+        "url": "https://en.wikipedia.org/wiki/Apostolic_throne",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_arma_christi",
+    "label": "Arma Christi",
+    "type": "concept",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Arma Christi (\"weapons of Christ\"), or the Instruments of the Passion, are the objects associated with the Passion of Jesus Christ in Christian symbolism and art. They are seen as arms in the sense of heraldry, and also as the weapons Christ used to achieve his conquest over Satan. There is a group, at a maximum of about 20 items, which are frequently used in Christian art, especially in the Late Middle Ages.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arma_Christi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Arma Christi",
+        "url": "https://en.wikipedia.org/wiki/Arma_Christi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_autocephalous_turkish_orthodox_patriarchate",
+    "label": "Autocephalous Turkish Orthodox Patriarchate",
+    "type": "concept",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Autocephalous Turkish Orthodox Patriarchate (Turkish: Bağımsız Türk Ortodoks Patrikhanesi), also referred to as the Turkish Orthodox Church (Turkish: Türk Ortodoks Kilisesi), is an unrecognized autocephalous Eastern Orthodox organization based in Turkey, descending from Turkish-speaking Eastern Orthodox Christians.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Autocephalous_Turkish_Orthodox_Patriarchate",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Autocephalous Turkish Orthodox Patriarchate",
+        "url": "https://en.wikipedia.org/wiki/Autocephalous_Turkish_Orthodox_Patriarchate",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_alhambra_decree",
+    "label": "Alhambra Decree",
     "type": "concept",
     "tradition": "judaism",
     "era_start": -1200,
@@ -1457,19 +1793,270 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Afrikaner-Jews (Afrikaans: Afrikaner-Jode, also called Boerejode) are Jewish Afrikaners. At the beginning of the 19th century, when greater freedom of religious practice was permitted in South Africa, small numbers of Ashkenazi Jews arrived from Britain and Germany. They established the first Ashkenazi Hebrew congregation in 1841.",
+    "summary": "The Alhambra Decree (also known as the Edict of Expulsion; Spanish: Decreto de la Alhambra, Edicto de Granada) was an edict issued on 31 March 1492 by the joint Catholic Monarchs of Spain, Isabella I of Castile and Ferdinand II of Aragon, ordering the expulsion of unconverted Jews from the Crowns of Castile and Aragon and its territories and possessions by 31 July of that year.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alhambra_Decree",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alhambra Decree",
+        "url": "https://en.wikipedia.org/wiki/Alhambra_Decree",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ashkenazi_hebrew",
+    "label": "Ashkenazi Hebrew",
+    "type": "concept",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ashkenazi Hebrew (Hebrew: הֲגִיָּה אַשְׁכְּנַזִּית, romanized: hagiyoh ashkenazis, Yiddish: אַשכּנזישע הבֿרה, romanized: ashkenazishe havore) is the pronunciation system for Biblical and Mishnaic Hebrew favored for Jewish liturgical use and Torah study by Ashkenazi Jewish practice.",
     "key_texts": [],
     "tags": [
       "judaism",
       "concept",
       "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Afrikaner-Jews",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashkenazi_Hebrew",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Afrikaner-Jews",
-        "url": "https://en.wikipedia.org/wiki/Afrikaner-Jews",
+        "title": "Wikipedia: Ashkenazi Hebrew",
+        "url": "https://en.wikipedia.org/wiki/Ashkenazi_Hebrew",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ashkenazi_jews",
+    "label": "Ashkenazi Jews",
+    "type": "concept",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ashkenazi Jews ( A(H)SH-kə-NAH-zee; also known as Ashkenazic Jews, Ashkenazis, or Ashkenazim) form a distinct ethnicity of the Jewish diaspora, emerging from the Jewish communities that consolidated during the 10th century in the Rhineland (western Germany) and in Northern France, having migrated there from centers such as the Italian Peninsula and the Southern Levant.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "concept",
+      "liberation",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashkenazi_Jews",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ashkenazi Jews",
+        "url": "https://en.wikipedia.org/wiki/Ashkenazi_Jews",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_baghdadi_jews",
+    "label": "Baghdadi Jews",
+    "type": "concept",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Baghdadi Jews (Hebrew: יהודים בגדדים, romanized: Yehudim Bagdadim; Arabic: اليهود البغداد, romanized: al-Yahūd al-Baghdadi) or Iraqi Jews are the former communities of Jewish migrants and their descendants from Baghdad and elsewhere in the Middle East. They settled primarily in the ports and along the trade routes around the Indian Ocean and the South China Sea.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Baghdadi_Jews",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Baghdadi Jews",
+        "url": "https://en.wikipedia.org/wiki/Baghdadi_Jews",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ben_ezra_synagogue",
+    "label": "Ben Ezra Synagogue",
+    "type": "concept",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": 30.00581,
+    "origin_lng": 31.23097,
+    "origin_place": "Wikipedia coordinates",
+    "summary": "The Ben Ezra Synagogue (Hebrew: בית כנסת בן עזרא; Arabic: معبد بن عزرا), sometimes referred to as the Geniza Synagogue (Hebrew: בית כנסת הגניזה), the Synagogue of the Levantines (Judeo-Arabic: כניסת אלשאמיין), or the Synagogue of the Jerusalemites (Judeo-Arabic: כנסית הירושלמים) is a former Jewish congregation and synagogue, located in the Fustat part of Old Cairo, Egypt.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Ezra_Synagogue",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ben Ezra Synagogue",
+        "url": "https://en.wikipedia.org/wiki/Ben_Ezra_Synagogue",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_berber_jews",
+    "label": "Berber Jews",
+    "type": "concept",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Berber Jews are the Jewish communities of the Maghreb, in North Africa, who historically spoke Berber languages. Between 1950 and 1970 most immigrated to France, Israel and the United States.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Berber_Jews",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Berber Jews",
+        "url": "https://en.wikipedia.org/wiki/Berber_Jews",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_neidan",
+    "label": "Neidan",
+    "type": "concept",
+    "tradition": "taoism",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Neidan, or internal alchemy (traditional Chinese: 內丹術; simplified Chinese: 內丹术; pinyin: nèidān shù), is an array of esoteric doctrines and physical, mental, and spiritual practices that Taoist initiates use in hopes to prolong life and create an immortal spiritual body that would survive after death.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "concept",
+      "mysticism",
+      "meditation",
+      "ritual",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Neidan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Neidan",
+        "url": "https://en.wikipedia.org/wiki/Neidan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_taoist_meditation",
+    "label": "Taoist meditation",
+    "type": "concept",
+    "tradition": "taoism",
+    "era_start": -221,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Taoist meditation (, ), also spelled Daoist (), refers to the traditional meditative practices associated with the Chinese philosophy and religion of Taoism, including concentration, mindfulness, contemplation, and visualization. The earliest Chinese references to meditation date from the Warring States period (475–221 BCE).",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "concept",
+      "consciousness",
+      "meditation",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Taoist_meditation",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Taoist meditation",
+        "url": "https://en.wikipedia.org/wiki/Taoist_meditation",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_academic_skepticism",
+    "label": "Academic skepticism",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": -266,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Academic skepticism was the philosophy of the skeptical period of the Academy dating from around 266 BCE, when Arcesilaus became scholarch, until around 90 BCE, when Antiochus of Ascalon rejected skepticism, although individual philosophers, such as Favorinus and his teacher Plutarch, continued to defend skepticism after this date.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Academic_skepticism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Academic skepticism",
+        "url": "https://en.wikipedia.org/wiki/Academic_skepticism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_african_philosophy",
+    "label": "African philosophy",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "African philosophy is the philosophical discourse produced using indigenous African thought systems. African philosophers are found in the various academic fields of present philosophy, such as metaphysics, epistemology, moral philosophy, and political philosophy. It discusses substantive issues from an African perspective.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/African_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: African philosophy",
+        "url": "https://en.wikipedia.org/wiki/African_philosophy",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1556,6 +2143,62 @@
     ]
   },
   {
+    "id": "wiki_aztec_philosophy",
+    "label": "Aztec philosophy",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Aztec philosophy was a school of philosophy that developed out of Aztec culture. Aztec cosmology was in some sense dualistic, but exhibited a less common form of it known as dialectical monism. Aztec philosophy also included ethics and aesthetics. It has been asserted that the central question in Aztec philosophy was how people can find stability and balance in an ephemeral world.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aztec_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aztec philosophy",
+        "url": "https://en.wikipedia.org/wiki/Aztec_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bixia_yuanjun",
+    "label": "Bixia Yuanjun",
+    "type": "concept",
+    "tradition": "taoism",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bixia Yuanjun (Chinese: 碧霞元君; lit. 'The Primordial Sovereign of the Colored Clouds of Dawn'), also known as Taishan Niangniang (泰山娘娘, 'The Lady of Mount Tai'), is the goddess of Mount Tai, childbirth and destiny in Chinese traditional religion (Taoism). Bixia Yunjun became an important deity in China, particularly in the north during the Ming and Qing dynasties.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "concept",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bixia_Yuanjun",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bixia Yuanjun",
+        "url": "https://en.wikipedia.org/wiki/Bixia_Yuanjun",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_buddhist_meditation",
     "label": "Buddhist meditation",
     "type": "concept",
@@ -1588,36 +2231,35 @@
     ]
   },
   {
-    "id": "wiki_hankaar",
-    "label": "Hankaar",
+    "id": "wiki_akal_takht",
+    "label": "Akal Takht",
     "type": "concept",
     "tradition": "sikhism",
     "era_start": 1469,
     "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ahankar, commonly rendered as Hankaar or Hankār (Punjabi: ਹੰਕਾਰ, pronunciation: [ɦaunkäːaɝ]) based upon its pronunciation in Punjabi, is a Gurmukhi word originating from the Sanskrit word Ahankāra (Sanskrit: अहंकार) which translates to mean \"ego\" or \"excessive pride\" due to one's possessions, material wealth, spirituality, beauty, talents, physical strength, intelligence, authoritative powers, charity work, amid ...",
+    "origin_lat": 31.62055556,
+    "origin_lng": 74.87527778,
+    "origin_place": "Wikipedia coordinates",
+    "summary": "The Akal Takht (Punjabi: ਅਕਾਲ ਤਖ਼ਤ ਸਾਹਿਬ; lit. 'Throne of the Timeless'), also spelt as Akal Takhat and historically known as Akal Bunga, is the most prominent of the five takhts (seats of authority) of the Sikhs. Located within the Darbar Sahib (Golden Temple) complex in Amritsar, Punjab, India, it was established by Guru Hargobind in 1606 as a place to uphold justice and address temporal matters.",
     "key_texts": [],
     "tags": [
       "sikhism",
       "concept",
-      "ritual",
       "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Hankaar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akal_Takht",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Hankaar",
-        "url": "https://en.wikipedia.org/wiki/Hankaar",
+        "title": "Wikipedia: Akal Takht",
+        "url": "https://en.wikipedia.org/wiki/Akal_Takht",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_ali_illahism",
-    "label": "Ali-Illahism",
+    "id": "wiki_amrit_sanskar",
+    "label": "Amrit Sanskar",
     "type": "concept",
     "tradition": "sikhism",
     "era_start": 1469,
@@ -1625,7 +2267,7 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Ali-Illahism (Persian: علی‌اللّهی; Arabic: علي إلهي) is a syncretic religion which has been practiced in parts of the Luristan region in Iran which combines elements of Shia Islam with older religions.",
+    "summary": "Amrit Sanskar (Punjabi: ਅੰਮ੍ਰਿਤ ਸੰਸਕਾਰ, romanized: Amrita sansakāra, pronunciation: [ãːmɾʱɪt̪ sә̃nskäːɚ], lit. \"nectar ceremony\") is one of the four Sikh Sanskars. The Amrit Sanskar is the initiation rite introduced by Guru Gobind Singh when he founded the Khalsa in 1699. A Sikh who has been initiated into the Khalsa ('pure'; the Sikh brotherhood) is considered to be Amritdhari (baptised, lit.",
     "key_texts": [],
     "tags": [
       "sikhism",
@@ -1634,19 +2276,19 @@
       "scripture",
       "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ali-Illahism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amrit_Sanskar",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ali-Illahism",
-        "url": "https://en.wikipedia.org/wiki/Ali-Illahism",
+        "title": "Wikipedia: Amrit Sanskar",
+        "url": "https://en.wikipedia.org/wiki/Amrit_Sanskar",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_aliran_kepercayaan",
-    "label": "Aliran Kepercayaan",
+    "id": "wiki_anand_karaj",
+    "label": "Anand Karaj",
     "type": "concept",
     "tradition": "sikhism",
     "era_start": 1469,
@@ -1654,49 +2296,157 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Aliran Kepercayaan (lit. 'the branches/flows of beliefs') is an official cover term for groups of followers of various religious movements. It also includes various, partly syncretic forms of mysticism of new religious movements in Indonesia, such as kebatinan, kejiwaan and kerohanian. In the Indonesian language, it is also used for new religious movements in other parts of the world.",
+    "summary": "Anand Karaj (Punjabi: ਅਨੰਦ ਕਾਰਜ ānada kāraja) is the Sikh wedding ceremony, meaning \"Act towards happiness\" or \"Act towards happy life\", that was introduced by Guru Amar Das. The four laavaan (hymns which take place during the ceremony) were composed by his successor, Guru Ram Das.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anand_Karaj",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anand Karaj",
+        "url": "https://en.wikipedia.org/wiki/Anand_Karaj",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_anand_sahib",
+    "label": "Anand Sahib",
+    "type": "concept",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Anand Sahib (Gurmukhi: ਅਨੰਦ ਸਾਹਿਬ anada sāhiba) is a collection of hymns in Sikhism, written in the Ramkali Raag by Guru Amar Das, the third Guru of the Sikhs. It appears on pages 917 to 922 in Guru Granth Sahib Ji. The word Anand means complete happiness.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anand_Sahib",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anand Sahib",
+        "url": "https://en.wikipedia.org/wiki/Anand_Sahib",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_antam_sanskar",
+    "label": "Antam Sanskar",
+    "type": "concept",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Antam Sanskar (Gurmukhi: ਅੰਤਮ ਸੰਸਕਾਰ atama sasakāra) refers to the funeral rites in Sikhism. Antam (or Antim) means \"final\", while sanskar means \"rite\". There are three major components of a Sikh funeral: the crematorium, the gurdwara ceremony, and the scattering of the ashes. There are variations of these three components regarding timing depending on region and family, as traditions may vary.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "concept",
+      "liberation",
+      "ritual",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antam_Sanskar",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Antam Sanskar",
+        "url": "https://en.wikipedia.org/wiki/Antam_Sanskar",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bahadurgarh_fort",
+    "label": "Bahadurgarh Fort",
+    "type": "concept",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": 30.3638,
+    "origin_lng": 76.4708,
+    "origin_place": "Wikipedia coordinates",
+    "summary": "Bahadurgarh Fort is a historical Sikh-fort near Patiala in Punjab, India. Constructed on the site of the old Saifabad Fort, which was built as the residence of Nawab Saif ud-Din Mahmud or Saif Khan, the fort was renovated by Maharaja Karam Singh of the princely state of Patiala in 1837.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bahadurgarh_Fort",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bahadurgarh Fort",
+        "url": "https://en.wikipedia.org/wiki/Bahadurgarh_Fort",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_balvand_rai",
+    "label": "Balvand Rai",
+    "type": "concept",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Balvand Rai (fl. late 16th to early 17th century) also spelt as Balwand and Rai Balvand, was a poet mystic and rabab player in the court of Guru Arjan.",
     "key_texts": [],
     "tags": [
       "sikhism",
       "concept",
       "mysticism"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aliran_Kepercayaan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Balvand_Rai",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Aliran Kepercayaan",
-        "url": "https://en.wikipedia.org/wiki/Aliran_Kepercayaan",
+        "title": "Wikipedia: Balvand Rai",
+        "url": "https://en.wikipedia.org/wiki/Balvand_Rai",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_jain_philosophy",
-    "label": "Jain philosophy",
+    "id": "wiki_bandi_chhor_divas",
+    "label": "Bandi Chhor Divas",
     "type": "concept",
-    "tradition": "jainism",
-    "era_start": -700,
+    "tradition": "sikhism",
+    "era_start": 1469,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Jain philosophy or Jaina philosophy refers to the ancient Indian philosophical system of the Jain religion. It comprises all the philosophical investigations and systems of inquiry that developed among the early branches of Jainism in ancient India following the nirvana of Mahāvīra (c. 6th or 5th century BCE).",
+    "summary": "Bandi Chhor Divas (Punjabi: ਬੰਦੀ ਛੋੜ ਦਿਵਸ (Gurmukhi); meaning \"Day of Liberation\" or \"Release of Prisoners Day\"), also known as Bandi Chhor Dihara, is a Sikh celebration that happens to take place the same day as Diwali commemorating the day when the sixth Guru of Sikhs, Guru Hargobind were released from Gwalior Fort, whom Sikhs believe also freed fifty-two Rajput rajas of the Hill Chieftainships alongside him, w...",
     "key_texts": [],
     "tags": [
-      "jainism",
+      "sikhism",
       "concept",
       "liberation",
-      "ethics",
-      "scripture",
-      "metaphysics"
+      "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Jain_philosophy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bandi_Chhor_Divas",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Jain philosophy",
-        "url": "https://en.wikipedia.org/wiki/Jain_philosophy",
+        "title": "Wikipedia: Bandi Chhor Divas",
+        "url": "https://en.wikipedia.org/wiki/Bandi_Chhor_Divas",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1759,62 +2509,6 @@
     ]
   },
   {
-    "id": "wiki_ahimsa_in_jainism",
-    "label": "Ahimsa in Jainism",
-    "type": "concept",
-    "tradition": "jainism",
-    "era_start": -700,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "In Jainism, ahiṃsā (Ahimsā, alternatively spelled 'ahinsā', Sanskrit: अहिंसा IAST: ahiṃsā, Pāli: avihinsā) is a fundamental principle forming the cornerstone of its ethics and doctrine. The term ahiṃsā means nonviolence, non-injury, and the absence of desire to harm any life forms. Veganism, vegetarianism and other nonviolent practices and rituals of Jains flow from the principle of ahimsa.",
-    "key_texts": [],
-    "tags": [
-      "jainism",
-      "concept",
-      "liberation",
-      "ritual",
-      "ethics",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ahimsa in Jainism",
-        "url": "https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_ajiva",
-    "label": "Ajiva",
-    "type": "concept",
-    "tradition": "jainism",
-    "era_start": -700,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ajiva (Sanskrit) is anything that has no soul or life, the polar opposite of \"jīva\" (soul). Because ajiva has no life, it does not accumulate karma and cannot die. Examples of ajiva include chairs, computers, paper, plastic, etc.",
-    "key_texts": [],
-    "tags": [
-      "jainism",
-      "concept"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ajiva",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ajiva",
-        "url": "https://en.wikipedia.org/wiki/Ajiva",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
     "id": "wiki_akram_vignan_movement",
     "label": "Akram Vignan Movement",
     "type": "concept",
@@ -1837,6 +2531,361 @@
       {
         "title": "Wikipedia: Akram Vignan Movement",
         "url": "https://en.wikipedia.org/wiki/Akram_Vignan_Movement",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_akshaya_tritiya",
+    "label": "Akshaya Tritiya",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Akshaya Tritiya, also known as Akti or Akha Teej, is an annual Jain and Hindu spring festival. It falls on the third tithi (lunar day) of the bright half (Shukla Paksha) of the Hindu month of Vaisakha.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Akshaya_Tritiya",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Akshaya Tritiya",
+        "url": "https://en.wikipedia.org/wiki/Akshaya_Tritiya",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bushongo_religion",
+    "label": "Bushongo religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Bushongo are an ethnic group from the Congo River and surrounding areas. The creator god (or chembe) in Bushongo religion is called Bumba. Other names for him include M'Bombo and M'Bomba. He is said to have originally existed alone in darkness, in a universe consisting of nothing but primordial water. M'Bombo was said to appear like a gigantic man in form and white in colour.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bushongo_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bushongo religion",
+        "url": "https://en.wikipedia.org/wiki/Bushongo_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_causes_of_karma_in_jainism",
+    "label": "Causes of karma in Jainism",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The karmic process in Jainism is based on seven truths or fundamental principles (tattva) of Jainism which explain the human predicament. Out of those, four—influx (āsrava), bondage (bandha), stoppage (saṃvara) and release (nirjarā)—pertain to the karmic process. Karma gets bound to the soul on account of two processes: āsrava – Influx of karmas, and bandha – bondage or sticking of karmas to consciousness",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept",
+      "consciousness"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Causes_of_karma_in_Jainism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Causes of karma in Jainism",
+        "url": "https://en.wikipedia.org/wiki/Causes_of_karma_in_Jainism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abhisheka",
+    "label": "Abhisheka",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Abhishek (Sanskrit: अभिषेक, romanized: Abhiṣeka) is a religious rite or method of prayer in which a devotee pours a liquid offering on an image or murti of a deity. This is common to religions such as Jainism, Hinduism, Buddhism.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abhisheka",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abhisheka",
+        "url": "https://en.wikipedia.org/wiki/Abhisheka",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_acharya",
+    "label": "Acharya",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In Indian religions and society, an acharya (Sanskrit: आचार्य, IAST: ācārya; Pali: ācariya) is a religious teacher in Hinduism and Buddhism and a spiritual guide to Hindus and Buddhists. The designation has different meanings in Hinduism, Buddhism and secular contexts. Acharya is sometimes used to address an expert teacher or a scholar in any discipline, e.g.: Bhaskaracharya, the expert mathematician.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Acharya",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Acharya",
+        "url": "https://en.wikipedia.org/wiki/Acharya",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_frashokereti",
+    "label": "Frashokereti",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Frashokereti (Avestan: 𐬟𐬭𐬀𐬴𐬋⸱𐬐𐬆𐬭𐬆𐬙𐬌 frašō.kərəti) is the Avestan language term (corresponding to Middle Persian 𐭯𐭫𐭱(𐭠)𐭪𐭥𐭲 fraš(a)gird <plškrt>) for the Zoroastrian doctrine of a final renovation of the universe, when evil will be destroyed, and everything else will be then in perfect unity with God (Ahura Mazda).",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "liberation",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Frashokereti",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Frashokereti",
+        "url": "https://en.wikipedia.org/wiki/Frashokereti",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adur_gushnasp",
+    "label": "Adur Gushnasp",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Adur Gushnasp (Middle Persian: 𐭠𐭲𐭥𐭫𐭩 𐭦𐭩 𐭢𐭱𐭭𐭮𐭯, romanized: ʾtwly ZY gšnsp Ādur ī Gušnasp; New Persian: آذرگُشنَسپ, romanized: Āzargušnasp) was the name of a Zoroastrian sacred fire of the highest grade (Atash Behram), which served as one of the three most sacred fires of pre-Islamic Iran; the two others being the Adur Farnbag and Adur Burzen-Mihr.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adur_Gushnasp",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adur Gushnasp",
+        "url": "https://en.wikipedia.org/wiki/Adur_Gushnasp",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_airyanem_vaejah",
+    "label": "Airyanem Vaejah",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Airyanem Vaejah (Avestan: 𐬀𐬌𐬭𐬌𐬌𐬀𐬥𐬆𐬨⸱ 𐬬𐬀𐬉𐬘𐬀𐬵, romanized: Airiianəm Vaējah; Middle Persian: Ērān-wēz; Persian: ایران‌ویج, romanized: Erān-wēj; Parthian: Aryānwēžan, 'the Arya Expanse') is considered in Zoroastrianism to be the homeland of the early Iranians and the place where Zarathustra received the religion from Ahura Mazda.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Airyanem_Vaejah",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Airyanem Vaejah",
+        "url": "https://en.wikipedia.org/wiki/Airyanem_Vaejah",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_amesha_spenta",
+    "label": "Amesha Spenta",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In Zoroastrianism, the Amesha Spenta (Avestan: 𐬀𐬨𐬆𐬱𐬀⸱ 𐬯𐬞𐬆𐬧𐬙𐬀, romanized: Aməša Spəṇta—literally \"Immortal (which is) holy/bounteous/furthering\") are a class of seven divine entities emanating from Ahura Mazda, the highest divinity of the religion. Later Middle Persian variations of the term include the contraction 'Ameshaspand' as well as the specifically Zoroastrian 'Mahraspand' and 'Amahraspand'.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amesha_Spenta",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Amesha Spenta",
+        "url": "https://en.wikipedia.org/wiki/Amesha_Spenta",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_atash_behram",
+    "label": "Atash Behram",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": 721,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "An Atash Behram (Fire of Victory) is the highest grade of fire that can be placed in a Zoroastrian fire temple as an eternal flame. The other two lower graded fires are Atash Adaran and below Adaran is the Atash Dadgah; these three grades signify the degree of reverence and dignity these are held in. The establishment and consecration of the Atash Behram fire is the most elaborate of all the grades of fire.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "ritual"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Atash_Behram",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Atash Behram",
+        "url": "https://en.wikipedia.org/wiki/Atash_Behram",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_asha",
+    "label": "Asha",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Asha () or arta (; Avestan: 𐬀𐬴𐬀 Aṣ̌a / Arta) is a Zoroastrian concept with a complex and highly nuanced range of meaning. It is commonly summarized in accord with its contextual implications of 'truth' and 'right' (or 'righteousness'), 'order' and 'right working'. It is of cardinal importance to Zoroastrian theology and doctrine.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Asha",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Asha",
+        "url": "https://en.wikipedia.org/wiki/Asha",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ashem_vohu",
+    "label": "Ashem vohu",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Ashem vohu (, Avestan: 𐬀𐬴𐬆𐬨⸱ 𐬬𐬊𐬵𐬏 aṣ̌əm vohū) is the second most important manthra, and one of the most important prayers in Zoroastrianism. It is dedicated to Asha, a Zoroastrian concept denoting truth, order or righteousness. Together with the Ahuna vairya, the Yenghe hatam, and the Airyaman ishya; the Ashem vohu forms the four manthras that enclose the Gathas in the Yasna.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashem_vohu",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ashem vohu",
+        "url": "https://en.wikipedia.org/wiki/Ashem_vohu",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ashi",
+    "label": "Ashi",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ashi (Avestan: 𐬀𐬴𐬌 aṣ̌i/arti) is the Avestan language word for the Zoroastrian concept of \"that which is attained.\" As the hypostasis of \"reward,\" \"recompense,\" or \"capricious luck,\" Ashi is also a divinity in the Zoroastrian hierarchy of yazatas.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ashi",
+        "url": "https://en.wikipedia.org/wiki/Ashi",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1865,6 +2914,61 @@
       {
         "title": "Wikipedia: Aspect (religion)",
         "url": "https://en.wikipedia.org/wiki/Aspect_(religion)",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bronze_age",
+    "label": "Bronze Age",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": 0,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Bronze Age is an archaeological and anthropological term defining a phase in the development of material culture among ancient societies in Asia, the Near East and Europe.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bronze_Age",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bronze Age",
+        "url": "https://en.wikipedia.org/wiki/Bronze_Age",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_kingdom_of_iberia",
+    "label": "Kingdom of Iberia",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In Greco-Roman geography, Iberia (Ancient Greek: Ἰβηρία Iberia; Latin: Hiberia; Parthian: wurğān; Middle Persian: wiručān) was an exonym for the Georgian kingdom of Kartli (Georgian: ქართლი), known after its core province. The kingdom existed during Classical Antiquity and the Early Middle Ages, either as an independent state or as a dependent of larger empires, notably the Sassanid and Roman empires.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Iberia",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Kingdom of Iberia",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Iberia",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1925,86 +3029,8 @@
     ]
   },
   {
-    "id": "wiki_afrinagan",
-    "label": "Afrinagan",
-    "type": "concept",
-    "tradition": "zoroastrianism",
-    "era_start": -1000,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Afrinagan, or Āfringān, is an Avestan term referring to either a collection of Zoroastrian prayers which are part of the Khordeh Avesta or to the ceremonies in which these prayers play a central role.",
-    "key_texts": [],
-    "tags": [
-      "zoroastrianism",
-      "concept"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Afrinagan",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Afrinagan",
-        "url": "https://en.wikipedia.org/wiki/Afrinagan",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_ahura",
-    "label": "Ahura",
-    "type": "concept",
-    "tradition": "zoroastrianism",
-    "era_start": -1000,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ahura (Avestan: 𐬀𐬵𐬎𐬭𐬀) is an Avestan language designation of a type of deity inherited by Zoroastrianism from the prehistoric Indo-Iranian religion, and denotes a particular class of Zoroastrian divinities. The term is assumed to be linguistically related to the Asuras of Indian Vedic era.",
-    "key_texts": [],
-    "tags": [
-      "zoroastrianism",
-      "concept"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahura",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ahura",
-        "url": "https://en.wikipedia.org/wiki/Ahura",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_continental_philosophy",
-    "label": "Continental philosophy",
-    "type": "concept",
-    "tradition": "greek_philosophy",
-    "era_start": 1950,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Continental philosophy is a group of Western philosophies first prominent in 20th-century continental Europe that derive from a broadly Kantian tradition of focusing on the individual and society.",
-    "key_texts": [],
-    "tags": [
-      "greek_philosophy",
-      "concept"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Continental_philosophy",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Continental philosophy",
-        "url": "https://en.wikipedia.org/wiki/Continental_philosophy",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_definitions_of_philosophy",
-    "label": "Definitions of philosophy",
+    "id": "wiki_ancient_near_east",
+    "label": "Ancient Near East",
     "type": "concept",
     "tradition": "greek_philosophy",
     "era_start": -600,
@@ -2012,27 +3038,25 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Definitions of philosophy aim at determining what all forms of philosophy have in common and how to distinguish philosophy from other disciplines. Many different definitions have been proposed but there is very little agreement on which is the correct one.",
+    "summary": "The ancient Near East was home to many cradles of civilization, spanning Mesopotamia, the Levant, Egypt, Iran, Anatolia and the Armenian highlands, and the Arabian Peninsula. As such, the fields of ancient Near East studies and Near Eastern archaeology are one of the most prominent with regard to research in the realm of ancient history.",
     "key_texts": [],
     "tags": [
       "greek_philosophy",
-      "concept",
-      "ritual",
-      "scripture"
+      "concept"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Definitions_of_philosophy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Near_East",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Definitions of philosophy",
-        "url": "https://en.wikipedia.org/wiki/Definitions_of_philosophy",
+        "title": "Wikipedia: Ancient Near East",
+        "url": "https://en.wikipedia.org/wiki/Ancient_Near_East",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_abstract_object_theory",
-    "label": "Abstract object theory",
+    "id": "wiki_church_fathers",
+    "label": "Church Fathers",
     "type": "concept",
     "tradition": "greek_philosophy",
     "era_start": -600,
@@ -2040,76 +3064,20 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Abstract object theory (AOT) is a branch of metaphysics regarding abstract objects. Originally devised by metaphysician Edward Zalta in 1981, the theory was an expansion of mathematical Platonism.",
+    "summary": "The Church Fathers, Early Church Fathers, Christian Fathers, or Fathers of the Church were ancient and influential Christian theologians and writers who established the intellectual and doctrinal foundations of Christianity.",
     "key_texts": [],
     "tags": [
       "greek_philosophy",
       "concept",
-      "metaphysics"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Abstract_object_theory",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Abstract object theory",
-        "url": "https://en.wikipedia.org/wiki/Abstract_object_theory",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_adiaphora",
-    "label": "Adiaphora",
-    "type": "concept",
-    "tradition": "greek_philosophy",
-    "era_start": -600,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Adiaphoron (; plural: adiaphora; from the Greek ἀδιάφορον (pl. ἀδιάφορα), meaning 'not different or differentiable') is the negation of διαφορά diaphora, 'difference'.",
-    "key_texts": [],
-    "tags": [
-      "greek_philosophy",
-      "concept",
-      "consciousness",
-      "ethics",
       "scripture",
       "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adiaphora",
+    "wikipedia": "https://en.wikipedia.org/wiki/Church_Fathers",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Adiaphora",
-        "url": "https://en.wikipedia.org/wiki/Adiaphora",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_aesthetic_emotions",
-    "label": "Aesthetic emotions",
-    "type": "concept",
-    "tradition": "greek_philosophy",
-    "era_start": -600,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Aesthetic emotions are emotions that are felt during aesthetic activity or appreciation. These emotions may be of the everyday variety (such as fear, wonder or sympathy) or may be specific to aesthetic contexts. Examples of the latter include the sublime, the beautiful, and the kitsch.",
-    "key_texts": [],
-    "tags": [
-      "greek_philosophy",
-      "concept",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aesthetic_emotions",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Aesthetic emotions",
-        "url": "https://en.wikipedia.org/wiki/Aesthetic_emotions",
+        "title": "Wikipedia: Church Fathers",
+        "url": "https://en.wikipedia.org/wiki/Church_Fathers",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2197,6 +3165,33 @@
     ]
   },
   {
+    "id": "wiki_archaeology_of_religion_and_ritual",
+    "label": "Archaeology of religion and ritual",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The archaeology of religion and ritual is a growing field of study within archaeology that applies ideas from religious studies, theory and methods, anthropological theory, and archaeological and historical methods and theories to the study of religion and ritual in past human societies from a material perspective.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "ritual"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Archaeology_of_religion_and_ritual",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Archaeology of religion and ritual",
+        "url": "https://en.wikipedia.org/wiki/Archaeology_of_religion_and_ritual",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_african_traditional_medicine",
     "label": "African traditional medicine",
     "type": "concept",
@@ -2221,6 +3216,34 @@
       {
         "title": "Wikipedia: African traditional medicine",
         "url": "https://en.wikipedia.org/wiki/African_traditional_medicine",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_argument_from_consciousness",
+    "label": "Argument from consciousness",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The argument from consciousness is an argument for the existence of God that claims characteristics of human consciousness (such as qualia) cannot be explained by the physical mechanisms of the human body and brain, therefore asserting that there must be non-physical aspects to human consciousness.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "consciousness",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Argument_from_consciousness",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Argument from consciousness",
+        "url": "https://en.wikipedia.org/wiki/Argument_from_consciousness",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2253,8 +3276,8 @@
     ]
   },
   {
-    "id": "wiki_accidental_travel",
-    "label": "Accidental travel",
+    "id": "wiki_chumash_traditional_medicine",
+    "label": "Chumash traditional medicine",
     "type": "concept",
     "tradition": "indigenous",
     "era_start": -3000,
@@ -2262,19 +3285,133 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Accidental travel is a speculative fiction plot device in which ordinary people accidentally find themselves outside of their normal place or time, often for no apparent reason, a particular type of the \"fish-out-of-water\" plot. In Russian fandom, the trope is known under the term popadantsy, plural form for popadanets, female: popadanka, a person who accidentally finds himself elsewhere/elsewhen.",
+    "summary": "Chumash traditional medicine is a type of traditional medicine practiced by the Chumash people of the southern coastal regions of California. Chumash medicine focused on treating mind, spirit, and body alike to promote the wellness of both the individual and the larger community. Healing practices included a knowledge of local plants, as well as a mix of spiritual practices including prayer, singing, and dancing.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "consciousness",
+      "ritual"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chumash_traditional_medicine",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Chumash traditional medicine",
+        "url": "https://en.wikipedia.org/wiki/Chumash_traditional_medicine",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_comparative_religion",
+    "label": "Comparative religion",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Comparative religion is the branch of religious studies that systematically compares the doctrines, practices, themes and impacts (including migration) of the world's religions. In general, the comparative study of religion yields a deeper understanding of the fundamental philosophical concerns of religion such as ethics, metaphysics and the nature and forms of salvation.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "liberation",
+      "ritual",
+      "ethics",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Comparative_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Comparative religion",
+        "url": "https://en.wikipedia.org/wiki/Comparative_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_conservative_judaism",
+    "label": "Conservative Judaism",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": 1850,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Conservative Judaism, also known as Masorti Judaism, is a Jewish religious movement that regards the authority of Jewish law and tradition as emanating primarily from the assent of the people through the generations, more than from divine revelation. It therefore views Jewish law, or Halakha, as both binding and subject to historical development.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Conservative_Judaism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Conservative Judaism",
+        "url": "https://en.wikipedia.org/wiki/Conservative_Judaism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_academic_publishing",
+    "label": "Academic publishing",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Academic publishing is the subfield of publishing which distributes academic research and scholarship. Most academic work is published in academic journal articles, books or theses. The part of academic written output that is not formally published but merely printed up or posted on the Internet is often called \"grey literature\".",
     "key_texts": [],
     "tags": [
       "indigenous",
       "concept",
       "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Accidental_travel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Academic_publishing",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Accidental travel",
-        "url": "https://en.wikipedia.org/wiki/Accidental_travel",
+        "title": "Wikipedia: Academic publishing",
+        "url": "https://en.wikipedia.org/wiki/Academic_publishing",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_acosmism",
+    "label": "Acosmism",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Acosmism, held in contrast or equivalent to pantheism, denies the reality of the universe, seeing it as ultimately illusory (the prefix \"ἀ-\" in Greek meaning negation; like \"un-\" in English), and only the infinite unmanifest Absolute as real. Conceptual versions of Acosmism are found in eastern and western philosophies.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Acosmism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Acosmism",
+        "url": "https://en.wikipedia.org/wiki/Acosmism",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2334,8 +3471,8 @@
     ]
   },
   {
-    "id": "wiki_adrenal_fatigue",
-    "label": "Adrenal fatigue",
+    "id": "wiki_afterlife",
+    "label": "Afterlife",
     "type": "concept",
     "tradition": "indigenous",
     "era_start": -3000,
@@ -2343,18 +3480,82 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Adrenal fatigue is a pseudoscientific term used by alternative medicine providers to suggest that the adrenal glands are exhausted and unable to produce adequate quantities of hormones, primarily cortisol, due to chronic stress or infections.",
+    "summary": "The afterlife or life after death is a speculation concerning existence after death, in which the essential part of an individual's stream of consciousness or identity continues to exist after the death of their physical body. The surviving essential aspect varies between belief systems; it may be some partial element, or the entire soul or spirit, which carries with it one's personal identity.",
     "key_texts": [],
     "tags": [
       "indigenous",
-      "concept"
+      "concept",
+      "consciousness",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "theology",
+      "metaphysics"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adrenal_fatigue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Afterlife",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Adrenal fatigue",
-        "url": "https://en.wikipedia.org/wiki/Adrenal_fatigue",
+        "title": "Wikipedia: Afterlife",
+        "url": "https://en.wikipedia.org/wiki/Afterlife",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_alchemy",
+    "label": "Alchemy",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": 1150,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Alchemy (from the Arabic word al-kīmīā, الكیمیاء) is an ancient branch of natural philosophy, a philosophical and protoscientific tradition that was historically practised in China, India, the Muslim world, and Europe. In its Western form, alchemy is first attested in a number of pseudepigraphical texts written in Greco-Roman Egypt during the first few centuries AD.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alchemy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alchemy",
+        "url": "https://en.wikipedia.org/wiki/Alchemy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_allegory",
+    "label": "Allegory",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Authors have used allegory throughout history in all forms of art to illustrate or convey complex ideas and concepts in ways that are comprehensible or striking to its viewers, readers, or listeners.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "ritual",
+      "ethics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Allegory",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Allegory",
+        "url": "https://en.wikipedia.org/wiki/Allegory",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2386,89 +3587,120 @@
     ]
   },
   {
-    "id": "wiki_alternative_medicine",
-    "label": "Alternative medicine",
+    "id": "wiki_integral_theory",
+    "label": "Integral theory",
     "type": "concept",
-    "tradition": "indigenous",
-    "era_start": -3000,
+    "tradition": "synthesis",
+    "era_start": 1800,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Alternative medicine refers to practices that aim to achieve the healing effects of medicine, but that by definition lack biological plausibility, testability, repeatability, or supporting evidence of effectiveness. Such practices are not part of evidence-based medicine.",
+    "summary": "Integral theory as developed by Ken Wilber is a synthetic metatheory aiming to unify a broad spectrum of Western theories and models and Eastern meditative traditions within a singular conceptual framework.",
     "key_texts": [],
     "tags": [
-      "indigenous",
+      "synthesis",
       "concept",
+      "consciousness",
+      "ritual",
       "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Alternative_medicine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Integral_theory",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Alternative medicine",
-        "url": "https://en.wikipedia.org/wiki/Alternative_medicine",
+        "title": "Wikipedia: Integral theory",
+        "url": "https://en.wikipedia.org/wiki/Integral_theory",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_alternative_veterinary_medicine",
-    "label": "Alternative veterinary medicine",
+    "id": "wiki_intercultural_philosophy",
+    "label": "Intercultural philosophy",
     "type": "concept",
-    "tradition": "indigenous",
-    "era_start": -3000,
+    "tradition": "synthesis",
+    "era_start": 1800,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Alternative veterinary medicine is the use of alternative medicine in the treatment of animals. Types of alternative therapies used for veterinary treatments may include, but are not limited to, acupuncture, herbal medicine, homeopathy, ethnomedicine and chiropractic. The term includes many treatments that do not have enough evidence to support them being a standard method within many veterinary practices.",
+    "summary": "Global or intercultural philosophy is an approach to philosophy which emphasizes the integration of influences from different cultures. It can represent the meeting of different philosophical traditions, such as Western philosophy, Asian philosophy, and African philosophy.",
     "key_texts": [],
     "tags": [
-      "indigenous",
+      "synthesis",
       "concept"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Alternative_veterinary_medicine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Intercultural_philosophy",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Alternative veterinary medicine",
-        "url": "https://en.wikipedia.org/wiki/Alternative_veterinary_medicine",
+        "title": "Wikipedia: Intercultural philosophy",
+        "url": "https://en.wikipedia.org/wiki/Intercultural_philosophy",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_amulet",
-    "label": "Amulet",
+    "id": "wiki_outline_of_spirituality",
+    "label": "Outline of spirituality",
     "type": "concept",
-    "tradition": "indigenous",
-    "era_start": -3000,
+    "tradition": "synthesis",
+    "era_start": 1800,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "An amulet is a spiritual object believed to confer protection or grace upon its possessor. The word amulet comes from the Latin word amuletum, which Pliny's Natural History describes as \"an object that protects a person from trouble\". Anything can function as an amulet; items commonly so used include statues, coins, drawings, plant parts, animal parts, and written words.",
+    "summary": "The following outline is provided as an overview of and topical guide to spirituality: Spirituality may refer to an ultimate or an alleged immaterial reality, an inner path enabling a person to discover the essence of their own being, or the \"deepest values and meanings by which people live.\" Spiritual practices, including meditation, prayer and contemplation, are intended to develop an individual's inner life; s...",
     "key_texts": [],
     "tags": [
-      "indigenous",
+      "synthesis",
+      "concept",
+      "meditation",
+      "ritual",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Outline_of_spirituality",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Outline of spirituality",
+        "url": "https://en.wikipedia.org/wiki/Outline_of_spirituality",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_brahmo_samaj",
+    "label": "Brahmo Samaj",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Brahmo Samaj is the societal component of Brahmoism, which began as a monotheistic reformist movement during the Bengal Renaissance. It was one of the most influential religious movements in India and made a significant contribution to the making of modern India.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
       "concept",
       "ritual",
       "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Amulet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brahmo_Samaj",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Amulet",
-        "url": "https://en.wikipedia.org/wiki/Amulet",
+        "title": "Wikipedia: Brahmo Samaj",
+        "url": "https://en.wikipedia.org/wiki/Brahmo_Samaj",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_comparative_religion",
-    "label": "Comparative religion",
+    "id": "wiki_cognitive_science_of_religion",
+    "label": "Cognitive science of religion",
     "type": "concept",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -2476,30 +3708,26 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Comparative religion is the branch of religious studies that systematically compares the doctrines, practices, themes and impacts (including migration) of the world's religions. In general, the comparative study of religion yields a deeper understanding of the fundamental philosophical concerns of religion such as ethics, metaphysics and the nature and forms of salvation.",
+    "summary": "Cognitive science of religion is the study of religious thought, theory, and behavior from the perspective of the cognitive sciences. Scholars in this field seek to explain how human minds acquire, generate, and transmit religious thoughts, practices, and schemas by means of ordinary cognitive capacities.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "concept",
-      "liberation",
-      "ritual",
-      "ethics",
-      "theology",
-      "metaphysics"
+      "consciousness"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Comparative_religion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cognitive_science_of_religion",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Comparative religion",
-        "url": "https://en.wikipedia.org/wiki/Comparative_religion",
+        "title": "Wikipedia: Cognitive science of religion",
+        "url": "https://en.wikipedia.org/wiki/Cognitive_science_of_religion",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_mysticism",
-    "label": "Mysticism",
+    "id": "wiki_dionysian_mysteries",
+    "label": "Dionysian Mysteries",
     "type": "concept",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -2507,31 +3735,28 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Mysticism encompasses religious traditions of human transformation aided by various practices and religious experiences. Popularly, mysticism is used synonymously with mystical experience, a neologism which refers to an ecstatic unitive experience of becoming one with God, the Absolute, or all that exists.",
+    "summary": "The Dionysian Mysteries were a ritual of ancient Greece and Rome which sometimes used psychoactive substances and other trance-inducing techniques (like dance and music) to remove inhibitions. It also provided some liberation for people marginalized by Greek society, such as slaves, outlaws, and non-citizens.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "concept",
-      "non_duality",
-      "consciousness",
       "mysticism",
-      "ritual",
-      "scripture",
-      "theology"
+      "liberation",
+      "ritual"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Mysticism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dionysian_Mysteries",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Mysticism",
-        "url": "https://en.wikipedia.org/wiki/Mysticism",
+        "title": "Wikipedia: Dionysian Mysteries",
+        "url": "https://en.wikipedia.org/wiki/Dionysian_Mysteries",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_all_religions_are_one",
-    "label": "All Religions are One",
+    "id": "wiki_eastern_religions",
+    "label": "Eastern religions",
     "type": "concept",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -2539,21 +3764,19 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "All Religions are One is a series of philosophical aphorisms by William Blake, written in 1788. Following on from his initial experiments with relief etching in the non-textual The Approach of Doom (1787), All Religions are One and There is No Natural Religion represent Blake's first successful attempt to combine image and text via relief etching, and are thus the earliest of his illuminated manuscripts.",
+    "summary": "The Eastern religions are the religions which originated in East, South and Southeast Asia and thus have dissimilarities with Western and African religions.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "concept",
-      "scripture",
-      "theology",
-      "metaphysics"
+      "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/All_Religions_are_One",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_religions",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: All Religions are One",
-        "url": "https://en.wikipedia.org/wiki/All_Religions_are_One",
+        "title": "Wikipedia: Eastern religions",
+        "url": "https://en.wikipedia.org/wiki/Eastern_religions",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2669,8 +3892,8 @@
     ]
   },
   {
-    "id": "wiki_lived_religion",
-    "label": "Lived religion",
+    "id": "wiki_golden_rule",
+    "label": "Golden Rule",
     "type": "concept",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -2678,27 +3901,26 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Lived religion is the ethnographic and holistic framework in the sociology of religion and religious studies more broadly for understanding the religion as it is practiced by ordinary people in the contexts of everyday life, including domestic, work, commercial, community, and institutional religious settings.",
+    "summary": "The Golden Rule is the principle of treating others as one would want to be treated by them. It is sometimes called an ethics of reciprocity, meaning that one should reciprocate to others how one would like them to treat the person (not necessarily how they actually treat them). Various expressions of this rule can be found in the tenets of most religions and creeds through the ages.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "concept",
-      "scripture",
-      "theology"
+      "ethics"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Lived_religion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_Rule",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Lived religion",
-        "url": "https://en.wikipedia.org/wiki/Lived_religion",
+        "title": "Wikipedia: Golden Rule",
+        "url": "https://en.wikipedia.org/wiki/Golden_Rule",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_metaphysics",
-    "label": "Metaphysics",
+    "id": "wiki_hermes_trismegistus",
+    "label": "Hermes Trismegistus",
     "type": "concept",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -2706,136 +3928,21 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Metaphysics is the branch of philosophy that examines the basic structure of reality. It is traditionally seen as the study of mind-independent features of the world, but some theorists view it as an inquiry into the conceptual framework of human understanding.",
+    "summary": "Hermes Trismegistus (from Ancient Greek: Ἑρμῆς ὁ Τρισμέγιστος, \"Hermes the Thrice-Greatest\") is a legendary Hellenistic period figure that originated as a syncretic combination of the Greek god Hermes and the Egyptian god Thoth. He is the purported author of the Hermetica, a widely diverse series of ancient and medieval pseudepigraphica that laid the basis of various philosophical systems known as Hermeticism.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "concept",
-      "consciousness",
-      "scripture",
-      "metaphysics"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Metaphysics",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Metaphysics",
-        "url": "https://en.wikipedia.org/wiki/Metaphysics",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_agape",
-    "label": "Agape",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Agape (; from Ancient Greek ἀγάπη (agápē)) is \"the highest form of love, charity\" and \"the love of God for [human beings] and of [human beings] for God\". This is in contrast to philia, brotherly love, or philautia, self-love, as it embraces a profound sacrificial love that transcends and persists regardless of circumstance.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "ethics",
-      "scripture",
-      "theology"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Agape",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Agape",
-        "url": "https://en.wikipedia.org/wiki/Agape",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_anthropocentrism",
-    "label": "Anthropocentrism",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Anthropocentrism ( from Ancient Greek ἄνθρωπος (ánthrōpos) 'human' and κέντρον (kéntron) 'center') is the belief that human beings are the central or most important entity on the planet. The term can be used interchangeably with humanocentrism, and some refer to the concept as human supremacy or human exceptionalism.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "ethics",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Anthropocentrism",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Anthropocentrism",
-        "url": "https://en.wikipedia.org/wiki/Anthropocentrism",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_anthroposophy",
-    "label": "Anthroposophy",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Anthroposophy is a spiritual new religious movement which was founded in the early 20th century by the esotericist Rudolf Steiner that postulates the existence of an objective, intellectually comprehensible spiritual world, accessible to human experience. Followers of anthroposophy aim to engage in spiritual discovery through a mode of thought independent of sensory experience.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "mysticism",
       "ritual",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Anthroposophy",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Anthroposophy",
-        "url": "https://en.wikipedia.org/wiki/Anthroposophy",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_apokatastasis",
-    "label": "Apokatastasis",
-    "type": "concept",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "In theology, apokatastasis (Greek: ἀποκατάστασις, romanized: apokatástasis, also spelled apocatastasis) is the restoration of creation to a condition of perfection. In Christianity, the term refers to a form of Christian universalism, often associated with Origen, that includes the ultimate salvation of everyone, including the damned and the Devil.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "concept",
-      "liberation",
       "scripture",
       "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Apokatastasis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermes_Trismegistus",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Apokatastasis",
-        "url": "https://en.wikipedia.org/wiki/Apokatastasis",
+        "title": "Wikipedia: Hermes Trismegistus",
+        "url": "https://en.wikipedia.org/wiki/Hermes_Trismegistus",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]

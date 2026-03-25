@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-03-25T01:01:41.651Z",
+  "generatedAt": "2026-03-25T01:53:41.692Z",
   "options": {
     "depth": 2,
-    "maxPagesPerTradition": 42,
-    "maxTotalPages": 420,
-    "maxLinksPerPage": 160,
-    "maxTraverseLinksPerPage": 52,
-    "maxGraphLinksPerNode": 10,
-    "maxLinkEdges": 2600,
-    "requestDelayMs": 70
+    "maxPagesPerTradition": 60,
+    "maxTotalPages": 720,
+    "maxLinksPerPage": 200,
+    "maxTraverseLinksPerPage": 72,
+    "maxGraphLinksPerNode": 12,
+    "maxLinkEdges": 4200,
+    "requestDelayMs": 60
   },
   "crawl": {
-    "fetched": 383,
-    "kept": 267,
-    "skipped": 116,
+    "fetched": 635,
+    "kept": 457,
+    "skipped": 178,
     "perTradition": {
-      "hinduism": 42,
-      "buddhism": 42,
-      "islam": 42,
-      "christianity": 42,
-      "judaism": 42,
-      "taoism": 42,
-      "sikhism": 42,
-      "jainism": 42,
-      "zoroastrianism": 42,
-      "greek_philosophy": 42,
-      "indigenous": 42,
-      "synthesis": 42
+      "hinduism": 60,
+      "buddhism": 60,
+      "islam": 60,
+      "christianity": 60,
+      "judaism": 60,
+      "taoism": 60,
+      "sikhism": 60,
+      "jainism": 60,
+      "zoroastrianism": 60,
+      "greek_philosophy": 60,
+      "indigenous": 60,
+      "synthesis": 60
     }
   },
   "postRunCleanup": {
     "removedNodeIds": [
-      "wiki_alt_right",
+      "wiki_ariel_sharon",
       "wiki_angus_macnab"
     ]
   },
   "additions": {
     "nodes": {
       "tradition": 0,
-      "school": 48,
-      "person": 62,
-      "concept": 80,
-      "text": 35,
-      "all": 225
+      "school": 45,
+      "person": 165,
+      "concept": 121,
+      "text": 80,
+      "all": 411
     },
     "edges": {
-      "belongs_to": 225,
-      "hyperlink_inferred": 1746,
-      "all": 1971
+      "belongs_to": 411,
+      "hyperlink_inferred": 3758,
+      "all": 4169
     }
   },
   "totals": {
     "nodes": {
       "tradition": 12,
-      "school": 73,
-      "person": 92,
-      "concept": 100,
-      "text": 59,
-      "all": 336
+      "school": 70,
+      "person": 195,
+      "concept": 141,
+      "text": 104,
+      "all": 522
     },
-    "edges": 2263
+    "edges": 4461
   }
 }

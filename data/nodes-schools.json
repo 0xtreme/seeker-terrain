@@ -722,29 +722,31 @@
     ]
   },
   {
-    "id": "wiki_abkhaz_traditional_religion",
-    "label": "Abkhaz traditional religion",
+    "id": "wiki_vishishtadvaita",
+    "label": "Vishishtadvaita",
     "type": "school",
-    "tradition": "synthesis",
-    "era_start": 2003,
+    "tradition": "hinduism",
+    "era_start": -1500,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Abkhaz neopaganism, or the Abkhaz native religion, is the contemporary re-emergence of the ethnic religion of the Abkhaz people in unrecognized Abkhazia, a revitalisation which started in the 1980s. The most important holy sites of the religion are the Seven Shrines of Abkhazia, each one having its own priestly clan, where rituals and prayers began to be restored in the 1990s.",
+    "summary": "Vishishtadvaita (IAST Viśiṣṭādvaita; Sanskrit: विशिष्टाद्वैत) is a school of Hindu philosophy belonging to the Vedanta tradition. Vishishta Advaita means \"non-duality with distinctions\" and recognises Brahman (ब्रह्म) as the primordial quality while also acknowledging its existential multiplicity. This philosophy can be characterised as a form of qualified monism, or a qualified non-dualism.",
     "key_texts": [],
     "tags": [
-      "synthesis",
+      "hinduism",
       "school",
-      "ritual",
+      "non_duality",
+      "scripture",
+      "theology",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Abkhaz_traditional_religion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vishishtadvaita",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Abkhaz traditional religion",
-        "url": "https://en.wikipedia.org/wiki/Abkhaz_traditional_religion",
+        "title": "Wikipedia: Vishishtadvaita",
+        "url": "https://en.wikipedia.org/wiki/Vishishtadvaita",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -777,8 +779,8 @@
     ]
   },
   {
-    "id": "wiki_ancient_iranian_religion",
-    "label": "Ancient Iranian religion",
+    "id": "wiki_aliran_kepercayaan",
+    "label": "Aliran Kepercayaan",
     "type": "school",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -786,23 +788,20 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Ancient Iranian religions were a set of ancient beliefs and practices of the Iranian peoples before the widespread conversion to Zoroastrianism. The religion closest to it was the historical Vedic religion that was practiced during the Vedic period.",
+    "summary": "Aliran Kepercayaan (lit. 'the branches/flows of beliefs') is an official cover term for groups of followers of various religious movements. It also includes various, partly syncretic forms of mysticism of new religious movements in Indonesia, such as kebatinan, kejiwaan and kerohanian. In the Indonesian language, it is also used for new religious movements in other parts of the world.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "school",
-      "consciousness",
-      "ritual",
-      "scripture",
-      "theology",
+      "mysticism",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Iranian_religion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aliran_Kepercayaan",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ancient Iranian religion",
-        "url": "https://en.wikipedia.org/wiki/Ancient_Iranian_religion",
+        "title": "Wikipedia: Aliran Kepercayaan",
+        "url": "https://en.wikipedia.org/wiki/Aliran_Kepercayaan",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -837,8 +836,8 @@
     ]
   },
   {
-    "id": "wiki_anthropology_of_religion",
-    "label": "Anthropology of religion",
+    "id": "wiki_audrey_truschke",
+    "label": "Audrey Truschke",
     "type": "school",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -846,47 +845,19 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Anthropology of religion is the study of religion in relation to other social institutions, and the comparison of religious beliefs and practices across cultures. The anthropology of religion, as a field, overlaps with but is distinct from the field of Religious Studies. The history of anthropology of religion is a history of striving to understand how other people view and navigate the world.",
+    "summary": "Audrey Truschke ( TRUSH-kee) is a historian of South Asia and a professor at Rutgers University. Her work focuses on inter-community relations in medieval South Asia, especially during the Mughal Empire. In 2017, she was conferred with the John F. Richards Prize in South Asian History by American Historical Association.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "school",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Anthropology_of_religion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audrey_Truschke",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Anthropology of religion",
-        "url": "https://en.wikipedia.org/wiki/Anthropology_of_religion",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_baluba_religion",
-    "label": "Baluba religion",
-    "type": "school",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The Baluba are one of the Bantu peoples of Central Africa. Their creator deity's name is Kabezya-Mpungu. The Baluba people are also known as the Luba people",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "school",
-      "scripture",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Baluba_religion",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Baluba religion",
-        "url": "https://en.wikipedia.org/wiki/Baluba_religion",
+        "title": "Wikipedia: Audrey Truschke",
+        "url": "https://en.wikipedia.org/wiki/Audrey_Truschke",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -921,6 +892,65 @@
     ]
   },
   {
+    "id": "wiki_madhyamaka",
+    "label": "Madhyamaka",
+    "type": "school",
+    "tradition": "buddhism",
+    "era_start": 250,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Madhyamaka (Sanskrit: माध्यमक, romanized: Mādhyamika, lit. 'middle way; centrism'; Chinese: 中觀見; pinyin: Zhōngguān jiàn; Vietnamese: Trung quán tông, chữ Nôm: 中觀宗; Tibetan: དབུ་མ་པ་, Wylie: dbu ma pa) also known as Madhyamika (Sanskrit: माध्यमिक, romanized: Mādhyamika) refers to a tradition of Buddhist philosophy and practice founded by the Indian Buddhist monk and philosopher Nāgārjuna (c. 150 – c. 250 CE).",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "school",
+      "non_duality",
+      "meditation",
+      "scripture",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Madhyamaka",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Madhyamaka",
+        "url": "https://en.wikipedia.org/wiki/Madhyamaka",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bodhi_tree",
+    "label": "Bodhi tree",
+    "type": "school",
+    "tradition": "buddhism",
+    "era_start": -232,
+    "era_end": null,
+    "origin_lat": 24.69591389,
+    "origin_lng": 84.99146944,
+    "origin_place": "Wikipedia coordinates",
+    "summary": "The Bodhi Tree (Sanskrit and Pāli: Bodhi meaning \"awakening\" or \"enlightenment\") is the specific Bo tree (from the Sinhala bo, derived from bodhi)—a sacred fig (Ficus religiosa)—located within the Buddhist Mahabodhi Temple, a UNESCO World Heritage Site, in Bodh Gaya, Bihar, India.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "school",
+      "liberation",
+      "ritual",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bodhi_tree",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bodhi tree",
+        "url": "https://en.wikipedia.org/wiki/Bodhi_tree",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_abenaki_mythology",
     "label": "Abenaki mythology",
     "type": "school",
@@ -948,38 +978,8 @@
     ]
   },
   {
-    "id": "wiki_achar_khmer",
-    "label": "Achar Khmer",
-    "type": "school",
-    "tradition": "buddhism",
-    "era_start": -500,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "An achar (Khmer: អាចារ្យ, achary [ʔaːcaː]) or achar wat (Khmer: អាចារ្យវត្ត, achary vôtt [ʔaːcaː ʋŏət]) is a lay Buddhist upāsaka who becomes a ritual specialist and takes on the role of master of ceremonies in various religious rites in Cambodia.",
-    "key_texts": [],
-    "tags": [
-      "buddhism",
-      "school",
-      "mysticism",
-      "ritual",
-      "scripture",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Achar_Khmer",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Achar Khmer",
-        "url": "https://en.wikipedia.org/wiki/Achar_Khmer",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_schools_of_islamic_theology",
-    "label": "Schools of Islamic theology",
+    "id": "wiki_suhrawardi",
+    "label": "Suhrawardi",
     "type": "school",
     "tradition": "islam",
     "era_start": 610,
@@ -987,28 +987,26 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Schools of Islamic theology are various Islamic schools and branches in different schools of thought regarding creed. The main schools of Islamic theology include the extant Mu'tazili, Ash'ari, Maturidi, and Athari schools; the extinct ones include the Qadari, Jahmi, Murji', and Batini schools.",
+    "summary": "Suhrawardi or Sohrevardi or variants may refer to: Suhrawardiyya, a Sufi order Abu al-Najib Suhrawardi (1097–1168), founder of the order Shihab al-Din 'Umar al-Suhrawardi (c.",
     "key_texts": [],
     "tags": [
       "islam",
       "school",
-      "scripture",
-      "theology",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Schools_of_Islamic_theology",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suhrawardi",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Schools of Islamic theology",
-        "url": "https://en.wikipedia.org/wiki/Schools_of_Islamic_theology",
+        "title": "Wikipedia: Suhrawardi",
+        "url": "https://en.wikipedia.org/wiki/Suhrawardi",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_american_academy_of_religion",
-    "label": "American Academy of Religion",
+    "id": "wiki_american_society_for_premodern_asia",
+    "label": "American Society For Premodern Asia",
     "type": "school",
     "tradition": "islam",
     "era_start": 610,
@@ -1016,20 +1014,20 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "The American Academy of Religion (AAR) is the world's largest association of scholars in the field of religious studies and related topics. It is a nonprofit member association, serving as a professional and learned society for scholars involved in the academic study of religion. It has some 10,000 members worldwide, with the largest concentration being in the United States and Canada.",
+    "summary": "The American Society For Premodern Asia (formerly American Oriental Society) is a learned society that encourages basic research in the languages and literatures of the Near East and Asia. It was chartered under the laws of Massachusetts on September 7, 1842. It is one of the oldest learned societies in the United States and is the oldest devoted to a particular field of scholarship.",
     "key_texts": [],
     "tags": [
       "islam",
       "school",
-      "theology",
+      "scripture",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/American_Academy_of_Religion",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Society_For_Premodern_Asia",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: American Academy of Religion",
-        "url": "https://en.wikipedia.org/wiki/American_Academy_of_Religion",
+        "title": "Wikipedia: American Society For Premodern Asia",
+        "url": "https://en.wikipedia.org/wiki/American_Society_For_Premodern_Asia",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1058,34 +1056,6 @@
       {
         "title": "Wikipedia: Abolition of the Caliphate",
         "url": "https://en.wikipedia.org/wiki/Abolition_of_the_Caliphate",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_adhan",
-    "label": "Adhan",
-    "type": "school",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The adhan ([ʔaˈðaːn], Arabic: أَذَان, romanized: ʔaḏān) is the Islamic call to prayer, usually recited by a muezzin, traditionally from the minaret of a mosque, shortly before each of the five obligatory daily prayers. It is the first call summoning Muslims to enter the mosque for obligatory (fard) prayers (salawat); a second call, known as the iqama, summons those already in the mosque to assemble for prayer.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "school",
-      "scripture",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adhan",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Adhan",
-        "url": "https://en.wikipedia.org/wiki/Adhan",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1177,6 +1147,90 @@
     ]
   },
   {
+    "id": "wiki_apostolic_brethren",
+    "label": "Apostolic Brethren",
+    "type": "school",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Apostolic Brethren (sometimes referred to as Apostolici, Apostoli, or Apostolics) were a Christian sect founded in northern Italy in the latter half of the 13th century by Gerard Segarelli, a native of Alzano in the territory of Parma. He was of low birth and without education, applied for membership in the Franciscan order at Parma, and was rejected.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "school",
+      "scripture",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Apostolic_Brethren",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Apostolic Brethren",
+        "url": "https://en.wikipedia.org/wiki/Apostolic_Brethren",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_apostolic_christian_church",
+    "label": "Apostolic Christian Church",
+    "type": "school",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Apostolic Christian Church (ACC) is a family of denominations tracing their origins to the work of Samuel Heinrich Fröhlich; the tradition is also known outside of North America and Australia as The Community of Evangelical Anabaptists, Nazareans, or Fröhlichians.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "school",
+      "scripture",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Apostolic_Christian_Church",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Apostolic Christian Church",
+        "url": "https://en.wikipedia.org/wiki/Apostolic_Christian_Church",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_armenian_apostolic_church",
+    "label": "Armenian Apostolic Church",
+    "type": "school",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Armenian Apostolic Church (Armenian: Հայ Առաքելական Եկեղեցի, romanized: Hay Aṙaqelakan Ékełetsi) is the autocephalous national church of Armenia. Part of Oriental Orthodoxy, it is one of the most ancient Christian churches. The Armenian Apostolic Church uses the Armenian Rite.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "school",
+      "scripture",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Armenian_Apostolic_Church",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Armenian Apostolic Church",
+        "url": "https://en.wikipedia.org/wiki/Armenian_Apostolic_Church",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_abilene_christian_university_press",
     "label": "Abilene Christian University Press",
     "type": "school",
@@ -1205,87 +1259,29 @@
     ]
   },
   {
-    "id": "wiki_inclusive_church",
-    "label": "Inclusive church",
+    "id": "wiki_black_judaism",
+    "label": "Black Judaism",
     "type": "school",
-    "tradition": "christianity",
-    "era_start": 30,
+    "tradition": "judaism",
+    "era_start": -1200,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "An inclusive church is a church that considers LGBTQ people to have the same human rights in the Church and in society. This recognition manifests itself primarily through support for LGBTQ rights, the ordination of LGBTQ ministers and the blessing of same-sex unions or marriages.",
+    "summary": "Black Judaism is variation of Judaism that is practiced by communities of African descent, both within Africa and within the African diaspora, including North America, Europe, Israel, and elsewhere. Significant examples of Black Judaism include Judaism as it is practiced by Ethiopian Jews and African-American Jews.",
     "key_texts": [],
     "tags": [
-      "christianity",
-      "school",
-      "theology",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Inclusive_church",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Inclusive church",
-        "url": "https://en.wikipedia.org/wiki/Inclusive_church",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_agony_in_the_garden",
-    "label": "Agony in the Garden",
-    "type": "school",
-    "tradition": "christianity",
-    "era_start": 30,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The Agony in the Garden of Gethsemane is an episode in the life of Jesus, which occurred after the Last Supper and before his betrayal and arrest, all part of the Passion of Jesus leading to his crucifixion and death. This episode is described in the three Synoptic Gospels in the New Testament.",
-    "key_texts": [],
-    "tags": [
-      "christianity",
+      "judaism",
       "school",
       "scripture",
-      "theology",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Agony_in_the_Garden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Judaism",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Agony in the Garden",
-        "url": "https://en.wikipedia.org/wiki/Agony_in_the_Garden",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_catholic_spirituality",
-    "label": "Catholic spirituality",
-    "type": "school",
-    "tradition": "christianity",
-    "era_start": 30,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Catholic spirituality includes the various ways in which Catholics live out their Baptismal promise through prayer and action. The primary prayer of all Catholics is the Eucharistic liturgy in which they celebrate and share their faith together, in accord with Jesus' instruction: \"Do this in memory of me.\" The Catholic bishops at the Second Vatican Council decreed that \"devotions should be so drawn up that they h...",
-    "key_texts": [],
-    "tags": [
-      "christianity",
-      "school",
-      "ritual",
-      "theology",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Catholic_spirituality",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Catholic spirituality",
-        "url": "https://en.wikipedia.org/wiki/Catholic_spirituality",
+        "title": "Wikipedia: Black Judaism",
+        "url": "https://en.wikipedia.org/wiki/Black_Judaism",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1345,8 +1341,120 @@
     ]
   },
   {
-    "id": "wiki_aztec_philosophy",
-    "label": "Aztec philosophy",
+    "id": "wiki_akhand_kirtani_jatha",
+    "label": "Akhand Kirtani Jatha",
+    "type": "school",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Akhand Kirtani Jatha, alternatively romanized as the Akhand Keertanee Jathaa and abbreviated as AKJ, is a jatha (collective group) and sect of Sikhism dedicated to the Sikh lifestyle. The Jatha follows a strict discipline in keeping the Rehat of Guru Gobind Singh. They also enjoy an active style of Keertan recited by Sikhs in a collective manner in front of Guru Granth Sahib.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "school",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Akhand_Kirtani_Jatha",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Akhand Kirtani Jatha",
+        "url": "https://en.wikipedia.org/wiki/Akhand_Kirtani_Jatha",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_kundakunda",
+    "label": "Kundakunda",
+    "type": "school",
+    "tradition": "jainism",
+    "era_start": 600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Kundakunda is the name given to the author or authors of sixteen influential Digambara texts, including Niyamasāra (\"The Essence of the Restraint\"), Pañcāstikāyasāra (\"The Essence of the Five Existents\"), Samayasāra (\"The Essence of the Self\"), and Pravacanasāra (\"The Essence of the Teaching\").",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "school",
+      "non_duality",
+      "mysticism",
+      "scripture",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kundakunda",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Kundakunda",
+        "url": "https://en.wikipedia.org/wiki/Kundakunda",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_balatkara_gana",
+    "label": "Balatkara Gana",
+    "type": "school",
+    "tradition": "jainism",
+    "era_start": 1048,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Balatkara Gana is an ancient Jain monastic order. It is a section of the Mula Sangh. It is often termed Balatkara Gana Sarasvati Gachchha. Until the beginning of the 20th century, it was present in a number of places in India. However all its seats in North India became vacant in early 20th century. It survives only at Humbaj in Karnataka, which is its ancient seat.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "school",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Balatkara_Gana",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Balatkara Gana",
+        "url": "https://en.wikipedia.org/wiki/Balatkara_Gana",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_cambridge_university_press",
+    "label": "Cambridge University Press",
+    "type": "school",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": 52.1882,
+    "origin_lng": 0.132,
+    "origin_place": "Wikipedia coordinates",
+    "summary": "Cambridge University Press is the university press of the University of Cambridge. Granted a letters patent by King Henry VIII in 1534, it is the oldest university press in the world. Cambridge University Press merged with Cambridge Assessment to form Cambridge University Press and Assessment under Queen Elizabeth II's approval in August 2021.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "school",
+      "scripture",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cambridge_University_Press",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Cambridge University Press",
+        "url": "https://en.wikipedia.org/wiki/Cambridge_University_Press",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_catholic_apostolic_church",
+    "label": "Catholic Apostolic Church",
     "type": "school",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -1354,115 +1462,56 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Aztec philosophy was a school of philosophy that developed out of Aztec culture. Aztec cosmology was in some sense dualistic, but exhibited a less common form of it known as dialectical monism. Aztec philosophy also included ethics and aesthetics. It has been asserted that the central question in Aztec philosophy was how people can find stability and balance in an ephemeral world.",
+    "summary": "The Catholic Apostolic Church (CAC), also known as the Irvingian Church or Irvingite Church, is a denomination in the Restorationist branch of Christianity. It originated in London around 1831 and later spread to Germany and the United States.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "school",
-      "ethics",
-      "metaphysics",
+      "scripture",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aztec_philosophy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catholic_Apostolic_Church",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Aztec philosophy",
-        "url": "https://en.wikipedia.org/wiki/Aztec_philosophy",
+        "title": "Wikipedia: Catholic Apostolic Church",
+        "url": "https://en.wikipedia.org/wiki/Catholic_Apostolic_Church",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_arti_hinduism",
-    "label": "Arti (Hinduism)",
+    "id": "wiki_charismatic_christianity",
+    "label": "Charismatic Christianity",
     "type": "school",
-    "tradition": "sikhism",
-    "era_start": 1469,
+    "tradition": "synthesis",
+    "era_start": 1800,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Arti (Hindi: आरती, romanized: Āratī) or Aratrika (Sanskrit: आरात्रिक, romanized: Ārātrika) is a Hindu ritual employed in worship, part of a puja, in which light from a flame (fuelled by camphor, ghee, or oil) is ritually waved to venerate deities. Arti also refers to the hymns sung in praise of the deity, when the light is being offered.",
+    "summary": "Charismatic Christianity is a form of Christianity that emphasizes the work of the Holy Spirit and spiritual gifts as an everyday part of a believer's life. It has a global presence in the Christian community. Practitioners are often called charismatic Christians or renewalists.",
     "key_texts": [],
     "tags": [
-      "sikhism",
+      "synthesis",
       "school",
       "ritual",
       "scripture",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Arti_(Hinduism)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charismatic_Christianity",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Arti (Hinduism)",
-        "url": "https://en.wikipedia.org/wiki/Arti_(Hinduism)",
+        "title": "Wikipedia: Charismatic Christianity",
+        "url": "https://en.wikipedia.org/wiki/Charismatic_Christianity",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_ahluwalia_caste",
-    "label": "Ahluwalia (caste)",
-    "type": "school",
-    "tradition": "sikhism",
-    "era_start": 1469,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ahluwalia (also transliterated as Ahluvalia) is an Indian caste native to the Punjab region.",
-    "key_texts": [],
-    "tags": [
-      "sikhism",
-      "school",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahluwalia_(caste)",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ahluwalia (caste)",
-        "url": "https://en.wikipedia.org/wiki/Ahluwalia_(caste)",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_acharya_jainism",
-    "label": "Acharya (Jainism)",
-    "type": "school",
-    "tradition": "jainism",
-    "era_start": 950,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "An Ācārya (Ācārya) is the leader of an order of Jain ascetics (Munis), termed a sangh in the Jain tradition. Some of the famous achāryas are Bhadrabahu, Sthulibhadra, Kundakunda, Samantabhadra, Umaswati, Haribhadra, Hemachandra. In the Namokar Mantra, the five panch-paramsthis include Ācāryas, Upadhyayas and the ordinary Munis(Sadhus). The lineage (line of ordination) of Ācāryas goes back to Lord Mahavira Swami.",
-    "key_texts": [],
-    "tags": [
-      "jainism",
-      "school",
-      "consciousness",
-      "meditation",
-      "ethics",
-      "scripture",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Acharya_(Jainism)",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Acharya (Jainism)",
-        "url": "https://en.wikipedia.org/wiki/Acharya_(Jainism)",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_akshaya_tritiya",
-    "label": "Akshaya Tritiya",
+    "id": "wiki_chinese_salvationist_religions",
+    "label": "Chinese salvationist religions",
     "type": "school",
     "tradition": "jainism",
     "era_start": -700,
@@ -1470,104 +1519,171 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Akshaya Tritiya, also known as Akti or Akha Teej, is an annual Jain and Hindu spring festival. It falls on the third tithi (lunar day) of the bright half (Shukla Paksha) of the Hindu month of Vaisakha.",
+    "summary": "Chinese salvationist religions or Chinese folk religious sects are a Chinese religious tradition characterised by a concern for salvation (moral fulfillment) of the person and the society.",
     "key_texts": [],
     "tags": [
       "jainism",
       "school",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Akshaya_Tritiya",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Akshaya Tritiya",
-        "url": "https://en.wikipedia.org/wiki/Akshaya_Tritiya",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_adur_gushnasp",
-    "label": "Adur Gushnasp",
-    "type": "school",
-    "tradition": "zoroastrianism",
-    "era_start": -1000,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Adur Gushnasp (Middle Persian: 𐭠𐭲𐭥𐭫𐭩 𐭦𐭩 𐭢𐭱𐭭𐭮𐭯, romanized: ʾtwly ZY gšnsp Ādur ī Gušnasp; New Persian: آذرگُشنَسپ, romanized: Āzargušnasp) was the name of a Zoroastrian sacred fire of the highest grade (Atash Behram), which served as one of the three most sacred fires of pre-Islamic Iran; the two others being the Adur Farnbag and Adur Burzen-Mihr.",
-    "key_texts": [],
-    "tags": [
-      "zoroastrianism",
-      "school",
+      "liberation",
+      "ethics",
       "scripture",
+      "theology",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adur_Gushnasp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_salvationist_religions",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Adur Gushnasp",
-        "url": "https://en.wikipedia.org/wiki/Adur_Gushnasp",
+        "title": "Wikipedia: Chinese salvationist religions",
+        "url": "https://en.wikipedia.org/wiki/Chinese_salvationist_religions",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_ahuna_vairya",
-    "label": "Ahuna vairya",
-    "type": "school",
-    "tradition": "zoroastrianism",
-    "era_start": -1000,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ahuna vairya (Avestan: 𐬀𐬵𐬎𐬥𐬀⸱ 𐬬𐬀𐬌𐬭𐬌𐬌𐬀) is the first of Zoroastrianism's four Gathic Avestan manthras. The text, which appears in Yasna 27.13, is also known after its opening words yatha ahu vairyo. In Zoroastrian tradition, the manthra is also known as the ahun(a)war. Numerous translations and interpretations exist, but the overall meaning of the text remains obscure.",
-    "key_texts": [],
-    "tags": [
-      "zoroastrianism",
-      "school",
-      "scripture",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahuna_vairya",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ahuna vairya",
-        "url": "https://en.wikipedia.org/wiki/Ahuna_vairya",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_pythagoreanism",
-    "label": "Pythagoreanism",
+    "id": "wiki_cynicism_philosophy",
+    "label": "Cynicism (philosophy)",
     "type": "school",
     "tradition": "greek_philosophy",
-    "era_start": -530,
+    "era_start": -600,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Pythagoreanism originated in the 6th century BC, based on and around the teachings and beliefs held by Pythagoras and his followers, the Pythagoreans. Pythagoras established the first Pythagorean community in the ancient Greek colony of Croton, in modern Calabria (Italy) circa 530 BC. Early Pythagorean communities spread throughout Magna Graecia.",
+    "summary": "Cynicism (Ancient Greek: κυνισμός) is a school of thought in ancient Greek philosophy, originating in the Classical period and extending into the Hellenistic and Roman Imperial periods.",
     "key_texts": [],
     "tags": [
       "greek_philosophy",
       "school",
-      "mysticism",
-      "ritual",
+      "ethics",
+      "scripture",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Pythagoreanism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cynicism_(philosophy)",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Pythagoreanism",
-        "url": "https://en.wikipedia.org/wiki/Pythagoreanism",
+        "title": "Wikipedia: Cynicism (philosophy)",
+        "url": "https://en.wikipedia.org/wiki/Cynicism_(philosophy)",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_epicureanism",
+    "label": "Epicureanism",
+    "type": "school",
+    "tradition": "greek_philosophy",
+    "era_start": -307,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Epicureanism, less commonly Epicurism, is a school of philosophy founded in 307 BCE and based upon the teachings of Epicurus, an ancient Greek philosopher. Epicurus was an atomist and materialist, following in the steps of Democritus. His materialism led him to religious scepticism and a general attack on superstition and divine intervention.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "school",
+      "consciousness",
+      "liberation",
+      "ethics",
+      "scripture",
+      "theology",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Epicureanism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Epicureanism",
+        "url": "https://en.wikipedia.org/wiki/Epicureanism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_anahita",
+    "label": "Anahita",
+    "type": "school",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Anahita is the Old Persian form of the name of an Iranian goddess and appears in complete and earlier form as Aradvi Sura Anahita (Arədvī Sūrā Anāhita), the Avestan name of an Indo-Iranian cosmological figure venerated as the divinity of \"the Waters\" (Aban) and hence associated with fertility, healing and wisdom. Anahita is a Zoroastrian deity who is referenced in the Avesta.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "school",
+      "scripture",
+      "theology",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anahita",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anahita",
+        "url": "https://en.wikipedia.org/wiki/Anahita",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_zahhak",
+    "label": "Zahhak",
+    "type": "school",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Zahāk is a personification of evil in Iranian mythology and historiography. In the Avesta and Zoroastrian tradition, Zahāk (going under the name Aži Dahāka) is considered the son of Ahriman, the foe (though ultimately subservient) of Ahura Mazda. In the Shāhnāmeh of Ferdowsi, Zahāk is the son of an Arab ruler named Merdās.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "school",
+      "scripture",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zahhak",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Zahhak",
+        "url": "https://en.wikipedia.org/wiki/Zahhak",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_skepticism",
+    "label": "Skepticism",
+    "type": "school",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Skepticism (US) or scepticism (UK) is a questioning attitude or doubt toward knowledge claims that are seen as mere belief or dogma. For example, if a person is skeptical about claims made by their government about an ongoing war then the person doubts that these claims are accurate. In such cases, skeptics normally recommend not disbelief but suspension of belief, i.e.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "school",
+      "ethics",
+      "scripture",
+      "theology",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Skepticism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Skepticism",
+        "url": "https://en.wikipedia.org/wiki/Skepticism",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1657,8 +1773,35 @@
     ]
   },
   {
-    "id": "wiki_aesthetics",
-    "label": "Aesthetics",
+    "id": "wiki_continental_philosophy",
+    "label": "Continental philosophy",
+    "type": "school",
+    "tradition": "greek_philosophy",
+    "era_start": 1950,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Continental philosophy is a group of Western philosophies first prominent in 20th-century continental Europe that derive from a broadly Kantian tradition of focusing on the individual and society.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "school",
+      "tradition"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Continental_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Continental philosophy",
+        "url": "https://en.wikipedia.org/wiki/Continental_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_danish_philosophy",
+    "label": "Danish philosophy",
     "type": "school",
     "tradition": "greek_philosophy",
     "era_start": -600,
@@ -1666,28 +1809,26 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Aesthetics is the branch of philosophy that studies beauty, taste, and related phenomena. In a broad sense, it includes the philosophy of art, which examines the nature of art, artistic creativity, the meanings of artworks, and audience appreciation. Aesthetic properties are features that influence the appeal of objects.",
+    "summary": "Danish philosophy has a long tradition as part of Western philosophy. Perhaps the most influential Danish philosopher was Søren Kierkegaard, the creator of Christian existentialism, which inspired the philosophical movement of Existentialism. Kierkegaard had a few Danish followers, including Harald Høffding, who later in his life moved on to join the movement of positivism.",
     "key_texts": [],
     "tags": [
       "greek_philosophy",
       "school",
-      "ethics",
-      "scripture",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aesthetics",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danish_philosophy",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Aesthetics",
-        "url": "https://en.wikipedia.org/wiki/Aesthetics",
+        "title": "Wikipedia: Danish philosophy",
+        "url": "https://en.wikipedia.org/wiki/Danish_philosophy",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_archaeology_of_religion_and_ritual",
-    "label": "Archaeology of religion and ritual",
+    "id": "wiki_great_peacemaker",
+    "label": "Great Peacemaker",
     "type": "school",
     "tradition": "indigenous",
     "era_start": -3000,
@@ -1695,20 +1836,20 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "The archaeology of religion and ritual is a growing field of study within archaeology that applies ideas from religious studies, theory and methods, anthropological theory, and archaeological and historical methods and theories to the study of religion and ritual in past human societies from a material perspective.",
+    "summary": "The Great Peacemaker (Mohawk: Skén:nen rahá:wi [ˈskʌ̃ː.nʌ̃ ɾa.ˈhaː.wi]), sometimes referred to as Deganawida or Tekanawí:ta [de.ga.na.ˈwiː.da] in Mohawk (as a mark of respect, some Iroquois avoid using his personal name except in special circumstances) was by tradition, along with Jigonhsasee and Hiawatha, the founder of the Haudenosaunee, commonly called the Iroquois Confederacy.",
     "key_texts": [],
     "tags": [
       "indigenous",
       "school",
-      "ritual",
+      "scripture",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Archaeology_of_religion_and_ritual",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Peacemaker",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Archaeology of religion and ritual",
-        "url": "https://en.wikipedia.org/wiki/Archaeology_of_religion_and_ritual",
+        "title": "Wikipedia: Great Peacemaker",
+        "url": "https://en.wikipedia.org/wiki/Great_Peacemaker",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1743,92 +1884,6 @@
     ]
   },
   {
-    "id": "wiki_argument_from_consciousness",
-    "label": "Argument from consciousness",
-    "type": "school",
-    "tradition": "indigenous",
-    "era_start": -3000,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The argument from consciousness is an argument for the existence of God that claims characteristics of human consciousness (such as qualia) cannot be explained by the physical mechanisms of the human body and brain, therefore asserting that there must be non-physical aspects to human consciousness.",
-    "key_texts": [],
-    "tags": [
-      "indigenous",
-      "school",
-      "consciousness",
-      "theology",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Argument_from_consciousness",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Argument from consciousness",
-        "url": "https://en.wikipedia.org/wiki/Argument_from_consciousness",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_association_for_research_and_enlightenment",
-    "label": "Association for Research and Enlightenment",
-    "type": "school",
-    "tradition": "indigenous",
-    "era_start": -3000,
-    "era_end": null,
-    "origin_lat": 36.89277778,
-    "origin_lng": -75.99,
-    "origin_place": "Wikipedia coordinates",
-    "summary": "The Association for Research and Enlightenment (A.R.E.), also known as Edgar Cayce's A.R.E., is a non-profit organization founded in 1931 by clairvoyant Edgar Cayce to explore spirituality, holistic health, and other psychic topics, as well as preserving historical resources, including Cayce’s psychic readings. A.R.E.",
-    "key_texts": [],
-    "tags": [
-      "indigenous",
-      "school",
-      "liberation",
-      "ritual",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Association_for_Research_and_Enlightenment",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Association for Research and Enlightenment",
-        "url": "https://en.wikipedia.org/wiki/Association_for_Research_and_Enlightenment",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_academic_publishing",
-    "label": "Academic publishing",
-    "type": "school",
-    "tradition": "indigenous",
-    "era_start": -3000,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Academic publishing is the subfield of publishing which distributes academic research and scholarship. Most academic work is published in academic journal articles, books or theses. The part of academic written output that is not formally published but merely printed up or posted on the Internet is often called \"grey literature\".",
-    "key_texts": [],
-    "tags": [
-      "indigenous",
-      "school",
-      "scripture",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Academic_publishing",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Academic publishing",
-        "url": "https://en.wikipedia.org/wiki/Academic_publishing",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
     "id": "wiki_adept",
     "label": "Adept",
     "type": "school",
@@ -1858,59 +1913,33 @@
     ]
   },
   {
-    "id": "wiki_allegory",
-    "label": "Allegory",
+    "id": "wiki_mysticism",
+    "label": "Mysticism",
     "type": "school",
-    "tradition": "indigenous",
-    "era_start": -3000,
+    "tradition": "synthesis",
+    "era_start": 1800,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Authors have used allegory throughout history in all forms of art to illustrate or convey complex ideas and concepts in ways that are comprehensible or striking to its viewers, readers, or listeners.",
+    "summary": "Mysticism encompasses religious traditions of human transformation aided by various practices and religious experiences. Popularly, mysticism is used synonymously with mystical experience, a neologism which refers to an ecstatic unitive experience of becoming one with God, the Absolute, or all that exists.",
     "key_texts": [],
     "tags": [
-      "indigenous",
+      "synthesis",
       "school",
+      "non_duality",
+      "consciousness",
+      "mysticism",
       "ritual",
-      "ethics",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Allegory",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Allegory",
-        "url": "https://en.wikipedia.org/wiki/Allegory",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_anathema",
-    "label": "Anathema",
-    "type": "school",
-    "tradition": "indigenous",
-    "era_start": -3000,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The word anathema has two main meanings. One is something or someone hated or avoided. The other is something or someone that has been formally excommunicated by a church. These meanings come from the New Testament, where an anathema was a person or thing cursed or condemned by God. In the Old Testament, an anathema was something or someone cursed and separated from God because of sin.",
-    "key_texts": [],
-    "tags": [
-      "indigenous",
-      "school",
       "scripture",
-      "theology",
-      "tradition"
+      "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Anathema",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mysticism",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Anathema",
-        "url": "https://en.wikipedia.org/wiki/Anathema",
+        "title": "Wikipedia: Mysticism",
+        "url": "https://en.wikipedia.org/wiki/Mysticism",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1945,38 +1974,8 @@
     ]
   },
   {
-    "id": "wiki_merkabah_mysticism",
-    "label": "Merkabah mysticism",
-    "type": "school",
-    "tradition": "synthesis",
-    "era_start": -100,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Merkabah (Hebrew: מֶרְכָּבָה, romanized: merkāḇā, lit. 'chariot') or Merkavah mysticism (lit. Chariot mysticism) is a school of early Jewish mysticism (c. 100 BCE–1000 CE), centered on visions such as those found in Ezekiel 1 or in the hekhalot literature (\"palaces\" literature), concerning stories of ascents to the heavenly palaces and the Throne of God.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "school",
-      "mysticism",
-      "scripture",
-      "theology",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Merkabah_mysticism",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Merkabah mysticism",
-        "url": "https://en.wikipedia.org/wiki/Merkabah_mysticism",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_cognitive_science_of_religion",
-    "label": "Cognitive science of religion",
+    "id": "wiki_transpersonal_psychology",
+    "label": "Transpersonal psychology",
     "type": "school",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -1984,104 +1983,21 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Cognitive science of religion is the study of religious thought, theory, and behavior from the perspective of the cognitive sciences. Scholars in this field seek to explain how human minds acquire, generate, and transmit religious thoughts, practices, and schemas by means of ordinary cognitive capacities.",
+    "summary": "Transpersonal psychology, or spiritual psychology, is an area of psychology that seeks to integrate the spiritual and transcendent human experiences within the framework of modern psychology.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "school",
       "consciousness",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Cognitive_science_of_religion",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Cognitive science of religion",
-        "url": "https://en.wikipedia.org/wiki/Cognitive_science_of_religion",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_eastern_religions",
-    "label": "Eastern religions",
-    "type": "school",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The Eastern religions are the religions which originated in East, South and Southeast Asia and thus have dissimilarities with Western and African religions.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "school",
-      "scripture",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_religions",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Eastern religions",
-        "url": "https://en.wikipedia.org/wiki/Eastern_religions",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_hellenistic_philosophy",
-    "label": "Hellenistic philosophy",
-    "type": "school",
-    "tradition": "synthesis",
-    "era_start": -323,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Hellenistic philosophy is Ancient Greek philosophy corresponding to the Hellenistic period in Ancient Greece, from the death of Alexander the Great in 323 BCE to the Battle of Actium in 31 BCE. The dominant schools of this period were the Stoics, the Epicureans and the Skeptics.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "school",
-      "scripture",
-      "tradition"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Hellenistic_philosophy",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Hellenistic philosophy",
-        "url": "https://en.wikipedia.org/wiki/Hellenistic_philosophy",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_behavioral_modernity",
-    "label": "Behavioral modernity",
-    "type": "school",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Behavioral modernity refers to a suite of behavioral and cognitive traits associated with humans (Homo sapiens), reflecting capacities such as abstract and symbolic thought, planning depth, cumulative culture, and complex social learning.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "school",
       "ritual",
       "tradition"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Behavioral_modernity",
+    "wikipedia": "https://en.wikipedia.org/wiki/Transpersonal_psychology",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Behavioral modernity",
-        "url": "https://en.wikipedia.org/wiki/Behavioral_modernity",
+        "title": "Wikipedia: Transpersonal psychology",
+        "url": "https://en.wikipedia.org/wiki/Transpersonal_psychology",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]

@@ -667,6 +667,40 @@
     ]
   },
   {
+    "id": "wiki_yoga",
+    "label": "Yoga",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": 1950,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Yoga (UK: , US: ; Sanskrit: योग 'yoga' [joːɡɐ] ; lit. 'yoke' or 'union') is a group of physical, mental, and spiritual practices or disciplines that originated with its own philosophy in ancient India, aimed at controlling body and mind to attain liberation (moksha), as practiced in the Hindu, Jain, and Buddhist traditions.",
+    "key_texts": [
+      "Yoga"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "non_duality",
+      "consciousness",
+      "meditation",
+      "liberation",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoga",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Yoga",
+        "url": "https://en.wikipedia.org/wiki/Yoga",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_aitareya_upanishad",
     "label": "Aitareya Upanishad",
     "type": "text",
@@ -692,6 +726,157 @@
       {
         "title": "Wikipedia: Aitareya Upanishad",
         "url": "https://en.wikipedia.org/wiki/Aitareya_Upanishad",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abirami_antati",
+    "label": "Abirami Antati",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Abirami Antati (Tamil: அபிராமி அந்தாதி, romanized: Apirāmi Antāti) is a Tamil collection of poems sung on goddess Abirami, a deity venerated in Thirukkadaiyur Amirtaghatesvarar Sivan Temple, situated in Tamil Nadu, India. This poetry was composed by Abirami Bhattar (His birth name was Subramanyam Iyer) who lived during the 18th century CE, a contemporary to Serfoji I of Tanjore.",
+    "key_texts": [
+      "Abirami Antati"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abirami_Antati",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abirami Antati",
+        "url": "https://en.wikipedia.org/wiki/Abirami_Antati",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_agni_purana",
+    "label": "Agni Purana",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": 650,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Agni Purana, (Sanskrit: अग्नि पुराण, Agni Purāṇa) is a Sanskrit text and one of the eighteen major Puranas of Hinduism. The text is variously classified as a Purana related to Shaivism, Vaishnavism, Shaktism and Smartism, but is also considered as a text that covers them all impartially without leaning towards a particular theology. The text exists in numerous versions, some very different from others.",
+    "key_texts": [
+      "Agni Purana"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "ritual",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Agni_Purana",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Agni Purana",
+        "url": "https://en.wikipedia.org/wiki/Agni_Purana",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_akshar_purushottam_darshan",
+    "label": "Akshar Purushottam Darshan",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Akshar-Purushottam Darshan (Akṣara-Puruṣottama Darśana) or Aksarabrahma-Parabrahma-Darsanam, \"Akshar-Purushottam philosophy,\" is a designation used by BAPS as an alternative name for the Swaminarayan Darshana, Swaminarayan's view or teachings, to distinguish it from other Vedanta-traditions.",
+    "key_texts": [
+      "Akshar Purushottam Darshan"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Akshar_Purushottam_Darshan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Akshar Purushottam Darshan",
+        "url": "https://en.wikipedia.org/wiki/Akshar_Purushottam_Darshan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ancient_iranian_religion",
+    "label": "Ancient Iranian religion",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ancient Iranian religions were a set of ancient beliefs and practices of the Iranian peoples before the widespread conversion to Zoroastrianism. The religion closest to it was the historical Vedic religion that was practiced during the Vedic period.",
+    "key_texts": [
+      "Ancient Iranian religion"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "consciousness",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Iranian_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ancient Iranian religion",
+        "url": "https://en.wikipedia.org/wiki/Ancient_Iranian_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_andrea_r_jain",
+    "label": "Andrea R. Jain",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Andrea R. Jain is a professor of South Asian religions and yoga. She is known for her writings on modern yoga as exercise, including her 2015 book Selling Yoga: from Counterculture to Pop culture. She is the editor of the Journal of the American Academy of Religion (JAAR).",
+    "key_texts": [
+      "Andrea R. Jain"
+    ],
+    "tags": [
+      "hinduism",
+      "text"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_R._Jain",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Andrea R. Jain",
+        "url": "https://en.wikipedia.org/wiki/Andrea_R._Jain",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -758,8 +943,8 @@
     ]
   },
   {
-    "id": "wiki_abirami_antati",
-    "label": "Abirami Antati",
+    "id": "wiki_being_different",
+    "label": "Being Different",
     "type": "text",
     "tradition": "hinduism",
     "era_start": -1500,
@@ -767,84 +952,49 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Abirami Antati (Tamil: அபிராமி அந்தாதி, romanized: Apirāmi Antāti) is a Tamil collection of poems sung on goddess Abirami, a deity venerated in Thirukkadaiyur Amirtaghatesvarar Sivan Temple, situated in Tamil Nadu, India. This poetry was composed by Abirami Bhattar (His birth name was Subramanyam Iyer) who lived during the 18th century CE, a contemporary to Serfoji I of Tanjore.",
+    "summary": "Being Different: An Indian Challenge to Western Universalism is a 2011 book by Rajiv Malhotra, an Indian-American author, philanthropist and public speaker, published by HarperCollins. The book reverts the gaze of the western cultures on India, repositioning India from being the observed to the observer, by looking at the West from a Dharmic point of view.",
     "key_texts": [
-      "Abirami Antati"
+      "Being Different"
     ],
     "tags": [
       "hinduism",
-      "text",
-      "scripture",
-      "theology"
+      "text"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Abirami_Antati",
+    "wikipedia": "https://en.wikipedia.org/wiki/Being_Different",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Abirami Antati",
-        "url": "https://en.wikipedia.org/wiki/Abirami_Antati",
+        "title": "Wikipedia: Being Different",
+        "url": "https://en.wikipedia.org/wiki/Being_Different",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_adityas",
-    "label": "Adityas",
+    "id": "wiki_a_guttara_nik_ya",
+    "label": "Aṅguttara Nikāya",
     "type": "text",
-    "tradition": "hinduism",
-    "era_start": -1500,
+    "tradition": "buddhism",
+    "era_start": -500,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Adityas (Sanskrit: आदित्य, lit. 'of Aditi' IAST: Āditya Sanskrit pronunciation: [aːd̪ɪt̪jɐ]) refers to a class of Hindu deities. They are usually presented as solar deities, and the offspring of the Goddess Aditi. The name Aditya, in the singular, is taken to refer to the sun god Surya.",
+    "summary": "The Aṅguttara Nikāya (aṅguttaranikāya; lit. 'Increased-by-One Collection', also translated \"Gradual Collection\" or \"Numerical Discourses\") is a Buddhist scriptures collection, the fourth of the five Nikāyas, or collections, in the Sutta Piṭaka, which is one of the \"three baskets\" that comprise the Pāli Tipiṭaka of Theravāda Buddhism.",
     "key_texts": [
-      "Adityas"
+      "Aṅguttara Nikāya"
     ],
     "tags": [
-      "hinduism",
+      "buddhism",
       "text",
-      "scripture",
-      "theology"
+      "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adityas",
+    "wikipedia": "https://en.wikipedia.org/wiki/A%E1%B9%85guttara_Nik%C4%81ya",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Adityas",
-        "url": "https://en.wikipedia.org/wiki/Adityas",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_agama_hinduism",
-    "label": "Agama (Hinduism)",
-    "type": "text",
-    "tradition": "hinduism",
-    "era_start": -1100,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The Agamas (Devanagari: आगम, IAST: āgama) are a collection of several Tantric literature and scriptures of Hindu schools. The term literally means tradition or \"that which has come down\", and the Agama texts describe cosmology, epistemology, philosophical doctrines, precepts on meditation and practices, four kinds of yoga, mantras, temple construction, deity worship and ways to attain sixfold desires.",
-    "key_texts": [
-      "Agama (Hinduism)"
-    ],
-    "tags": [
-      "hinduism",
-      "text",
-      "non_duality",
-      "meditation",
-      "scripture",
-      "metaphysics"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Agama_(Hinduism)",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Agama (Hinduism)",
-        "url": "https://en.wikipedia.org/wiki/Agama_(Hinduism)",
+        "title": "Wikipedia: Aṅguttara Nikāya",
+        "url": "https://en.wikipedia.org/wiki/A%E1%B9%85guttara_Nik%C4%81ya",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -879,6 +1029,94 @@
     ]
   },
   {
+    "id": "wiki_brahma_sampradaya",
+    "label": "Brahma Sampradaya",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In Hinduism, the Brahma Sampradaya (IAST: Brahmā-sampradāya) is the disciplic succession (sampradaya) of gurus starting with Brahma. The term is most often used to refer to the beliefs and teachings of Madhvacharya, his Dvaita Vedanta philosophy, and Sadh Vaishnavism, a tradition of Vaishnavism founded by Madhvacharya.",
+    "key_texts": [
+      "Brahma Sampradaya"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "ritual",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brahma_Sampradaya",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Brahma Sampradaya",
+        "url": "https://en.wikipedia.org/wiki/Brahma_Sampradaya",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_buddhism_and_eastern_religions",
+    "label": "Buddhism and Eastern religions",
+    "type": "text",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Buddhism's history spans over 2,500 years, originating from the Indian subcontinent in the 5th century BCE and spreading to East Asia by the 2nd century CE. Teachings of the Buddha were introduced over time, as a response to brahmanical teachings. Buddhism relies on the continual analysis of the self, rather than being defined by a ritualistic system, or singular set of beliefs.",
+    "key_texts": [
+      "Buddhism and Eastern religions"
+    ],
+    "tags": [
+      "buddhism",
+      "text",
+      "liberation",
+      "ritual"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Buddhism_and_Eastern_religions",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Buddhism and Eastern religions",
+        "url": "https://en.wikipedia.org/wiki/Buddhism_and_Eastern_religions",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_buddhism_and_western_philosophy",
+    "label": "Buddhism and Western philosophy",
+    "type": "text",
+    "tradition": "buddhism",
+    "era_start": -325,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Buddhist thought and Western philosophy include several parallels. In antiquity, the Greek philosopher Pyrrho traveled with Alexander the Great's army on its conquest of India (327 to 325 BCE) and based his philosophy of Pyrrhonism on what he learned there. Christopher I. Beckwith has identified a translation of the Buddhist three marks of existence in Pyrrho's teachings.",
+    "key_texts": [
+      "Buddhism and Western philosophy"
+    ],
+    "tags": [
+      "buddhism",
+      "text"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Buddhism_and_Western_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Buddhism and Western philosophy",
+        "url": "https://en.wikipedia.org/wiki/Buddhism_and_Western_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_abhidharmad_pa",
     "label": "Abhidharmadīpa",
     "type": "text",
@@ -903,6 +1141,37 @@
       {
         "title": "Wikipedia: Abhidharmadīpa",
         "url": "https://en.wikipedia.org/wiki/Abhidharmad%C4%ABpa",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_theravada_abhidhamma",
+    "label": "Theravada Abhidhamma",
+    "type": "text",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Theravada Abhidhamma tradition, also known as the Abhidhamma Method, refers to a scholastic systematization of the Theravāda school's understanding of the highest Buddhist teachings (Abhidhamma). These teachings are traditionally believed to have been taught by the Buddha, though modern scholars date the texts of the Abhidhamma Piṭaka to the 3rd century BCE.",
+    "key_texts": [
+      "Theravada Abhidhamma"
+    ],
+    "tags": [
+      "buddhism",
+      "text",
+      "liberation",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Theravada_Abhidhamma",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Theravada Abhidhamma",
+        "url": "https://en.wikipedia.org/wiki/Theravada_Abhidhamma",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -969,93 +1238,61 @@
     ]
   },
   {
-    "id": "wiki_ahkam",
-    "label": "Ahkam",
+    "id": "wiki_apostolic_tradition",
+    "label": "Apostolic Tradition",
     "type": "text",
-    "tradition": "islam",
-    "era_start": 610,
+    "tradition": "christianity",
+    "era_start": 235,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Ahkam (Arabic: أحكام, romanized: aḥkām, lit. 'rulings', plural of ḥukm, حُكْم) is an Islamic term with several meanings. In the Quran, the word hukm is variously used to mean arbitration, judgement, authority, or God's will. In the early Islamic period, the Kharijites gave it political connotations by declaring that they accept only the hukm of God (حُكْمُ اللّهِ).",
+    "summary": "The Apostolic Tradition (or Egyptian Church Order) is an early Christian treatise which belongs to the genre of the ancient Church Orders. It has been described to be of \"incomparable importance as a source of information about church life and liturgy in the third century\". Rediscovered in the 19th century, it was given the name of \"Egyptian Church Order\".",
     "key_texts": [
-      "Ahkam"
+      "Apostolic Tradition"
     ],
     "tags": [
-      "islam",
+      "christianity",
       "text",
-      "ethics",
-      "scripture",
-      "theology"
+      "ritual",
+      "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahkam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Apostolic_Tradition",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ahkam",
-        "url": "https://en.wikipedia.org/wiki/Ahkam",
+        "title": "Wikipedia: Apostolic Tradition",
+        "url": "https://en.wikipedia.org/wiki/Apostolic_Tradition",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_ahl_al_fatrah",
-    "label": "Ahl al-Fatrah",
+    "id": "wiki_anabaptism",
+    "label": "Anabaptism",
     "type": "text",
-    "tradition": "islam",
+    "tradition": "christianity",
     "era_start": 30,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "In Islam, Ahl al-Fatrah (Arabic: أهل الفترة, lit. 'people of the time period') refers to the people who lived at any point between the Ascension of Jesus around 30 CE and Muhammad's first revelation around 610 CE. The term denotes a period of interval, when God did not send an Islamic prophet or messenger to spread awareness of Abrahamic monotheism amongst humanity.",
+    "summary": "Anabaptism (from Neo-Latin anabaptista, from the Greek ἀναβαπτισμός: ἀνά 're-' and βαπτισμός 'baptism'; German: Täufer, earlier also Wiedertäufer) is a Christian movement which traces its origins to the Radical Reformation in the 16th century. Anabaptists believe that baptism is valid only when candidates freely confess their faith in Christ and request to be baptized.",
     "key_texts": [
-      "Ahl al-Fatrah"
+      "Anabaptism"
     ],
     "tags": [
-      "islam",
-      "text",
-      "consciousness",
-      "scripture",
-      "theology"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahl_al-Fatrah",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ahl al-Fatrah",
-        "url": "https://en.wikipedia.org/wiki/Ahl_al-Fatrah",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_ahl_al_hadith",
-    "label": "Ahl al-Hadith",
-    "type": "text",
-    "tradition": "islam",
-    "era_start": 610,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ahl al-Hadith (Arabic: أَهْل الحَدِيث, romanized: Ahl al-Ḥadīth, lit. 'people of hadith') is an Islamic school of Sunni Islam that emerged during the 2nd and 3rd Islamic centuries of the Islamic era (late 8th and 9th century CE) as a movement of hadith scholars who considered the Quran and authentic hadith to be the only authority in matters of law and creed.",
-    "key_texts": [
-      "Ahl al-Hadith"
-    ],
-    "tags": [
-      "islam",
+      "christianity",
       "text",
       "scripture",
       "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahl_al-Hadith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anabaptism",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ahl al-Hadith",
-        "url": "https://en.wikipedia.org/wiki/Ahl_al-Hadith",
+        "title": "Wikipedia: Anabaptism",
+        "url": "https://en.wikipedia.org/wiki/Anabaptism",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1091,18 +1328,136 @@
     ]
   },
   {
-    "id": "wiki_apostolic_tradition",
-    "label": "Apostolic Tradition",
+    "id": "wiki_anglican_communion",
+    "label": "Anglican Communion",
     "type": "text",
     "tradition": "christianity",
-    "era_start": 235,
+    "era_start": 30,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "The Apostolic Tradition (or Egyptian Church Order) is an early Christian treatise which belongs to the genre of the ancient Church Orders. It has been described to be of \"incomparable importance as a source of information about church life and liturgy in the third century\". Rediscovered in the 19th century, it was given the name of \"Egyptian Church Order\".",
+    "summary": "The Anglican Communion (AC) is a Christian communion consisting of the autocephalous national and regional churches historically in full communion with the Archbishop of Canterbury. Member churches exercise jurisdictional independence but share a common heritage concerning Anglican identity and commitment to scripture, tradition, and reason as sources of authority.",
     "key_texts": [
-      "Apostolic Tradition"
+      "Anglican Communion"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anglican_Communion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anglican Communion",
+        "url": "https://en.wikipedia.org/wiki/Anglican_Communion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_annuario_pontificio",
+    "label": "Annuario Pontificio",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Annuario Pontificio (Italian for Pontifical Yearbook) is the annual directory of the Holy See of the Catholic Church. It lists the popes in chronological order and all officials of the Holy See's departments.",
+    "key_texts": [
+      "Annuario Pontificio"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Annuario_Pontificio",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Annuario Pontificio",
+        "url": "https://en.wikipedia.org/wiki/Annuario_Pontificio",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_christianity_in_the_1st_century",
+    "label": "Christianity in the 1st century",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 29,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Christianity in the 1st century covers the formative history of Christianity from the start of the ministry of Jesus (c. 27–29 AD) to the death of the last of the Twelve Apostles (c. 100) and is thus also known as the Apostolic Age. Early Christianity developed out of the eschatological ministry of Jesus.",
+    "key_texts": [
+      "Christianity in the 1st century"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christianity_in_the_1st_century",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Christianity in the 1st century",
+        "url": "https://en.wikipedia.org/wiki/Christianity_in_the_1st_century",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_apostolic_fathers",
+    "label": "Apostolic Fathers",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Apostolic Fathers, also known as the Ante-Nicene Fathers, were core Christian theologians among the Church Fathers who lived in the 1st and 2nd centuries AD who are believed to have personally known some of the Twelve Apostles or to have been significantly influenced by them. Their writings, though widely circulated in early Christianity, were not included in the canon of the New Testament.",
+    "key_texts": [
+      "Apostolic Fathers"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Apostolic_Fathers",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Apostolic Fathers",
+        "url": "https://en.wikipedia.org/wiki/Apostolic_Fathers",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_athanasian_creed",
+    "label": "Athanasian Creed",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Athanasian Creed—also called the Quicunque Vult (or Quicumque Vult), which is both its Latin name and its opening words, meaning \"Whosoever wishes\"—is a Christian statement of belief focused on Trinitarian doctrine and Christology. Used by Christian churches since the early sixth century, it was the first creed to explicitly state the equality of the three hypostases of the Trinity.",
+    "key_texts": [
+      "Athanasian Creed"
     ],
     "tags": [
       "christianity",
@@ -1110,12 +1465,42 @@
       "ritual",
       "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Apostolic_Tradition",
+    "wikipedia": "https://en.wikipedia.org/wiki/Athanasian_Creed",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Apostolic Tradition",
-        "url": "https://en.wikipedia.org/wiki/Apostolic_Tradition",
+        "title": "Wikipedia: Athanasian Creed",
+        "url": "https://en.wikipedia.org/wiki/Athanasian_Creed",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_azusa_street_revival",
+    "label": "Azusa Street Revival",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Azusa Street Revival was a historic series of revival meetings that took place in Los Angeles, California. It was led by William J. Seymour, an African-American preacher. The revival began on April 9, 1906, and continued until roughly 1915.",
+    "key_texts": [
+      "Azusa Street Revival"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "ritual",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Azusa_Street_Revival",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Azusa Street Revival",
+        "url": "https://en.wikipedia.org/wiki/Azusa_Street_Revival",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1150,69 +1535,39 @@
     ]
   },
   {
-    "id": "wiki_ablution_in_christianity",
-    "label": "Ablution in Christianity",
+    "id": "wiki_jewish_mysticism",
+    "label": "Jewish mysticism",
     "type": "text",
-    "tradition": "christianity",
-    "era_start": 30,
+    "tradition": "judaism",
+    "era_start": -100,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "In Christianity, ablution is a prescribed washing of part or all of the body or possessions, such as clothing or ceremonial objects, with the intent of purification or dedication. In Christianity, both baptism and footwashing are forms of ablution. Before praying the canonical hours at seven fixed prayer times, Oriental Orthodox Christians wash their hands and face (cf. Agpeya, Shehimo).",
+    "summary": "Academic study of Jewish mysticism, especially since Gershom Scholem's Major Trends in Jewish Mysticism (1941), draws distinctions between different forms of mysticism which were practiced in different eras of Jewish history. Of these, Kabbalah, which emerged in 12th-century southwestern Europe, is the most well known, but it is not the only typological form, nor was it the first form which emerged.",
     "key_texts": [
-      "Ablution in Christianity"
+      "Jewish mysticism"
     ],
     "tags": [
-      "christianity",
+      "judaism",
       "text",
-      "liberation",
-      "ritual",
+      "mysticism",
       "scripture",
       "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ablution_in_Christianity",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jewish_mysticism",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ablution in Christianity",
-        "url": "https://en.wikipedia.org/wiki/Ablution_in_Christianity",
+        "title": "Wikipedia: Jewish mysticism",
+        "url": "https://en.wikipedia.org/wiki/Jewish_mysticism",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_acts_of_supremacy",
-    "label": "Acts of Supremacy",
-    "type": "text",
-    "tradition": "christianity",
-    "era_start": 30,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The Acts of Supremacy are two acts passed by the Parliament of England in the 16th century that established the English monarchs as the head of the Church of England; two similar laws were passed by the Parliament of Ireland establishing the English monarchs as the head of the Church of Ireland. The 1534 act declared King Henry VIII and his successors as the Supreme Head of the Church, replacing the Pope.",
-    "key_texts": [
-      "Acts of Supremacy"
-    ],
-    "tags": [
-      "christianity",
-      "text",
-      "scripture"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Acts_of_Supremacy",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Acts of Supremacy",
-        "url": "https://en.wikipedia.org/wiki/Acts_of_Supremacy",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_aggadah",
-    "label": "Aggadah",
+    "id": "wiki_hasidic_judaism",
+    "label": "Hasidic Judaism",
     "type": "text",
     "tradition": "judaism",
     "era_start": -1200,
@@ -1220,23 +1575,232 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Aggadah (Hebrew: אַגָּדָה, romanized: Aggāḏā, or הַגָּדָה Haggāḏā; Jewish Babylonian Aramaic: אֲגַדְתָּא, romanized: Aggāḏṯā; 'tales', 'legend', 'lore') is the non-legalistic exegesis which appears in the classical rabbinic literature of Judaism, particularly the Talmud and Midrash.",
+    "summary": "Hasidism (Hebrew: חסידות, romanized: Ḥăsīdūt) or Hasidic Judaism is a religious movement within Judaism that arose in the 18th century as a spiritual revival movement in contemporary Western Ukraine before spreading rapidly throughout Eastern Europe. Today, most of those affiliated with the movement, known as hassidim, reside in Israel and in the United States.",
     "key_texts": [
-      "Aggadah"
+      "Hasidic Judaism"
     ],
     "tags": [
       "judaism",
       "text",
-      "ethics",
+      "ritual",
       "scripture",
       "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aggadah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hasidic_Judaism",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Aggadah",
-        "url": "https://en.wikipedia.org/wiki/Aggadah",
+        "title": "Wikipedia: Hasidic Judaism",
+        "url": "https://en.wikipedia.org/wiki/Hasidic_Judaism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aleppo_codex",
+    "label": "Aleppo Codex",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Aleppo Codex (Hebrew: כֶּתֶר אֲרַם צוֹבָא, romanized: Keṯer ʾĂrām-Ṣoḇāʾ, lit. 'Crown of Aleppo') is a medieval bound manuscript of the Hebrew Bible. The codex was written in the city of Tiberias in the tenth century CE (circa 920) under the rule of the Abbasid Caliphate, and was endorsed for its accuracy by Maimonides.",
+    "key_texts": [
+      "Aleppo Codex"
+    ],
+    "tags": [
+      "judaism",
+      "text",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aleppo_Codex",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aleppo Codex",
+        "url": "https://en.wikipedia.org/wiki/Aleppo_Codex",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_biblical_aramaic",
+    "label": "Biblical Aramaic",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Biblical Aramaic is the form of Aramaic that is used in the books of Daniel and Ezra in the Hebrew Bible. It should not be confused with the Targums — Aramaic paraphrases, explanations and expansions of the Hebrew scriptures.",
+    "key_texts": [
+      "Biblical Aramaic"
+    ],
+    "tags": [
+      "judaism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Biblical_Aramaic",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Biblical Aramaic",
+        "url": "https://en.wikipedia.org/wiki/Biblical_Aramaic",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_biblical_hebrew",
+    "label": "Biblical Hebrew",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": 70,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Biblical Hebrew (Hebrew: עִבְרִית מִקְרָאִית, romanized: ʿiḇrîṯ miqrāʾîṯ or לְשׁוֹן הַמִּקְרָא, ləšôn ha-miqrāʾ ), also called Classical Hebrew, is an archaic form of the Hebrew language, a language in the Canaanitic branch of the Semitic languages spoken by the Israelites in the area known as the Land of Israel, roughly west of the Jordan River and east of the Mediterranean Sea.",
+    "key_texts": [
+      "Biblical Hebrew"
+    ],
+    "tags": [
+      "judaism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Biblical_Hebrew",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Biblical Hebrew",
+        "url": "https://en.wikipedia.org/wiki/Biblical_Hebrew",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_mount_sinai_bible",
+    "label": "Mount Sinai (Bible)",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Mount Sinai (Hebrew: הַר סִינַי‬‎, Har Sīnay) is the mountain at which the Ten Commandments were given to the Hebrew prophet Moses by God, according to the Book of Exodus in the Hebrew Bible/Old Testament. In the Book of Deuteronomy, these events are described as having transpired at Mount Horeb. \"Sinai\" and \"Horeb\" are generally considered by biblical scholars to refer to the same place.",
+    "key_texts": [
+      "Mount Sinai (Bible)"
+    ],
+    "tags": [
+      "judaism",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mount_Sinai_(Bible)",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Mount Sinai (Bible)",
+        "url": "https://en.wikipedia.org/wiki/Mount_Sinai_(Bible)",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_birkat_hamazon",
+    "label": "Birkat Hamazon",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Birkat Hamazon (Hebrew: בִּרְכַּת הַמָּזוׂן, romanized: birkath hammāzôn \"The Blessing of the Food\"), known in English as the Grace After Meals (Yiddish: בענטשן, romanized: benchen \"to bless\", Yinglish: Bentsching), is a set of Hebrew blessings that Jewish law prescribes following a meal that includes at least a kezayit (olive-sized) piece of bread.",
+    "key_texts": [
+      "Birkat Hamazon"
+    ],
+    "tags": [
+      "judaism",
+      "text",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Birkat_Hamazon",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Birkat Hamazon",
+        "url": "https://en.wikipedia.org/wiki/Birkat_Hamazon",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_black_hebrew_israelites",
+    "label": "Black Hebrew Israelites",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Black Hebrew Israelites (also called Hebrew Israelites, Black Hebrews, Black Israelites, and African Hebrew Israelites) are a new religious movement claiming that African Americans are descendants of the ancient Israelites. Some sub-groups believe that indigenous peoples of the Americas and Latin Americans are descendants of the Israelites, as well. Black Hebrew Israelite teachings draw on a wide range of sources.",
+    "key_texts": [
+      "Black Hebrew Israelites"
+    ],
+    "tags": [
+      "judaism",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Hebrew_Israelites",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Black Hebrew Israelites",
+        "url": "https://en.wikipedia.org/wiki/Black_Hebrew_Israelites",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ani_ma_amin",
+    "label": "Ani Ma'amin",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ani Ma'amin (Hebrew: אֲנִי מַאֲמִין, lit. 'I believe') is a prosaic rendition of Maimonides's thirteen-point version of the Jewish principles of faith. It is based on his Mishnah commentary to tractate Sanhedrin. The popular version of Ani Ma'amin is of a later date and has some significant differences with Maimonides's original version. It is of unknown authorship.",
+    "key_texts": [
+      "Ani Ma'amin"
+    ],
+    "tags": [
+      "judaism",
+      "text",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ani_Ma'amin",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ani Ma'amin",
+        "url": "https://en.wikipedia.org/wiki/Ani_Ma'amin",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1305,6 +1869,35 @@
     ]
   },
   {
+    "id": "wiki_liezi",
+    "label": "Liezi",
+    "type": "text",
+    "tradition": "taoism",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Liezi (Chinese: 列子; Wade–Giles: Lieh-tzŭ) is a Taoist text attributed to Lie Yukou, a c. 5th century BC Hundred Schools of Thought philosopher. Although there were references to Lie's Liezi from the 3rd and 2nd centuries BC, a number of Chinese and Western scholars believe that the content of the current text was compiled around the 4th century CE by Zhang Zhan.",
+    "key_texts": [
+      "Liezi"
+    ],
+    "tags": [
+      "taoism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Liezi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Liezi",
+        "url": "https://en.wikipedia.org/wiki/Liezi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_action_theory_philosophy",
     "label": "Action theory (philosophy)",
     "type": "text",
@@ -1366,6 +1959,34 @@
     ]
   },
   {
+    "id": "wiki_analytical_marxism",
+    "label": "Analytical Marxism",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Analytical Marxism is an academic school of Marxist theory which emerged in the late 1970s, largely prompted by G. A. Cohen's Karl Marx's Theory of History: A Defence (1978). In this book, Cohen drew on the Anglo–American tradition of analytic philosophy in an attempt to align Marxist theory with an analytic style and standard, which led to his distancing of Marxism from continental European philosophy.",
+    "key_texts": [
+      "Analytical Marxism"
+    ],
+    "tags": [
+      "synthesis",
+      "text"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Analytical_Marxism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Analytical Marxism",
+        "url": "https://en.wikipedia.org/wiki/Analytical_Marxism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_australian_philosophy",
     "label": "Australian philosophy",
     "type": "text",
@@ -1422,8 +2043,130 @@
     ]
   },
   {
-    "id": "wiki_alawites",
-    "label": "Alawites",
+    "id": "wiki_dasam_granth",
+    "label": "Dasam Granth",
+    "type": "text",
+    "tradition": "sikhism",
+    "era_start": 1698,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Dasam Granth (Gurmukhi: ਦਸਮ ਗ੍ਰੰਥ dasama gratha) is a collection of various poetic compositions attributed to Guru Gobind Singh. It is differentiated from the Guru Granth Sahib due to its focus on martial themes and imagery, such as warfare, weaponry, and other warrior-matters, known collectively as bir ras (heroic strain of expression), as opposed to the Guru Granth Sahib's shanti ras (verses that inspire pe...",
+    "key_texts": [
+      "Dasam Granth"
+    ],
+    "tags": [
+      "sikhism",
+      "text",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dasam_Granth",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Dasam Granth",
+        "url": "https://en.wikipedia.org/wiki/Dasam_Granth",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bachittar_natak",
+    "label": "Bachittar Natak",
+    "type": "text",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Bachittar Natak or Bachitar Natak (Gurmukhi: ਬਚਿਤ੍ਰ ਨਾਟਕ, romanized: Bachittar Natak; 'The Wonderful Play') is partly an autobiography of Guru Gobind Singh. The appellation Bachitar Natak is sometimes confusingly only applied around the Dasam Granth. The Bachitar Natak Granth, not to be confused with the Bachittar Natak composition, contains a large corpus of the Dasam Granth canon.",
+    "key_texts": [
+      "Bachittar Natak"
+    ],
+    "tags": [
+      "sikhism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bachittar_Natak",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bachittar Natak",
+        "url": "https://en.wikipedia.org/wiki/Bachittar_Natak",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhagat_beni",
+    "label": "Bhagat Beni",
+    "type": "text",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bhagat Beni (Punjabi: ਭਗਤ ਬੈਣੀ, pronunciation: [bhæɡæt̪ bɛɳiː]) is one of the fifteen sants and Sufis, whose teachings have been incorporated in the Guru Granth Sahib, it is believed he spent most of his time in prayer and meditation, who often neglected the household needs while in meditation and prayer. According to W. H.",
+    "key_texts": [
+      "Bhagat Beni"
+    ],
+    "tags": [
+      "sikhism",
+      "text",
+      "meditation",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Beni",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhagat Beni",
+        "url": "https://en.wikipedia.org/wiki/Bhagat_Beni",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_jain_philosophy",
+    "label": "Jain philosophy",
+    "type": "text",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Jain philosophy or Jaina philosophy refers to the ancient Indian philosophical system of the Jain religion. It comprises all the philosophical investigations and systems of inquiry that developed among the early branches of Jainism in ancient India following the nirvana of Mahāvīra (c. 6th or 5th century BCE).",
+    "key_texts": [
+      "Jain philosophy"
+    ],
+    "tags": [
+      "jainism",
+      "text",
+      "liberation",
+      "ethics",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jain_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Jain philosophy",
+        "url": "https://en.wikipedia.org/wiki/Jain_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_chinese_ritual_mastery_traditions",
+    "label": "Chinese ritual mastery traditions",
     "type": "text",
     "tradition": "synthesis",
     "era_start": 1800,
@@ -1431,24 +2174,262 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Alawites (Arabic: العلويون, romanized: al-ʿAlawiyyūn) are an ethnoreligious group, many of whom identify as Arabs, who live primarily in Syria and elsewhere in the Levant. They follow Alawism, an offshoot of Shia Islam as a ghulat branch during the ninth century. Alawites venerate Ali ibn Abi Talib, the \"first Imam\" in the Twelver school, as a manifestation of the divine essence.",
+    "summary": "Chinese ritual mastery traditions, also referred to as ritual teachings (Chinese: 法教; pinyin: fǎjiào, sometimes rendered as \"Faism\"), Folk Taoism (民間道教; Mínjiàn Dàojiào), or Red Taoism (mostly in east China and Taiwan), constitute a large group of Chinese orders of ritual officers who operate within the Chinese folk religion but outside the institutions of official Taoism.",
     "key_texts": [
-      "Alawites"
+      "Chinese ritual mastery traditions"
     ],
     "tags": [
       "synthesis",
       "text",
-      "mysticism",
       "ritual",
-      "scripture",
-      "theology"
+      "scripture"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Alawites",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_ritual_mastery_traditions",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Alawites",
-        "url": "https://en.wikipedia.org/wiki/Alawites",
+        "title": "Wikipedia: Chinese ritual mastery traditions",
+        "url": "https://en.wikipedia.org/wiki/Chinese_ritual_mastery_traditions",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_atma_siddhi",
+    "label": "Atma Siddhi",
+    "type": "text",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Atma Siddhi Shastra (Gujarati: આત્મસિદ્ધિ) is a spiritual treatise in verse, composed in Gujarati by the nineteenth century Jain saint, philosopher poet Shrimad Rajchandra (1867–1901). Atma according to Jainism means \"soul\" or the \"self\" and \"siddhi\" means \"attainment\". Hence, Atma Siddhi is translated as self attainment or self realization.",
+    "key_texts": [
+      "Atma Siddhi"
+    ],
+    "tags": [
+      "jainism",
+      "text",
+      "liberation",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Atma_Siddhi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Atma Siddhi",
+        "url": "https://en.wikipedia.org/wiki/Atma_Siddhi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhakt_mara_stotra",
+    "label": "Bhaktāmara Stotra",
+    "type": "text",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Bhaktāmara Stotra (Sanskrit: भक्तामरस्तोत्र, romanized: bhaktāmara-stotra, lit. 'Hymn of an immortal devotee') is a Jain religious hymn (stotra) written in Sanskrit. It was authored by Manatunga (7th century CE). The Digambaras believe it has 48 verses while Śvetāmbaras believe it consists of 44 verses. The hymn praises Rishabhanatha, the first Tirthankara of Jainism in this time cycle.",
+    "key_texts": [
+      "Bhaktāmara Stotra"
+    ],
+    "tags": [
+      "jainism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhakt%C4%81mara_Stotra",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhaktāmara Stotra",
+        "url": "https://en.wikipedia.org/wiki/Bhakt%C4%81mara_Stotra",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_canaanite_religion",
+    "label": "Canaanite religion",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The religion and mythic beliefs of the people in the land of Canaan in the southern Levant during approximately the first three millennia BCE were polytheistic and in some cases monolatristic. They were influenced by neighboring cultures, particularly ancient Egyptian and Mesopotamian religious practices.",
+    "key_texts": [
+      "Canaanite religion"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Canaanite_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Canaanite religion",
+        "url": "https://en.wikipedia.org/wiki/Canaanite_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_catholic_church",
+    "label": "Catholic Church",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1550,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Catholic Church (Latin: Ecclesia Catholica), commonly called the Roman Catholic Church, is the largest Christian denomination, with an estimated 1.28 to 1.41 billion baptized members worldwide as of 2026. It consists of 24 autonomous (sui iuris) churches—the Latin Church and 23 Eastern Catholic Churches—organized into nearly 3,500 dioceses and eparchies governed by bishops.",
+    "key_texts": [
+      "Catholic Church"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Catholic_Church",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Catholic Church",
+        "url": "https://en.wikipedia.org/wiki/Catholic_Church",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_chinese_manichaeism",
+    "label": "Chinese Manichaeism",
+    "type": "text",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Chinese Manichaeism, also known as Monijiao (Chinese: 摩尼教; pinyin: Móníjiào; Wade–Giles: Mo2-ni2 Chiao4; lit. 'religion of Moni') or Mingjiao (Chinese: 明教; pinyin: Míngjiào; Wade–Giles: Ming2-Chiao4; lit. 'religion of light or 'bright religion'), was the form of Manichaeism transmitted to China.",
+    "key_texts": [
+      "Chinese Manichaeism"
+    ],
+    "tags": [
+      "jainism",
+      "text",
+      "liberation",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_Manichaeism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Chinese Manichaeism",
+        "url": "https://en.wikipedia.org/wiki/Chinese_Manichaeism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_chinese_folk_religion",
+    "label": "Chinese folk religion",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Chinese folk religion or folk beliefs, also known as Shenism, comprises a range of traditional religious practices of Han Chinese, including the Chinese diaspora. This includes the veneration of shen ('spirits') and ancestors, and worship devoted to deities and immortals, who can be deities of places or natural phenomena, of human behaviour, or progenitors of family lineages.",
+    "key_texts": [
+      "Chinese folk religion"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_folk_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Chinese folk religion",
+        "url": "https://en.wikipedia.org/wiki/Chinese_folk_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_magi",
+    "label": "Magi",
+    "type": "text",
+    "tradition": "zoroastrianism",
+    "era_start": 1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Magi (PLUR), or magus (SING), is the term for priests in Zoroastrianism and earlier Iranian religions. The earliest known use of the word magi is in the trilingual inscription written by Darius the Great, known as the Behistun Inscription. Old Persian texts refer to a magus as a Zurvanic, and presumably Zoroastrian, priest.",
+    "key_texts": [
+      "Magi"
+    ],
+    "tags": [
+      "zoroastrianism",
+      "text",
+      "mysticism",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Magi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Magi",
+        "url": "https://en.wikipedia.org/wiki/Magi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahuna_vairya",
+    "label": "Ahuna vairya",
+    "type": "text",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahuna vairya (Avestan: 𐬀𐬵𐬎𐬥𐬀⸱ 𐬬𐬀𐬌𐬭𐬌𐬌𐬀) is the first of Zoroastrianism's four Gathic Avestan manthras. The text, which appears in Yasna 27.13, is also known after its opening words yatha ahu vairyo. In Zoroastrian tradition, the manthra is also known as the ahun(a)war. Numerous translations and interpretations exist, but the overall meaning of the text remains obscure.",
+    "key_texts": [
+      "Ahuna vairya"
+    ],
+    "tags": [
+      "zoroastrianism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahuna_vairya",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahuna vairya",
+        "url": "https://en.wikipedia.org/wiki/Ahuna_vairya",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1478,6 +2459,35 @@
       {
         "title": "Wikipedia: Ahunavaiti Gatha",
         "url": "https://en.wikipedia.org/wiki/Ahunavaiti_Gatha",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_book_of_arda_viraf",
+    "label": "Book of Arda Viraf",
+    "type": "text",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Book of Arda Viraf (Middle Persian: Ardā Wirāz nāmag, lit. 'Book of the Righteous Wirāz') is a Zoroastrian text written in Middle Persian. It contains about 8,800 words. It describes the dream-journey of a devout Zoroastrian (the Wirāz of the story) through the next world.",
+    "key_texts": [
+      "Book of Arda Viraf"
+    ],
+    "tags": [
+      "zoroastrianism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Book_of_Arda_Viraf",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Book of Arda Viraf",
+        "url": "https://en.wikipedia.org/wiki/Book_of_Arda_Viraf",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1542,6 +2552,69 @@
     ]
   },
   {
+    "id": "wiki_pythagoreanism",
+    "label": "Pythagoreanism",
+    "type": "text",
+    "tradition": "greek_philosophy",
+    "era_start": -530,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Pythagoreanism originated in the 6th century BC, based on and around the teachings and beliefs held by Pythagoras and his followers, the Pythagoreans. Pythagoras established the first Pythagorean community in the ancient Greek colony of Croton, in modern Calabria (Italy) circa 530 BC. Early Pythagorean communities spread throughout Magna Graecia.",
+    "key_texts": [
+      "Pythagoreanism"
+    ],
+    "tags": [
+      "greek_philosophy",
+      "text",
+      "mysticism",
+      "ritual"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pythagoreanism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Pythagoreanism",
+        "url": "https://en.wikipedia.org/wiki/Pythagoreanism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_works_of_aristotle",
+    "label": "Works of Aristotle",
+    "type": "text",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Corpus Aristotelicum is the collection of Aristotle's works that have survived from antiquity through medieval manuscript transmission. According to a distinction that originates with Aristotle himself, his writings are divisible into two groups: the \"exoteric\" and the \"esoteric\".",
+    "key_texts": [
+      "Works of Aristotle"
+    ],
+    "tags": [
+      "greek_philosophy",
+      "text",
+      "consciousness",
+      "mysticism",
+      "ethics",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Works_of_Aristotle",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Works of Aristotle",
+        "url": "https://en.wikipedia.org/wiki/Works_of_Aristotle",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_czech_philosophy",
     "label": "Czech philosophy",
     "type": "text",
@@ -1565,6 +2638,126 @@
       {
         "title": "Wikipedia: Czech philosophy",
         "url": "https://en.wikipedia.org/wiki/Czech_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_association_for_research_and_enlightenment",
+    "label": "Association for Research and Enlightenment",
+    "type": "text",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": 36.89277778,
+    "origin_lng": -75.99,
+    "origin_place": "Wikipedia coordinates",
+    "summary": "The Association for Research and Enlightenment (A.R.E.), also known as Edgar Cayce's A.R.E., is a non-profit organization founded in 1931 by clairvoyant Edgar Cayce to explore spirituality, holistic health, and other psychic topics, as well as preserving historical resources, including Cayce’s psychic readings. A.R.E.",
+    "key_texts": [
+      "Association for Research and Enlightenment"
+    ],
+    "tags": [
+      "indigenous",
+      "text",
+      "liberation",
+      "ritual"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Association_for_Research_and_Enlightenment",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Association for Research and Enlightenment",
+        "url": "https://en.wikipedia.org/wiki/Association_for_Research_and_Enlightenment",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_black_mass",
+    "label": "Black Mass",
+    "type": "text",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "A Black Mass is a ceremony celebrated by various Satanic groups. It has allegedly existed for centuries in different forms, and the modern form is intentionally a sacrilegious and blasphemous parody of a Catholic Mass. In the 19th century the Black Mass became popularized in French literature, in books such as Satanism and Witchcraft, by Jules Michelet, and Là-bas, by Joris-Karl Huysmans.",
+    "key_texts": [
+      "Black Mass"
+    ],
+    "tags": [
+      "indigenous",
+      "text",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Mass",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Black Mass",
+        "url": "https://en.wikipedia.org/wiki/Black_Mass",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_christian_science",
+    "label": "Christian Science",
+    "type": "text",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Christian Science is a set of beliefs and practices which are associated with members of the Church of Christ, Scientist. Adherents are commonly known as Christian Scientists or students of Christian Science, and the church is sometimes informally known as the Christian Science church.",
+    "key_texts": [
+      "Christian Science"
+    ],
+    "tags": [
+      "indigenous",
+      "text",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Science",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Christian Science",
+        "url": "https://en.wikipedia.org/wiki/Christian_Science",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_compendium_maleficarum",
+    "label": "Compendium Maleficarum",
+    "type": "text",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Compendium Maleficarum is a witch-hunter's manual written in Latin by Francesco Maria Guazzo, and published in Milan (present-day Italy) in 1608. It discusses witches' pacts with the devil, and detailed descriptions of witches’ powers and poisons. It also contains Guazzo's classification of demons, based on a previous work by Michael Psellus.",
+    "key_texts": [
+      "Compendium Maleficarum"
+    ],
+    "tags": [
+      "indigenous",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Compendium_Maleficarum",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Compendium Maleficarum",
+        "url": "https://en.wikipedia.org/wiki/Compendium_Maleficarum",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1627,32 +2820,155 @@
     ]
   },
   {
-    "id": "wiki_ancient_jewish_magic",
-    "label": "Ancient Jewish magic",
+    "id": "wiki_catholic_spirituality",
+    "label": "Catholic spirituality",
     "type": "text",
-    "tradition": "indigenous",
-    "era_start": -3000,
+    "tradition": "synthesis",
+    "era_start": 1800,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Ancient Jewish magic refers to a range of magical practices and techniques employed by Jews from the Second Temple period through the Talmudic era. These practices are known through both textual and material evidence, including magical papyri, inscriptions, amulets, and incantation bowls, which illuminate aspects of popular religion that are only partially reflected in normative rabbinic literature.",
+    "summary": "Catholic spirituality includes the various ways in which Catholics live out their Baptismal promise through prayer and action. The primary prayer of all Catholics is the Eucharistic liturgy in which they celebrate and share their faith together, in accord with Jesus' instruction: \"Do this in memory of me.\" The Catholic bishops at the Second Vatican Council decreed that \"devotions should be so drawn up that they h...",
     "key_texts": [
-      "Ancient Jewish magic"
+      "Catholic spirituality"
     ],
     "tags": [
-      "indigenous",
+      "synthesis",
+      "text",
+      "ritual",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Catholic_spirituality",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Catholic spirituality",
+        "url": "https://en.wikipedia.org/wiki/Catholic_spirituality",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_merkabah_mysticism",
+    "label": "Merkabah mysticism",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": -100,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Merkabah (Hebrew: מֶרְכָּבָה, romanized: merkāḇā, lit. 'chariot') or Merkavah mysticism (lit. Chariot mysticism) is a school of early Jewish mysticism (c. 100 BCE–1000 CE), centered on visions such as those found in Ezekiel 1 or in the hekhalot literature (\"palaces\" literature), concerning stories of ascents to the heavenly palaces and the Throne of God.",
+    "key_texts": [
+      "Merkabah mysticism"
+    ],
+    "tags": [
+      "synthesis",
       "text",
       "mysticism",
       "scripture",
       "theology"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Jewish_magic",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merkabah_mysticism",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ancient Jewish magic",
-        "url": "https://en.wikipedia.org/wiki/Ancient_Jewish_magic",
+        "title": "Wikipedia: Merkabah mysticism",
+        "url": "https://en.wikipedia.org/wiki/Merkabah_mysticism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_all_religions_are_one",
+    "label": "All Religions are One",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "All Religions are One is a series of philosophical aphorisms by William Blake, written in 1788. Following on from his initial experiments with relief etching in the non-textual The Approach of Doom (1787), All Religions are One and There is No Natural Religion represent Blake's first successful attempt to combine image and text via relief etching, and are thus the earliest of his illuminated manuscripts.",
+    "key_texts": [
+      "All Religions are One"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/All_Religions_are_One",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: All Religions are One",
+        "url": "https://en.wikipedia.org/wiki/All_Religions_are_One",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_corpus_hermeticum",
+    "label": "Corpus Hermeticum",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 300,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Corpus Hermeticum is a collection of 17 Greek writings whose authorship is traditionally attributed to the legendary Hellenistic figure Hermes Trismegistus, a syncretic combination of the Greek god Hermes and the Egyptian god Thoth. The treatises were originally written c. 100 – c. 300 CE, but the collection as known today was first compiled by medieval Byzantine editors.",
+    "key_texts": [
+      "Corpus Hermeticum"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "mysticism",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Corpus_Hermeticum",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Corpus Hermeticum",
+        "url": "https://en.wikipedia.org/wiki/Corpus_Hermeticum",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_esoteric_christianity",
+    "label": "Esoteric Christianity",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Esoteric Christianity is a mystical approach to Christianity which features \"secret traditions\" that require an initiation to learn or understand. The term esoteric was coined in the 17th century and derives from the Greek ἐσωτερικός (esōterikos, \"inner\").",
+    "key_texts": [
+      "Esoteric Christianity"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "mysticism",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Esoteric_Christianity",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Esoteric Christianity",
+        "url": "https://en.wikipedia.org/wiki/Esoteric_Christianity",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1683,6 +2999,37 @@
       {
         "title": "Wikipedia: History of religion",
         "url": "https://en.wikipedia.org/wiki/History_of_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_index_librorum_prohibitorum",
+    "label": "Index Librorum Prohibitorum",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Index Librorum Prohibitorum (English: Index of Forbidden Books) was a changing list of publications deemed heretical or contrary to morality by the Sacred Congregation of the Index (a former dicastery of the Roman Curia); Catholics were forbidden to print or read them, subject to the local bishop. Catholic states could enact laws to adapt or adopt the list and enforce it. The Index was active from 1560 to 1966.",
+    "key_texts": [
+      "Index Librorum Prohibitorum"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Index Librorum Prohibitorum",
+        "url": "https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]

@@ -875,61 +875,95 @@
     ]
   },
   {
-    "id": "wiki_ancient_greek_religion",
-    "label": "Ancient Greek religion",
+    "id": "wiki_ramanuja",
+    "label": "Ramanuja",
     "type": "person",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": 1137,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Religious practices in ancient Greece encompassed a collection of beliefs, rituals, and mythology, in the form of both popular public religion and cult practices. The application of the modern concept of \"religion\" to ancient cultures has been questioned as anachronistic. The ancient Greeks did not have a word for 'religion' in the modern sense.",
+    "summary": "Ramanuja ([ɾaːmaːnudʑɐ]; Middle Tamil: Rāmāṉujam; Classical Sanskrit: Rāmānuja; c. 1077 – 1157, trad. date 1017-1137), also known as Ramanujacharya, was an Indian Hindu philosopher, guru and social reformer. He is one of the most important exponents of the Sri Vaishnavism tradition in Hinduism. His philosophical foundations for devotional practice were influential in the Bhakti movement.",
     "key_texts": [],
     "tags": [
-      "synthesis",
+      "hinduism",
       "person",
+      "non_duality",
+      "liberation",
       "ritual",
       "scripture",
       "theology",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Greek_religion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramanuja",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ancient Greek religion",
-        "url": "https://en.wikipedia.org/wiki/Ancient_Greek_religion",
+        "title": "Wikipedia: Ramanuja",
+        "url": "https://en.wikipedia.org/wiki/Ramanuja",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_a_c_bhaktivedanta_swami_prabhupada",
-    "label": "A. C. Bhaktivedanta Swami Prabhupada",
+    "id": "wiki_madhvacharya",
+    "label": "Madhvacharya",
     "type": "person",
     "tradition": "hinduism",
-    "era_start": 1896,
-    "era_end": 1977,
+    "era_start": 1238,
+    "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
-    "origin_place": "Kolkata",
-    "summary": "Abhay Charanaravinda Bhaktivedanta Swami Prabhupada (IAST: Abhaya Caraṇāravinda Bhaktivedānta Svāmī Prabhupāda; Bengali: অভয় চরণারবিন্দ ভক্তিবেদান্ত স্বামী প্রভুপাদ; 1 September 1896 – 14 November 1977) was a spiritual, philosophical, and religious teacher from India who spread the Hare Krishna mantra and the teachings of \"Krishna consciousness\" to the world.",
+    "origin_place": "Udupi district",
+    "summary": "Madhvacharya (IAST: Madhvācārya; pronounced [mɐdʱʋaːˈtɕaːrjɐ]; 1199–1278 CE or 1238–1317 CE), also known as Purna Prajna (IAST: Pūrṇa-Prajña) and Ānanda Tīrtha, was an Indian philosopher, theologian and the chief proponent of the Dvaita (dualism) school of Vedanta. Madhva called his philosophy Tattvavāda meaning \"arguments from a realist viewpoint\".",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "non_duality",
+      "liberation",
+      "ritual",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Madhvacharya",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Madhvacharya",
+        "url": "https://en.wikipedia.org/wiki/Madhvacharya",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_patanjali",
+    "label": "Patanjali",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Patanjali (Sanskrit: पतञ्जलि, IAST: Patañjali, Sanskrit pronunciation: [pɐtɐɲdʑɐli]; also called Gonardiya or Gonikaputra) was the name of one or more author(s), mystic(s) and philosopher(s) in ancient India. His name is recorded as an author and compiler of a number of Sanskrit works. The greatest of these are the Yoga Sutras, a classical yoga text.",
     "key_texts": [],
     "tags": [
       "hinduism",
       "person",
       "consciousness",
-      "ritual",
+      "mysticism",
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patanjali",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: A. C. Bhaktivedanta Swami Prabhupada",
-        "url": "https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada",
+        "title": "Wikipedia: Patanjali",
+        "url": "https://en.wikipedia.org/wiki/Patanjali",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -963,192 +997,474 @@
     ]
   },
   {
-    "id": "wiki_acharya",
-    "label": "Acharya",
+    "id": "wiki_chaitanya_mahaprabhu",
+    "label": "Chaitanya Mahaprabhu",
     "type": "person",
-    "tradition": "synthesis",
-    "era_start": 1800,
+    "tradition": "hinduism",
+    "era_start": 1486,
+    "era_end": 1534,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Nadia district",
+    "summary": "Chaitanya Mahaprabhu (Bengali: মহাপ্রভু শ্রীচৈতন্য দেব; Sanskrit: चैतन्य महाप्रभु, romanized: Caitanya Mahāprabhu), born Vishvambhara Mishra (IAST: Viśvambhara Miśra) (28 February 1486 – 14 June 1534), was an Indian Hindu saint from Bengal and the founder of Gaudiya Vaishnavism. Chaitanya Mahaprabhu's mode of worshipping Krishna with bhajan-kirtan and dance influenced Vaishnavism in Bengal.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Chaitanya Mahaprabhu",
+        "url": "https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ramananda",
+    "label": "Ramananda",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1350,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "In Indian religions and society, an acharya (Sanskrit: आचार्य, IAST: ācārya; Pali: ācariya) is a religious teacher in Hinduism and Buddhism and a spiritual guide to Hindus and Buddhists. The designation has different meanings in Hinduism, Buddhism and secular contexts. Acharya is sometimes used to address an expert teacher or a scholar in any discipline, e.g.: Bhaskaracharya, the expert mathematician.",
+    "origin_place": "Varanasi",
+    "summary": "Jagadguru Swami Ramananda (IAST: Rāmānanda) or Ramanandacharya was an Indian 14th-century Hindu Vaishnava devotional poet saint, who lived in the Gangetic basin of northern India. The Hindu tradition recognizes him as the founder of the Ramanandi Sampradaya, the largest monastic Hindu renunciant community in modern times.",
     "key_texts": [],
     "tags": [
-      "synthesis",
+      "sikhism",
       "person",
       "ritual",
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Acharya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramananda",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Acharya",
-        "url": "https://en.wikipedia.org/wiki/Acharya",
+        "title": "Wikipedia: Ramananda",
+        "url": "https://en.wikipedia.org/wiki/Ramananda",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_adventism",
-    "label": "Adventism",
+    "id": "wiki_nimbarka",
+    "label": "Nimbarka",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1130,
+    "era_end": 1200,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Nimbarka, also known as Nimbarkacharya, Nimbaditya or Niyamananda, was a Hindu philosopher, theologian and the chief proponent of the theology of Dvaitādvaita (dvaita–advaita) or dualistic–non-dualistic sometimes known as Svābhāvika bhedābheda. He played a major role in spreading the worship of the divine couple Radha and Krishna, and founded the Nimbarka Sampradaya.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "non_duality",
+      "ritual",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nimbarka",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Nimbarka",
+        "url": "https://en.wikipedia.org/wiki/Nimbarka",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_akka_mahadevi",
+    "label": "Akka Mahadevi",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Shimoga",
+    "summary": "Akka Mahadevi (c. 1130–1160) was an early poet of Kannada literature and a prominent member of the Lingayatism denomination of Hinduism founded in the 12th century. Her 430 vachanas (a form of spontaneous mystical poems), and the two short writings called Mantrogopya and the Yogangatrividh are considered her known contributions to Kannada literature.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "mysticism",
+      "ritual",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Akka Mahadevi",
+        "url": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_alexis_sanderson",
+    "label": "Alexis Sanderson",
     "type": "person",
     "tradition": "synthesis",
-    "era_start": 1800,
+    "era_start": 1948,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Adventism is a branch of Protestant Christianity that believes in the imminent Second Coming (or the \"Second Advent\") of Jesus Christ. It originated in the 1830s in the United States during the Second Great Awakening when Baptist preacher William Miller first publicly shared his belief that the Second Coming would occur at some point between 1843 and 1844. His followers became known as Millerites.",
+    "summary": "Alexis G. J. S. Sanderson (born 1948) is an English indologist and Emeritus Fellow of All Souls College at the University of Oxford.",
     "key_texts": [],
     "tags": [
       "synthesis",
       "person",
-      "consciousness",
-      "scripture",
+      "ethics",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Adventism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Sanderson",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Adventism",
-        "url": "https://en.wikipedia.org/wiki/Adventism",
+        "title": "Wikipedia: Alexis Sanderson",
+        "url": "https://en.wikipedia.org/wiki/Alexis_Sanderson",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_3rd_karmapa_rangjung_dorje",
-    "label": "3rd Karmapa, Rangjung Dorje",
+    "id": "wiki_alf_hiltebeitel",
+    "label": "Alf Hiltebeitel",
     "type": "person",
-    "tradition": "buddhism",
-    "era_start": 1284,
-    "era_end": 1339,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "The 3rd Karmapa, Rangjung Dorje (Tibetan: རང་འབྱུང་རྡོ་རྗེ་, Wylie: rang 'byung rdo rje) (1284–1339) was the 3rd Gyalwa Karmapa and head of the Karma Kagyu school, the largest school within the Kagyu tradition. He was an important figure in the history of Tibetan Buddhism, who helped to spread Buddha-nature teachings in Tibet.",
-    "key_texts": [],
-    "tags": [
-      "buddhism",
-      "person",
-      "scripture",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/3rd_Karmapa%2C_Rangjung_Dorje",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: 3rd Karmapa, Rangjung Dorje",
-        "url": "https://en.wikipedia.org/wiki/3rd_Karmapa%2C_Rangjung_Dorje",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_theravada_abhidhamma",
-    "label": "Theravada Abhidhamma",
-    "type": "person",
-    "tradition": "buddhism",
-    "era_start": -500,
+    "tradition": "hinduism",
+    "era_start": 1942,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "The Theravada Abhidhamma tradition, also known as the Abhidhamma Method, refers to a scholastic systematization of the Theravāda school's understanding of the highest Buddhist teachings (Abhidhamma). These teachings are traditionally believed to have been taught by the Buddha, though modern scholars date the texts of the Abhidhamma Piṭaka to the 3rd century BCE.",
+    "summary": "Alfred John Hiltebeitel (April 10, 1942 - March 12, 2023) was Columbian Professor of Religion, History, and Human Sciences at George Washington University in Washington, D.C., US. His academic specialism was in ancient Sanskrit epics such as the Mahabharata and Ramayana, together with Indian religious tradition and folklore.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alf_Hiltebeitel",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alf Hiltebeitel",
+        "url": "https://en.wikipedia.org/wiki/Alf_Hiltebeitel",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_anant_priolkar",
+    "label": "Anant Priolkar",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1895,
+    "era_end": 1973,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Anant Kakba Priolkar (1895 – 1973) was an Indian polemicist, writer and political activist. He was elected as the President of the Akhil Bharatiya Marathi Sahitya Sammelan held in 1951 at Karwar, Karnataka, India. His book The Goa Inquisition (1961) remains his bestselling work. He died in Maharashtra in 1973.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anant_Priolkar",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anant Priolkar",
+        "url": "https://en.wikipedia.org/wiki/Anant_Priolkar",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_arthur_llewellyn_basham",
+    "label": "Arthur Llewellyn Basham",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1914,
+    "era_end": 1986,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Loughton",
+    "summary": "Arthur Llewellyn Basham (24 May 1914 – 27 January 1986) was a British historian, Indologist and author. As a professor at the School of Oriental and African Studies, London in the 1950s and the 1960s, he taught a number of famous historians of India, including professors Nemai Sadhan Bose, Awadh Kishore Narain, Ram Sharan Sharma, Romila Thapar, and V. S. Pathak and Thomas R. Trautmann and David Lorenzen.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Llewellyn_Basham",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Arthur Llewellyn Basham",
+        "url": "https://en.wikipedia.org/wiki/Arthur_Llewellyn_Basham",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_arvind_sharma",
+    "label": "Arvind Sharma",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1940,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Arvind Sharma (born 13 January 1940) is the Birks Professor of Comparative Religion at McGill University. Sharma's works focus on Hinduism, philosophy of religion. In editing books his works include Our Religions and Women in World Religions, Feminism in World Religions was selected as a Choice Outstanding Academic Book (1999). Arvind Sharma was awarded Padma Shri, India's fourth highest civilian award, in 2025.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "non_duality",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Sharma",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Arvind Sharma",
+        "url": "https://en.wikipedia.org/wiki/Arvind_Sharma",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_asko_parpola",
+    "label": "Asko Parpola",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1941,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Forssa",
+    "summary": "Asko Heikki Siegfried Parpola (born 12 July 1941, in Forssa) is a Finnish Indologist, current professor emeritus of Indology at the University of Helsinki. He specializes in the Indus Valley Civilization, specifically the study of the Indus script.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Asko_Parpola",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Asko Parpola",
+        "url": "https://en.wikipedia.org/wiki/Asko_Parpola",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_axel_michaels",
+    "label": "Axel Michaels",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1949,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Axel Michaels (born 26 May 1949) is a Professor of Classical Indology and Religious Studies at Heidelberg University, former Co-Director of the Cluster of Excellence \"Asia and Europe in a Global Context\" (2014-2019) and since 2014 the Director of the research project Documents on the History of Religion and Law of Pre-modern Nepal.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Axel_Michaels",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Axel Michaels",
+        "url": "https://en.wikipedia.org/wiki/Axel_Michaels",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bal_gangadhar_tilak",
+    "label": "Bal Gangadhar Tilak",
+    "type": "person",
+    "tradition": "hinduism",
+    "era_start": 1856,
+    "era_end": 1920,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Ratnagiri",
+    "summary": "Bal Gangadhar Tilak (Marathi: बाळ गंगाधर टिळक ; born Keshav Gangadhar Tilak (pronunciation: [keʃəʋ ɡəŋɡaːd̪ʱəɾ ʈiɭək]); 23 July 1856 – 1 August 1920), was an Indian nationalist and self-rule activist in the Indian independence movement. He was one third of the Lal Bal Pal triumvirate.[5] The honorific \"Lokmanya\" (meaning \"accepted by the people as their leader\") was applied to him by his supporters.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bal Gangadhar Tilak",
+        "url": "https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_d_gen",
+    "label": "Dōgen",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 1200,
+    "era_end": 1253,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Dōgen Zenji (道元禅師; Japanese pronunciation: [doꜜː.ɡeɴ, -ŋeɴ], 26 January 1200 – 22 September 1253) was a Japanese Zen Buddhist monk, writer, poet, philosopher, and founder of the Sōtō school of Zen in Japan. He is also known as Dōgen Kigen (道元希玄), Eihei Dōgen (永平道元), Kōso Jōyō Daishi (高祖承陽大師), and Busshō Dentō Kokushi (仏性伝東国師).",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "meditation",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/D%C5%8Dgen",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Dōgen",
+        "url": "https://en.wikipedia.org/wiki/D%C5%8Dgen",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_huineng",
+    "label": "Huineng",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 638,
+    "era_end": 713,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Yunfu",
+    "summary": "Dajian Huineng or Hui-neng (traditional Chinese: 大鑒惠能; pinyin: Dàjiàn Huìnéng; Cantonese Jyutping: daai6 gaam3 wai6 nang4; Wade–Giles: Ta⁴-chien⁴ Hui⁴-nêng²; Japanese: Daikan Enō; Korean: Daegam Hyeneung; trad. 638-713), also commonly known as the Sixth Patriarch or Sixth Ancestor of Chan (traditional Chinese: 禪宗六祖), is a semi-legendary but central figure in the early history of Chinese Chan Buddhism.",
     "key_texts": [],
     "tags": [
       "buddhism",
       "person",
       "liberation",
-      "ethics",
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Theravada_Abhidhamma",
+    "wikipedia": "https://en.wikipedia.org/wiki/Huineng",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Theravada Abhidhamma",
-        "url": "https://en.wikipedia.org/wiki/Theravada_Abhidhamma",
+        "title": "Wikipedia: Huineng",
+        "url": "https://en.wikipedia.org/wiki/Huineng",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_agni_yoga",
-    "label": "Agni Yoga",
-    "type": "person",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Agni Yoga (Russian: А́гни Йо́га) or the Living Ethics (Russian: Жива́я Э́тика), or the Teaching of Life (Russian: Уче́ние Жи́зни), is a Neo-Theosophical religious doctrine transmitted by Helena Roerich and Nicholas Roerich from 1920. The term Agni Yoga means \"Mergence with Divine Fire\" or \"Path to Mergence with Divine Fire\". This term was introduced by the Roerichs.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "person",
-      "consciousness",
-      "mysticism",
-      "ritual",
-      "ethics",
-      "scripture",
-      "theology"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Agni_Yoga",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Agni Yoga",
-        "url": "https://en.wikipedia.org/wiki/Agni_Yoga",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_agnosticism",
-    "label": "Agnosticism",
-    "type": "person",
-    "tradition": "synthesis",
-    "era_start": -450,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Agnosticism is the view or belief that the existence of God, the divine, or the supernatural is either unknowable in principle or unknown in fact. It can also mean an apathy towards such religious belief and refer to personal limitations rather than a worldview.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "person",
-      "theology",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Agnosticism",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Agnosticism",
-        "url": "https://en.wikipedia.org/wiki/Agnosticism",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_ajahn",
-    "label": "Ajahn",
+    "id": "wiki_ati_a",
+    "label": "Atiśa",
     "type": "person",
     "tradition": "buddhism",
-    "era_start": -500,
+    "era_start": 982,
+    "era_end": 1054,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Bikrampur",
+    "summary": "Atiśa (c. 982–1054 CE) was a Buddhist religious teacher and leader from Bengal. He is generally associated with his body of work authored at Vikramaśīla Monastery in Bihar. He was a major figure in the spread of 11th-century Mahayana and Vajrayana Buddhism in Asia and traveled to Sumatra and Tibet.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ati%C5%9Ba",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Atiśa",
+        "url": "https://en.wikipedia.org/wiki/Ati%C5%9Ba",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_je_tsongkhapa",
+    "label": "Je Tsongkhapa",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 1357,
+    "era_end": 1419,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Tsongkhapa (Tibetan: ཙོང་ཁ་པ་, [tsoŋˈkʰapa], meaning: \"the man from Tsongkha\" or \"the Man from Onion Valley\", c. 1357–1419) was an influential Tibetan Buddhist monk, philosopher and tantric yogi, whose activities led to the formation of the Gelug school of Tibetan Buddhism.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "consciousness",
+      "meditation",
+      "liberation",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Je_Tsongkhapa",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Je Tsongkhapa",
+        "url": "https://en.wikipedia.org/wiki/Je_Tsongkhapa",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_shantideva",
+    "label": "Shantideva",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 750,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Ajahn (Thai: อาจารย์, RTGS: achan, IPA: [ʔāː.tɕāːn]; Lao: ອາຈານ, romanized: ācān) is a Thai- and Lao-derived term that translates as \"professor\" or \"teacher\". The term is in turn derived from the Pali word ācariya and is a term of respect, similar in meaning to the Japanese sensei.",
+    "summary": "Shantideva (Sanskrit: Śāntideva; Chinese: 寂天; Tibetan: ཞི་བ་ལྷ།, THL: Zhiwa Lha; Mongolian: Шантидэва гэгээн; Vietnamese: Tịch Thiên) was an 8th-century CE Indian philosopher, Buddhist monk, poet, and scholar at the mahavihara of Nalanda. He was an adherent of the Mādhyamaka philosophy of Nāgārjuna. Abhayadatta Sri also lists Shantideva as one of the eighty-four mahasiddhas and is known as Bhusuku Pa (布苏固巴).",
     "key_texts": [],
     "tags": [
       "buddhism",
@@ -1156,12 +1472,41 @@
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ajahn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shantideva",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ajahn",
-        "url": "https://en.wikipedia.org/wiki/Ajahn",
+        "title": "Wikipedia: Shantideva",
+        "url": "https://en.wikipedia.org/wiki/Shantideva",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_padmasambhava",
+    "label": "Padmasambhava",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Padmasambhava ('Born from a Lotus'), also known as Guru Rinpoche ('Precious Guru'), was a semi-legendary tantric Buddhist Vajra master from medieval India, who according to hagiographical sources fully revealed the Vajrayana in Tibet, circa 8th – 9th centuries. He is considered an emanation or Nirmāṇakāya of Shakyamuni Buddha as foretold by the Buddha himself.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Padmasambhava",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Padmasambhava",
+        "url": "https://en.wikipedia.org/wiki/Padmasambhava",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1253,6 +1598,356 @@
     ]
   },
   {
+    "id": "wiki_an_shigao",
+    "label": "An Shigao",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 180,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "An Shigao (Chinese: 安世高; pinyin: Ān Shìgāo; Wade–Giles: An Shih-kao; Korean: An Sego; Japanese: An Seikō; Vietnamese: An Thế Cao; fl. c. 148–180 CE) was an early Buddhist missionary to China, and the earliest known translator of Indian Buddhist texts into Chinese.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/An_Shigao",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: An Shigao",
+        "url": "https://en.wikipedia.org/wiki/An_Shigao",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_barbara_stoler_miller",
+    "label": "Barbara Stoler Miller",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 1940,
+    "era_end": 1993,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Barbara Stoler Miller (August 8, 1940 – April 19, 1993) was a scholar of Sanskrit literature. Her translation of the Bhagavad Gita was extremely successful and she helped popularize Indian literature in the U.S. She was the president of the Association for Asian Studies in 1990.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Stoler_Miller",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Barbara Stoler Miller",
+        "url": "https://en.wikipedia.org/wiki/Barbara_Stoler_Miller",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhante_sujato",
+    "label": "Bhante Sujato",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 1966,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Sujato, known as Ajahn Sujato or Bhikkhu Sujato (born Anthony Best), is an Australian Buddhist monk formerly ordained into the Thai forest lineage of Ajahn Chah and presently identifying with the Early Buddhist movement.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhante_Sujato",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhante Sujato",
+        "url": "https://en.wikipedia.org/wiki/Bhante_Sujato",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhikkhu_analayo",
+    "label": "Bhikkhu Analayo",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 1962,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bhikkhu Anālayo is a bhikkhu (Buddhist monk), scholar, and meditation teacher. He was born in Germany in 1962, and went forth in 1995 in the Theravādin monastic tradition of Sri Lanka. He is best known for his comparative studies of Early Buddhist Texts as preserved by the various early Buddhist traditions.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "meditation",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhikkhu_Analayo",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhikkhu Analayo",
+        "url": "https://en.wikipedia.org/wiki/Bhikkhu_Analayo",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhikkhu_bodhi",
+    "label": "Bhikkhu Bodhi",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 1944,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Borough Park, Brooklyn",
+    "summary": "Jeffrey Block (born December 10, 1944), better known as Bhikkhu Bodhi, is an American Theravada monk ordained in Sri Lanka who teaches in the area of New York and New Jersey. He is an author and Buddhist commentator and was appointed the second president of the Buddhist Publication Society. He is also the president of the Buddhist Association of America and the founder of Buddhist Global Relief.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhikkhu_Bodhi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhikkhu Bodhi",
+        "url": "https://en.wikipedia.org/wiki/Bhikkhu_Bodhi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_3rd_karmapa_rangjung_dorje",
+    "label": "3rd Karmapa, Rangjung Dorje",
+    "type": "person",
+    "tradition": "buddhism",
+    "era_start": 1284,
+    "era_end": 1339,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The 3rd Karmapa, Rangjung Dorje (Tibetan: རང་འབྱུང་རྡོ་རྗེ་, Wylie: rang 'byung rdo rje) (1284–1339) was the 3rd Gyalwa Karmapa and head of the Karma Kagyu school, the largest school within the Kagyu tradition. He was an important figure in the history of Tibetan Buddhism, who helped to spread Buddha-nature teachings in Tibet.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/3rd_Karmapa%2C_Rangjung_Dorje",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: 3rd Karmapa, Rangjung Dorje",
+        "url": "https://en.wikipedia.org/wiki/3rd_Karmapa%2C_Rangjung_Dorje",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_al_farabi",
+    "label": "Al-Farabi",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "the Hamdanid emirate of Aleppo",
+    "summary": "Abu Nasr Muhammad al-Farabi (Arabic: أبو نصر محمد الفارابي, romanized: Abū Naṣr Muḥammad al-Fārābī; c. 870 – 14 December 950–12 January 951), known in the Latin West as Alpharabius, was an early Islamic philosopher and music theorist. He has been designated as \"Father of Islamic Neoplatonism\", and the \"Founder of Islamic Political Philosophy\".",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "mysticism",
+      "ethics",
+      "scripture",
+      "metaphysics",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Farabi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Al-Farabi",
+        "url": "https://en.wikipedia.org/wiki/Al-Farabi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_avicenna",
+    "label": "Avicenna",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": 1037,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Bukhara Region",
+    "summary": "Ibn Sina (c. 980 – 22 June 1037), commonly known in the West as Avicenna ( A(H)V-ih-SEN-ə), was a preeminent philosopher and physician of the Muslim world. He was a seminal figure of the Islamic Golden Age, serving in the courts of various Iranian rulers, and was influential to medieval European medical and Scholastic thought.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Avicenna",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Avicenna",
+        "url": "https://en.wikipedia.org/wiki/Avicenna",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_averroes",
+    "label": "Averroes",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1126,
+    "era_end": 1198,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Córdoba, Spain",
+    "summary": "Ibn Rushd (14 April 1126 – 11 December 1198), Latinized as Averroes, was an Andalusian polymath and jurist who was proficient in a variety of intellectual fields, including philosophy, theology, medicine, astronomy, physics, psychology, mathematics, neurology, Islamic jurisprudence and law, and linguistics.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Averroes",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Averroes",
+        "url": "https://en.wikipedia.org/wiki/Averroes",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_mulla_sadra",
+    "label": "Mulla Sadra",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 40,
+    "era_end": 1640,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Shiraz",
+    "summary": "Ṣadr ad-Dīn Muḥammad Shīrāzī, more commonly known as Mullā Ṣadrā (Persian: ملا صدرا; Arabic: صدر المتألهین; c. 1571/2 – c. 1635/40 CE / 980 – 1050 AH), was an Iranian Twelver Shi'i Islamic mystic, philosopher, theologian, and ‘Ālim who led the cultural renaissance in the country during the 17th century.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "mysticism",
+      "ethics",
+      "scripture",
+      "theology",
+      "metaphysics",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mulla_Sadra",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Mulla Sadra",
+        "url": "https://en.wikipedia.org/wiki/Mulla_Sadra",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ibn_ata_allah_al_iskandari",
+    "label": "Ibn Ata Allah al-Iskandari",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": 1309,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "'Ibn ʿAṭāʾ Allāh al-Iskandarī, or al-Sakandarī (in full, Tāj al-Dīn Abū'l-Faḍl Aḥmad ibn Muḥammad ibn ʿAbd al-Karīm ibn ʿAbd al-Rahmān ibn ʿAbd Allāh ibn Aḥmad ibn ʿĪsā ibn al-Ḥusayn ibn ʿAṭāʾ Allāh al-Judhāmī al-Iskandarī, Arabic: تاج الدين أبو الفضل أحمد بن محمد بن عبد الكريم بن عبد الرحمن بن عبد الله بن أحمد بن عيسى بن الحسين بن عطاء الله الجذامي السكندري) was an Egyptian Maliki jurist, muhaddith and the third...",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Ata_Allah_al-Iskandari",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ibn Ata Allah al-Iskandari",
+        "url": "https://en.wikipedia.org/wiki/Ibn_Ata_Allah_al-Iskandari",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_augustine_of_hippo",
+    "label": "Augustine of Hippo",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 354,
+    "era_end": 430,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Augustine of Hippo ( aw-GUST-in, US also AW-gə-steen; Latin: Aurelius Augustinus Hipponensis; 13 November 354 – 28 August 430) was a Christian theologian and philosopher from Roman Africa. He was the bishop of Hippo Regius from Thagaste in Numidia Cirtensis, (present-day Souk Ahras, Algeria).",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "mysticism",
+      "liberation",
+      "ritual",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Augustine of Hippo",
+        "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_abdulaziz_sachedina",
     "label": "Abdulaziz Sachedina",
     "type": "person",
@@ -1280,115 +1975,283 @@
     ]
   },
   {
-    "id": "wiki_afzal_upal",
-    "label": "Afzal Upal",
+    "id": "wiki_albert_hourani",
+    "label": "Albert Hourani",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1915,
+    "era_end": 1993,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Didsbury",
+    "summary": "Albert Habib Hourani, (Arabic: ألبرت حبيب حوراني Albart Ḥabīb Ḥūrānī; 31 March 1915 – 17 January 1993) was a Lebanese British historian, specialising in the history of the Middle East and Middle Eastern studies.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Hourani",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Albert Hourani",
+        "url": "https://en.wikipedia.org/wiki/Albert_Hourani",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_muhammad_husayn_tabataba_i",
+    "label": "Muhammad Husayn Tabataba'i",
     "type": "person",
     "tradition": "islam",
-    "era_start": 610,
+    "era_start": 1903,
+    "era_end": 1981,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Tabriz",
+    "summary": "Muhammad Husayn Tabataba'i (Persian: سید محمدحسین طباطبائی, romanized: Muḥammad Ḥusayn Ṭabāṭabāʾī; 16 March 1903 – 15 November 1981) was an Iranian scholar, theorist, philosopher and one of the most prominent thinkers of modern Shia Islam. He is perhaps best known for his Tafsir al-Mizan, a twenty-seven-volume work of tafsir (Quranic exegesis), which he produced between 1954 and 1972.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "mysticism",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Husayn_Tabataba'i",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Muhammad Husayn Tabataba'i",
+        "url": "https://en.wikipedia.org/wiki/Muhammad_Husayn_Tabataba'i",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_amr_khaled",
+    "label": "Amr Khaled",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1967,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Alexandria",
+    "summary": "Amr Mohamed Helmi Khaled (Arabic: عمرو محمد حلمي خالد; born: 5 September 1967) is an Egyptian Muslim activist and television preacher. The New York Times Magazine, in reference to Khaled's popularity in English-speaking countries, described him in 2006 issue as \"the world's most famous and influential Muslim television preacher.\" In 2007, Amr Khaled was chosen as one of the world's 100 most influential people by ...",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amr_Khaled",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Amr Khaled",
+        "url": "https://en.wikipedia.org/wiki/Amr_Khaled",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_andrew_rippin",
+    "label": "Andrew Rippin",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1950,
+    "era_end": 2016,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Andrew Lawrence Rippin, (16 May 1950 in London, England – 29 November 2016) was a Canadian scholar of Islamic studies and Quranic studies.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Rippin",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Andrew Rippin",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Rippin",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ann_elizabeth_mayer",
+    "label": "Ann Elizabeth Mayer",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1945,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Muhammad Afzal Upal is a writer and a cognitive scientist with contributions to cognitive science of religion, machine learning for planning, and agent-based social simulation.",
+    "summary": "Ann Elizabeth Mayer is an Associate Professor of Legal Studies in the Department of Legal Studies and Business Ethics at the Wharton School of the University of Pennsylvania.",
     "key_texts": [],
     "tags": [
       "islam",
       "person",
+      "ethics",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Afzal_Upal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ann_Elizabeth_Mayer",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Afzal Upal",
-        "url": "https://en.wikipedia.org/wiki/Afzal_Upal",
+        "title": "Wikipedia: Ann Elizabeth Mayer",
+        "url": "https://en.wikipedia.org/wiki/Ann_Elizabeth_Mayer",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_ahmad_ibn_ajiba",
-    "label": "Ahmad ibn Ajiba",
+    "id": "wiki_ann_lambton",
+    "label": "Ann Lambton",
     "type": "person",
     "tradition": "islam",
-    "era_start": 1747,
-    "era_end": 1809,
+    "era_start": 1912,
+    "era_end": 2008,
     "origin_lat": null,
     "origin_lng": null,
-    "origin_place": "Tangier",
-    "summary": "Aḥmad ibn Muḥammad ibn ʿAjība al-Ḥasanī (Arabic: أحمد بن عجيبة; 1747–1809) was an influential 18th-century Moroccan scholar and poet in the Sunni Darqawa Sufi lineage.",
+    "origin_place": "Wooler",
+    "summary": "Ann Katharine Swynford Lambton (8 February 1912 – 19 July 2008), usually known as A.K.S. Lambton or \"Nancy\" Lambton, was a British historian, expert on medieval and early modern Persian history, Persian language, Islamic political theory, and Persian social organisation.",
     "key_texts": [],
     "tags": [
       "islam",
       "person",
-      "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahmad_ibn_Ajiba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ann_Lambton",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Ahmad ibn Ajiba",
-        "url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Ajiba",
+        "title": "Wikipedia: Ann Lambton",
+        "url": "https://en.wikipedia.org/wiki/Ann_Lambton",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_ahmad_ibn_hanbal",
-    "label": "Ahmad ibn Hanbal",
+    "id": "wiki_annemarie_schimmel",
+    "label": "Annemarie Schimmel",
     "type": "person",
     "tradition": "islam",
-    "era_start": 780,
-    "era_end": 855,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Ahmad ibn Hanbal (Arabic: أحمد ابن حنبل, romanized: Aḥmad ibn Ḥanbal; (164-241 AH; 780 – 855 CE) was an Arab jurist and founder of the Hanbali school who is widely recognized as the scholar who memorized the most Hadiths in Islamic history.",
-    "key_texts": [],
-    "tags": [
-      "islam",
-      "person",
-      "scripture",
-      "theology",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ahmad_ibn_Hanbal",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Ahmad ibn Hanbal",
-        "url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Hanbal",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_aisha",
-    "label": "Aisha",
-    "type": "person",
-    "tradition": "islam",
-    "era_start": 614,
-    "era_end": 678,
+    "era_start": 1922,
+    "era_end": 2003,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Aisha bint Abi Bakr (c. 614 CE – July 678) was the third and youngest wife of Islamic prophet Muhammad. After Muhammad's death, she was politically active during the Rashidun Caliphate and stands out as a prominent female figure of the period. A muhadditha and political figure, Aisha played a significant role in early Islamic history, both during Muhammad's life and after his death.",
+    "summary": "Annemarie Schimmel SI HI TCLN (7 April 1922 – 26 January 2003) was an influential German Orientalist and scholar who wrote extensively on Islam, especially Sufism. She was a professor at Harvard University from 1967 to 1992.",
     "key_texts": [],
     "tags": [
       "islam",
       "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Annemarie_Schimmel",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Annemarie Schimmel",
+        "url": "https://en.wikipedia.org/wiki/Annemarie_Schimmel",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bayazid_bastami",
+    "label": "Bayazid Bastami",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 804,
+    "era_end": 874,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Semnan province",
+    "summary": "Bāyazīd Basṭāmī, (d. 875), commonly known as the Sultān-ul-Ārifīn (King of Those Who Know) was a Persian Sufi who became famous for his bold articulation of fanāʾ–the Sufi notion of self-annhilation. Many \"ecstatic utterances\" (شطحات shatˤħāt) have been attributed to Bisṭāmī, which lead to him being known as the \"drunken\" or \"ecstatic\" (Arabic: سُكْر, sukr) school of Islamic mysticism.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "mysticism",
       "ritual",
       "scripture",
       "theology",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aisha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bayazid_Bastami",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Aisha",
-        "url": "https://en.wikipedia.org/wiki/Aisha",
+        "title": "Wikipedia: Bayazid Bastami",
+        "url": "https://en.wikipedia.org/wiki/Bayazid_Bastami",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abul_a_la_maududi",
+    "label": "Abul A'la Maududi",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1903,
+    "era_end": 1979,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Aurangabad",
+    "summary": "Abul A'la al-Maududi (Urdu: ابو الاعلیٰ المودودی, romanized: Abū al-Aʿlā al-Mawdūdī; (1903-09-25)25 September 1903 – (1979-09-22)22 September 1979) was an Islamic scholar and the author of Tafhim-ul-Quran, who was active in British India and later, following the partition, in Pakistan.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "ethics",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abul_A'la_Maududi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abul A'la Maududi",
+        "url": "https://en.wikipedia.org/wiki/Abul_A'la_Maududi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_barbara_d_savage",
+    "label": "Barbara D. Savage",
+    "type": "person",
+    "tradition": "islam",
+    "era_start": 1953,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Barbara Dianne Savage (born 1953) is an American author, historian, and the Geraldine R. Segal Professor of American Social Thought and Professor of Africana Studies at the University of Pennsylvania.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_D._Savage",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Barbara D. Savage",
+        "url": "https://en.wikipedia.org/wiki/Barbara_D._Savage",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1423,30 +2286,301 @@
     ]
   },
   {
-    "id": "wiki_analytic_philosophy",
-    "label": "Analytic philosophy",
+    "id": "wiki_thomas_aquinas",
+    "label": "Thomas Aquinas",
     "type": "person",
-    "tradition": "synthesis",
-    "era_start": 1800,
+    "tradition": "christianity",
+    "era_start": 1225,
+    "era_end": 1274,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "the Province of Frosinone",
+    "summary": "Thomas Aquinas ( ə-KWY-nəs; Italian: Tommaso d'Aquino, lit. 'Thomas of Aquino'; c. 1225 – 7 March 1274) was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "mysticism",
+      "liberation",
+      "ritual",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Thomas Aquinas",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_john_of_the_cross",
+    "label": "John of the Cross",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 1542,
+    "era_end": 1591,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "the Province of Ávila",
+    "summary": "St. John of the Cross (Spanish: Juan de la Cruz; Latin: Ioannes a Cruce; né Juan de Yepes y Álvarez; 24 June 1542 – 14 December 1591) was a Spanish Catholic priest, mystic, and Carmelite friar. He is a major figure of the Counter-Reformation in Spain, and he is one of the 38 Doctors of the Church. John of the Cross is known for his writings.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: John of the Cross",
+        "url": "https://en.wikipedia.org/wiki/John_of_the_Cross",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_francis_of_assisi",
+    "label": "Francis of Assisi",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": 1226,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Assisi",
+    "summary": "Giovanni di Pietro di Bernardone (c. 1181–3 October 1226), known as Francis of Assisi, was an Italian mystic, poet and Catholic friar who founded the religious order of the Franciscans. Inspired to lead a Christian life of poverty, he became a beggar and an itinerant preacher. One of the most venerated figures in Christianity, Francis was canonized by Pope Gregory IX on 16 July 1228.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Francis of Assisi",
+        "url": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_origen",
+    "label": "Origen",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 184,
+    "era_end": 253,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Origen of Alexandria (c. 185 – c. 253), also known as Origen Adamantius, was an early Christian scholar, ascetic, and theologian who was born and spent the first half of his career in Alexandria. He was a prolific writer who wrote roughly 2,000 treatises in multiple branches of theology, including textual criticism, biblical exegesis and hermeneutics, homiletics, and spirituality.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "liberation",
+      "ritual",
+      "scripture",
+      "theology",
+      "metaphysics",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Origen",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Origen",
+        "url": "https://en.wikipedia.org/wiki/Origen",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_pseudo_dionysius_the_areopagite",
+    "label": "Pseudo-Dionysius the Areopagite",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 30,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Analytic philosophy is a broad school of thought or style in contemporary Western philosophy, especially anglophone philosophy, with an emphasis on analysis, clear prose, rigorous arguments, formal logic, mathematics, and the natural sciences (with less emphasis on the humanities). It is further characterized by the linguistic turn, or a concern with language and meaning.",
+    "summary": "Pseudo-Dionysius the Areopagite (or Dionysius the Pseudo-Areopagite) was a Greek author, Christian theologian and Neoplatonic philosopher of the late 5th to early 6th century, who wrote a set of works known as the Corpus Areopagiticum or Corpus Dionysiacum.",
     "key_texts": [],
     "tags": [
-      "synthesis",
+      "christianity",
       "person",
+      "mysticism",
       "scripture",
-      "metaphysics",
+      "theology",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Analytic_philosophy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pseudo-Dionysius_the_Areopagite",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Analytic philosophy",
-        "url": "https://en.wikipedia.org/wiki/Analytic_philosophy",
+        "title": "Wikipedia: Pseudo-Dionysius the Areopagite",
+        "url": "https://en.wikipedia.org/wiki/Pseudo-Dionysius_the_Areopagite",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_gregory_of_nyssa",
+    "label": "Gregory of Nyssa",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": 395,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Niksar",
+    "summary": "Gregory of Nyssa (; Koine Greek: Γρηγόριος Νύσσης, romanized: Grēgórios Nýssēs, pronounced [ɣriˈɣo.ri.os ˈnys.sis]; c. 335 – c. 394), also known as Gregory Nyssen (; Γρηγόριος Νυσσηνός, Grēgórios Nyssēnós, [ɣriˈɣo.ri.os nys.siˈnos]), was an early Christian theologian who served as the bishop of Nyssa from 372 to 376 and from 378 until his death in 394.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "mysticism",
+      "liberation",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_of_Nyssa",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Gregory of Nyssa",
+        "url": "https://en.wikipedia.org/wiki/Gregory_of_Nyssa",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_maximus_the_confessor",
+    "label": "Maximus the Confessor",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 580,
+    "era_end": 662,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Maximus the Confessor (Greek: Μάξιμος ὁ Ὁμολογητής, romanized: Maximos ho Homologētēs), also spelled Maximos, otherwise known as Maximus the Theologian and Maximus of Constantinople (c. 580 – 13 August 662), was a Christian monk, theologian, and scholar. In his early life, Maximus was a civil servant, and an aide to the Byzantine Emperor Heraclius.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "mysticism",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximus_the_Confessor",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Maximus the Confessor",
+        "url": "https://en.wikipedia.org/wiki/Maximus_the_Confessor",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_andreas_karlstadt",
+    "label": "Andreas Karlstadt",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 1486,
+    "era_end": 1541,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Karlstadt am Main",
+    "summary": "Andreas Rudolph Bodenstein von Karlstadt (1486 – 24 December 1541), better known as Andreas Karlstadt, Andreas Carlstadt or Karolostadt, in Latin, Carolstadius, or simply as Andreas Bodenstein, was a German Protestant theologian, University of Wittenberg chancellor, a contemporary of Martin Luther and a reformer of the early Reformation.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "mysticism",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Karlstadt",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Andreas Karlstadt",
+        "url": "https://en.wikipedia.org/wiki/Andreas_Karlstadt",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_saint_peter",
+    "label": "Saint Peter",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": -1,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Bethsaida",
+    "summary": "Saint Peter (born Shimon bar Yonah; 1 BC – AD 64/68), also known as Peter the Apostle, Simon Peter, Simeon, Simon, or Cephas, was one of the Twelve Apostles of Jesus and one of the first leaders of the early Christian Church. He appears repeatedly and prominently in all four New Testament gospels, as well as the Acts of the Apostles.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Peter",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Saint Peter",
+        "url": "https://en.wikipedia.org/wiki/Saint_Peter",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_averil_cameron",
+    "label": "Averil Cameron",
+    "type": "person",
+    "tradition": "christianity",
+    "era_start": 1940,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Leek, Staffordshire",
+    "summary": "Dame Averil Millicent Cameron (née Sutton; born 8 February 1940), often cited as A. M. Cameron, is a British historian. She writes on Late Antiquity, Classics, and Byzantine Studies. She was Professor of Late Antique and Byzantine History at the University of Oxford, and the Warden of Keble College, Oxford, between 1994 and 2010.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Averil_Cameron",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Averil Cameron",
+        "url": "https://en.wikipedia.org/wiki/Averil_Cameron",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1479,116 +2613,145 @@
     ]
   },
   {
-    "id": "wiki_acrostic",
-    "label": "Acrostic",
-    "type": "person",
-    "tradition": "christianity",
-    "era_start": 30,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "An acrostic is a poem or other word composition in which the first letter (or syllable, or word) of each new line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The term comes from the French acrostiche from post-classical Latin acrostichis, from Koine Greek ἀκροστιχίς, from Ancient Greek ἄκρος \"highest, topmost\" and στίχος \"verse\".",
-    "key_texts": [],
-    "tags": [
-      "christianity",
-      "person",
-      "scripture",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Acrostic",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Acrostic",
-        "url": "https://en.wikipedia.org/wiki/Acrostic",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_agape_feast",
-    "label": "Agape feast",
-    "type": "person",
-    "tradition": "christianity",
-    "era_start": 250,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "An agape feast or lovefeast is a term used for various communal meals shared among Christians. The name comes from the Greek word ἀγάπη (agape), which implies love in the sense of brotherly or familial affection. Agape meals originated in the early Church and were a time of fellowship for believers.",
-    "key_texts": [],
-    "tags": [
-      "christianity",
-      "person",
-      "ritual",
-      "scripture",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Agape_feast",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Agape feast",
-        "url": "https://en.wikipedia.org/wiki/Agape_feast",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_aaron",
-    "label": "Aaron",
+    "id": "wiki_isaac_luria",
+    "label": "Isaac Luria",
     "type": "person",
     "tradition": "judaism",
-    "era_start": -1200,
-    "era_end": null,
+    "era_start": 1534,
+    "era_end": 1572,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "According to the Old Testament of the Bible, Aaron ( AIR-ən or ARR-ən) was an Israelite prophet, high priest, and the elder brother of Moses. Information about Aaron comes exclusively from religious texts, such as the Hebrew Bible, the New Testament (Luke, Acts, and Hebrews), and the Quran.",
+    "summary": "Isaac ben Solomon Ashkenazi Luria (Hebrew: יִצְחָק בן שלמה לוּרְיָא אשכנזי; born c. 1534 – died July 25, 1572), commonly known in Jewish religious circles as Ha'ari, Ha'ari Hakadosh or Arizal, was a leading rabbi and Jewish mystic in the community of Safed in the Galilee region of Ottoman Palestine, now Israel.",
     "key_texts": [],
     "tags": [
       "judaism",
       "person",
+      "mysticism",
+      "ritual",
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aaron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Luria",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Aaron",
-        "url": "https://en.wikipedia.org/wiki/Aaron",
+        "title": "Wikipedia: Isaac Luria",
+        "url": "https://en.wikipedia.org/wiki/Isaac_Luria",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_abraham",
-    "label": "Abraham",
+    "id": "wiki_moses_de_le_n",
+    "label": "Moses de León",
     "type": "person",
     "tradition": "judaism",
-    "era_start": -1200,
-    "era_end": null,
+    "era_start": 1250,
+    "era_end": 1305,
     "origin_lat": null,
     "origin_lng": null,
-    "origin_place": "Harran",
-    "summary": "Abraham (originally Abram) is the common Hebrew patriarch of the Abrahamic religions, including Judaism, Christianity, and Islam. In Judaism, he is the founding father who began the covenantal relationship between the Jewish people and God; in Christianity, he is the spiritual progenitor of all believers, whether Jewish or non-Jewish; and in Islam, he is a link in the chain of Islamic prophets that begins with Ad...",
+    "origin_place": "León, Spain",
+    "summary": "Moses de León (c. 1240 – 1305), known in Hebrew as Moshe ben Shem-Tov (משה בן שם-טוב די-ליאון‎), was a Spanish rabbi and Kabbalist who first publicized the Zohar. Modern scholars believe the Zohar is his own work, despite his claim to have copied it out of an ancient manuscript by Shimon ben Yochai.",
     "key_texts": [],
     "tags": [
       "judaism",
       "person",
-      "ritual",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Moses_de_Le%C3%B3n",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Moses de León",
+        "url": "https://en.wikipedia.org/wiki/Moses_de_Le%C3%B3n",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_nachman_of_breslov",
+    "label": "Nachman of Breslov",
+    "type": "person",
+    "tradition": "judaism",
+    "era_start": 1772,
+    "era_end": 1810,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Medzhybizh",
+    "summary": "Nachman of Breslov (Hebrew: רַבִּי נַחְמָן מִבְּרֶסְלֶב Rabbī Naḥmān mīBreslev), also known as Rabbi Nachman of Breslev, Rabbi Nachman miBreslev, Reb Nachman of Bratslav, Reb Nachman Breslover (Yiddish: רבי נחמן ברעסלאווער Rebe Nakhmen Breslover), and Nachman from Uman (April 4, 1772 – October 16, 1810), was the founder of the Breslov Hasidic movement.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "person",
       "scripture",
       "theology",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Abraham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nachman_of_Breslov",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Abraham",
-        "url": "https://en.wikipedia.org/wiki/Abraham",
+        "title": "Wikipedia: Nachman of Breslov",
+        "url": "https://en.wikipedia.org/wiki/Nachman_of_Breslov",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_judah_halevi",
+    "label": "Judah Halevi",
+    "type": "person",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": 1141,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Toledo, Spain",
+    "summary": "Judah haLevi (also Yehuda Halevi or ha-Levi; Hebrew: יהודה בן שמואל הלוי, romanized: Yəhūḏā ben Šəmūʾēl ha-Lēvī; Arabic: أبو الحسن يهوذا اللاوي, romanized: Abū-l-Ḥasan Yahūḏā al-Lāwī; c. 1075–1141) was a Sephardic Jewish poet, physician and philosopher.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "person",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Judah_Halevi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Judah Halevi",
+        "url": "https://en.wikipedia.org/wiki/Judah_Halevi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_saadia_gaon",
+    "label": "Saadia Gaon",
+    "type": "person",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": 942,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Faiyum",
+    "summary": "Saʿadia ben Yosef Gaon or Said bin Yusuf al-Fayyumi (892–942) was a prominent rabbi, gaon, Jewish philosopher, and exegete who was active in the Abbasid Caliphate. Saadia is the first important rabbinic figure to write extensively in Judeo-Arabic. Known for his works on Hebrew linguistics, Halakha, and Jewish philosophy, he was a student of the philosophical school known as \"Jewish Kalam\".",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "person",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Saadia_Gaon",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Saadia Gaon",
+        "url": "https://en.wikipedia.org/wiki/Saadia_Gaon",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1652,64 +2815,6 @@
     ]
   },
   {
-    "id": "wiki_abraham_ben_david",
-    "label": "Abraham ben David",
-    "type": "person",
-    "tradition": "judaism",
-    "era_start": -1200,
-    "era_end": 1198,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Abraham ben David (c. 1125 – 27 November 1198), also known by the abbreviation RABaD (for Rabbeinu Abraham ben David) Ravad or RABaD III, was a Provençal ḥakham, an important commentator on the Talmud, Sefer Halachot of Isaac Alfasi, and Mishneh Torah of Maimonides, and is regarded as a father of Kabbalah and one of the key links in the chain of Jewish mystics.",
-    "key_texts": [],
-    "tags": [
-      "judaism",
-      "person",
-      "mysticism",
-      "scripture",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_ben_David",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Abraham ben David",
-        "url": "https://en.wikipedia.org/wiki/Abraham_ben_David",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_acharonim",
-    "label": "Acharonim",
-    "type": "person",
-    "tradition": "judaism",
-    "era_start": 1563,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "In Jewish law and history, Acharonim (Hebrew: אחרונים, romanized: Aḥaronim, Modern Israeli Hebrew: [ʔaχ(a)ʁoˈnim], Biblical Hebrew: [ʔaħ(a)roˈnim]; lit. 'last ones'; sing. אחרון, Aḥaron) are the leading rabbis and poskim (Jewish legal decisors) living from roughly the 16th century to the present, and more specifically since the writing of the Shulchan Aruch (lit. 'Set Table'; a code of Jewish law) in 1563 CE.",
-    "key_texts": [],
-    "tags": [
-      "judaism",
-      "person",
-      "liberation",
-      "scripture",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Acharonim",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Acharonim",
-        "url": "https://en.wikipedia.org/wiki/Acharonim",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
     "id": "wiki_adam_ferziger",
     "label": "Adam Ferziger",
     "type": "person",
@@ -1766,60 +2871,474 @@
     ]
   },
   {
-    "id": "wiki_african_philosophy",
-    "label": "African philosophy",
+    "id": "wiki_allan_nadler",
+    "label": "Allan Nadler",
     "type": "person",
-    "tradition": "synthesis",
-    "era_start": -1000,
+    "tradition": "judaism",
+    "era_start": 1954,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "African philosophy is the philosophical discourse produced using indigenous African thought systems. African philosophers are found in the various academic fields of present philosophy, such as metaphysics, epistemology, moral philosophy, and political philosophy. It discusses substantive issues from an African perspective.",
+    "summary": "Allan L. Nadler (born May 8, 1954) is Wallerstein Professor Emeritus of Religious Studies and Former Director of the Jewish Studies Program at Drew University in Madison, New Jersey.",
     "key_texts": [],
     "tags": [
-      "synthesis",
+      "judaism",
       "person",
-      "ethics",
-      "scripture",
-      "metaphysics",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/African_philosophy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_Nadler",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: African philosophy",
-        "url": "https://en.wikipedia.org/wiki/African_philosophy",
+        "title": "Wikipedia: Allan Nadler",
+        "url": "https://en.wikipedia.org/wiki/Allan_Nadler",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_absolute_idealism",
-    "label": "Absolute idealism",
+    "id": "wiki_arnold_dashefsky",
+    "label": "Arnold Dashefsky",
     "type": "person",
-    "tradition": "synthesis",
-    "era_start": 1800,
+    "tradition": "judaism",
+    "era_start": 1942,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Absolute idealism is chiefly associated with Friedrich Schelling and G. W. F. Hegel, both of whom were German idealist philosophers in the 19th century.",
+    "summary": "Arnold Dashefsky, is a professor at the University of Connecticut who has written several books on topics relating to Jewish Studies. Dashefsky is an ex-officio member of the oversight committee at the North American Jewish Data Bank. He was previously a director.",
     "key_texts": [],
     "tags": [
-      "synthesis",
+      "judaism",
       "person",
-      "consciousness",
-      "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Absolute_idealism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Dashefsky",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Absolute idealism",
-        "url": "https://en.wikipedia.org/wiki/Absolute_idealism",
+        "title": "Wikipedia: Arnold Dashefsky",
+        "url": "https://en.wikipedia.org/wiki/Arnold_Dashefsky",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_asser_levy",
+    "label": "Asser Levy",
+    "type": "person",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": 1680,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "New Netherland",
+    "summary": "Asser Levy (died February 1682), also known as Asser Levy van Swellem and Asher Levy, was one of the first Jewish settlers of the Dutch colony of New Amsterdam on Manhattan Island.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Asser_Levy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Asser Levy",
+        "url": "https://en.wikipedia.org/wiki/Asser_Levy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bernard_lewis",
+    "label": "Bernard Lewis",
+    "type": "person",
+    "tradition": "judaism",
+    "era_start": 1916,
+    "era_end": 2018,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Stoke Newington",
+    "summary": "Bernard Lewis, (31 May 1916 – 19 May 2018) was a British-American historian specialized in Oriental studies. He was also known as a public intellectual and political commentator. Lewis was the Cleveland E. Dodge Professor Emeritus of Near Eastern Studies at Princeton University. Lewis's expertise was in the history of Islam and the interaction between Islam and the West.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "person",
+      "ethics",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Lewis",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bernard Lewis",
+        "url": "https://en.wikipedia.org/wiki/Bernard_Lewis",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_wang_bi",
+    "label": "Wang Bi",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": 226,
+    "era_end": 249,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Shandong",
+    "summary": "Wang Bi (Chinese: 王弼; 226–249), courtesy name Fusi (Chinese: 輔嗣), was a Chinese philosopher and politician. During his brief career, he produced commentaries on the Tao Te Ching and I Ching which were highly influential in Chinese philosophy.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wang_Bi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Wang Bi",
+        "url": "https://en.wikipedia.org/wiki/Wang_Bi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ge_hong",
+    "label": "Ge Hong",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": 283,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Jiangsu",
+    "summary": "Ge Hong (Chinese: 葛洪; pinyin: Gě Hóng; Wade–Giles: Ko Hung; b. 283 – d. 343 or 364), courtesy name Zhichuan (稚川), was a Chinese linguist, philosopher, physician, politician, and writer during the Eastern Jin dynasty. He was the author of Essays on Chinese Characters, the Baopuzi, the Emergency Formulae at an Elbow's Length, among others.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "person",
+      "ethics",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ge_Hong",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ge Hong",
+        "url": "https://en.wikipedia.org/wiki/Ge_Hong",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_arthur_waley",
+    "label": "Arthur Waley",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": 1889,
+    "era_end": 1966,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Royal Tunbridge Wells",
+    "summary": "Arthur David Waley (né Schloss, 19 August 1889 – 27 June 1966) was an English orientalist and sinologist who achieved both popular and scholarly acclaim for his translations of Chinese and Japanese poetry.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Waley",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Arthur Waley",
+        "url": "https://en.wikipedia.org/wiki/Arthur_Waley",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bao_jingyan",
+    "label": "Bao Jingyan",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": 400,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bao Jingyan or Pao Ching-yen (Chinese: 鮑敬言; pinyin: Bào Jìngyán) was a Chinese, libertarian/anarchist philosopher and Taoist who lived somewhere between the late 200's AD and before 400 AD.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bao_Jingyan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bao Jingyan",
+        "url": "https://en.wikipedia.org/wiki/Bao_Jingyan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_benjamin_hoff",
+    "label": "Benjamin Hoff",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": 1946,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Benjamin Hoff (born on November 11, 1946) is an American author. He is best known as the author of The Tao of Pooh (1982) and The Te of Piglet (1992). In 2006, he denounced the publishing industry and announced his resignation from book-writing. His book, The Singing Creek Where the Willows Grow, won the American Book Award in 1988.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "person",
+      "ritual",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Hoff",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Benjamin Hoff",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Hoff",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bruce_lee",
+    "label": "Bruce Lee",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": 1940,
+    "era_end": 1973,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Chinatown, San Francisco",
+    "summary": "Bruce Lee (born Lee Jun-fan; November 27, 1940 – July 20, 1973) was a Hong Kong and American martial artist, actor, and filmmaker. He was the founder of Jeet Kune Do, a hybrid martial arts philosophy, which was formed from his experiences in unarmed fighting and self-defense—as well as eclectic, Zen Buddhist, and Taoist philosophies—as a new school of martial arts thought.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Lee",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bruce Lee",
+        "url": "https://en.wikipedia.org/wiki/Bruce_Lee",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bu_shang",
+    "label": "Bu Shang",
+    "type": "person",
+    "tradition": "taoism",
+    "era_start": -507,
+    "era_end": -400,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bu Shang (507 BC – 400 BC), commonly known by his courtesy name Zixia or as Buzi (Master Bu), was an ancient Chinese philosopher and a prominent disciple of Confucius who was considered one of the most accomplished in cultural learning. He was one of the five disciples who took chief responsibility for the transmission of Confucius' teachings.",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bu_Shang",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bu Shang",
+        "url": "https://en.wikipedia.org/wiki/Bu_Shang",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_guru_angad",
+    "label": "Guru Angad",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1504,
+    "era_end": 1552,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Punjab, India",
+    "summary": "Guru Angad (31 March 1504 – 29 March 1552; Punjabi: ਗੁਰੂ ਅੰਗਦ, pronounced [gʊɾuː əŋgəd̯ᵊ]) was the second of the ten Sikh gurus of Sikhism. After meeting Guru Nanak, the founder of Sikhism, becoming a Sikh, and serving and working with Nanak for many years, Nanak gave Lehna the name Angad (\"my own limb\"), and chose Angad as the second Sikh Guru. After the death of Nanak in 1539, Angad led the Sikh tradition.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Angad",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guru Angad",
+        "url": "https://en.wikipedia.org/wiki/Guru_Angad",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_guru_amar_das",
+    "label": "Guru Amar Das",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1479,
+    "era_end": 1574,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Amritsar district",
+    "summary": "Guru Amar Das (Gurmukhi: ਗੁਰੂ ਅਮਰ ਦਾਸ, pronunciation: [gʊɾuː əməɾᵊ d̯aːsᵊ]; 5 May 1479 – 1 September 1574), sometimes spelled as Guru Amardas, was the third guru of Sikhism and became Sikh Guru on 26 March 1552 at age 73.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guru Amar Das",
+        "url": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_guru_ram_das",
+    "label": "Guru Ram Das",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1534,
+    "era_end": 1581,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Guru Ram Das (Gurmukhi: ਗੁਰੂ ਰਾਮ ਦਾਸ, pronunciation: [gʊɾuː ɾaːmᵊ d̯aːsᵊ]; 24 September 1534 – 1 September 1581), sometimes spelled as Guru Ramdas, was the fourth of the ten Sikh gurus. He was born to a family based in Lahore, who named him Bhai Jetha. He was orphaned at age seven; and thereafter grew up with his maternal grandmother in a village.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guru Ram Das",
+        "url": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_guru_arjan",
+    "label": "Guru Arjan",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1563,
+    "era_end": 1606,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Tarn Taran district",
+    "summary": "Guru Arjan (Gurmukhi: ਗੁਰੂ ਅਰਜਨ, pronunciation: [gʊɾuː əɾd͡ʒənᵊ]; 15 April 1563 – 30 May 1606) was the fifth of the ten total Sikh Gurus. He compiled the first official edition of the Sikh scripture called the Adi Granth, which later expanded into the Guru Granth Sahib. He is regarded as the first of the two Gurus martyred in the Sikh faith.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Arjan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guru Arjan",
+        "url": "https://en.wikipedia.org/wiki/Guru_Arjan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_guru_gobind_singh",
+    "label": "Guru Gobind Singh",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1666,
+    "era_end": 1708,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Guru Gobind Singh (Punjabi pronunciation: [gʊɾuː goːbɪn̪d̪ᵊ sɪ́ŋgᵊ]; born Gobind Das; 22 December 1666 – 7 October 1708) was the tenth and last human Sikh Guru. He was a warrior, poet, and philosopher. In 1675, at the age of nine, he was formally made the leader of the Sikhs after his father Guru Tegh Bahadur—the ninth Sikh Guru—was executed by the emperor Aurangzeb.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Guru Gobind Singh",
+        "url": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhai_gurdas",
+    "label": "Bhai Gurdas",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1551,
+    "era_end": 1636,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Amritsar",
+    "summary": "Bhai Gurdas (1551 – 25 August 1636) was a Sikh writer, historian and preacher who served as the Jathedar of the Akal Takht from 1606 to his death in 1636. He was the original scribe of the early version of Guru Granth Sahib, having served as the amanuensis of Guru Arjan in its compilation.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhai Gurdas",
+        "url": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -1852,34 +3371,6 @@
     ]
   },
   {
-    "id": "wiki_akal_takht",
-    "label": "Akal Takht",
-    "type": "person",
-    "tradition": "sikhism",
-    "era_start": 1469,
-    "era_end": null,
-    "origin_lat": 31.62055556,
-    "origin_lng": 74.87527778,
-    "origin_place": "Wikipedia coordinates",
-    "summary": "The Akal Takht (Punjabi: ਅਕਾਲ ਤਖ਼ਤ ਸਾਹਿਬ; lit. 'Throne of the Timeless'), also spelt as Akal Takhat and historically known as Akal Bunga, is the most prominent of the five takhts (seats of authority) of the Sikhs. Located within the Darbar Sahib (Golden Temple) complex in Amritsar, Punjab, India, it was established by Guru Hargobind in 1606 as a place to uphold justice and address temporal matters.",
-    "key_texts": [],
-    "tags": [
-      "sikhism",
-      "person",
-      "scripture",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Akal_Takht",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Akal Takht",
-        "url": "https://en.wikipedia.org/wiki/Akal_Takht",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
     "id": "wiki_akali_phula_singh",
     "label": "Akali Phula Singh",
     "type": "person",
@@ -1907,35 +3398,121 @@
     ]
   },
   {
-    "id": "wiki_akhand_kirtani_jatha",
-    "label": "Akhand Kirtani Jatha",
+    "id": "wiki_baba_buddha",
+    "label": "Baba Buddha",
     "type": "person",
     "tradition": "sikhism",
-    "era_start": 1469,
-    "era_end": null,
+    "era_start": 1506,
+    "era_end": 1631,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "The Akhand Kirtani Jatha, alternatively romanized as the Akhand Keertanee Jathaa and abbreviated as AKJ, is a jatha (collective group) and sect of Sikhism dedicated to the Sikh lifestyle. The Jatha follows a strict discipline in keeping the Rehat of Guru Gobind Singh. They also enjoy an active style of Keertan recited by Sikhs in a collective manner in front of Guru Granth Sahib.",
+    "summary": "Baba Buddha (Gurmukhi: ਬਾਬਾ ਬੁੱਢਾ; bābā buḍhā; lit. meaning \"wise old man\"; 6 October 1506 – 8 September 1631) was a prime figure in early Sikhism.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "ritual",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Baba_Buddha",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Baba Buddha",
+        "url": "https://en.wikipedia.org/wiki/Baba_Buddha",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_baba_dyal_singh",
+    "label": "Baba Dyal Singh",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1783,
+    "era_end": 1855,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Baba Dayal (17 May 1783 – 30 January 1855), also spelt as Baba Dyal, was a non-Khalsa, Sahajdhari Sikh reformer whose main mission was to bring Sikhs back to the Adi Granth and Simran. He was the founder of the Nirankari sect of Sikhism.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Baba_Dyal_Singh",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Baba Dyal Singh",
+        "url": "https://en.wikipedia.org/wiki/Baba_Dyal_Singh",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ram_rai",
+    "label": "Ram Rai",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1645,
+    "era_end": 1687,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ram Rai (Gurmukhi: ਰਾਮ ਰਾਏ; rāma rā'ē; 1645–1687 or 1689) was the excommunicated eldest son of the seventh Sikh Guru, Guru Har Rai, and the founder of the Ramraiyas, an unorthodox and heretical sect in Sikhism, classified as a type of Udasi. He became an Udasi after being ex-communicated by his father.",
     "key_texts": [],
     "tags": [
       "sikhism",
       "person",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Akhand_Kirtani_Jatha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ram_Rai",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Akhand Kirtani Jatha",
-        "url": "https://en.wikipedia.org/wiki/Akhand_Kirtani_Jatha",
+        "title": "Wikipedia: Ram Rai",
+        "url": "https://en.wikipedia.org/wiki/Ram_Rai",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_alevism",
-    "label": "Alevism",
+    "id": "wiki_banda_singh_bahadur",
+    "label": "Banda Singh Bahadur",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1670,
+    "era_end": 1716,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Nanded district",
+    "summary": "Banda Singh Bahadur (born Lachman Dev; 27 October 1670 – 9 June 1716) was a Sikh military commander of the Khalsa Army. At age 15, he left home to become an ascetic, and was given the name Madho Das Bairagi. He established a monastery at Nānded, on the bank of the river Godāvarī.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "consciousness",
+      "ritual",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Banda Singh Bahadur",
+        "url": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhagat_bhikhan",
+    "label": "Bhagat Bhikhan",
     "type": "person",
     "tradition": "sikhism",
     "era_start": 1469,
@@ -1943,7 +3520,150 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Alevism (; Turkish: Alevilik; Kurdish: Elewîtî), also known as Qizilbashism, is a syncretic and mystic tradition, formulated by Haji Bektash Veli. It is generally agreed that it is akin to a Sufi rendition of Twelver Shi'ism that integrates Central Asian shamanic elements, though some dissenting voices base the Alevi belief squarely in a non-denominational, heterodox Anatolian Islam instead.",
+    "summary": "Bhagat Bhikhan (Punjabi: ਭਗਤ ਭੀਖਨ, pronunciation: [bhæɡæt̪ bhiːkʰɪn]) (1480–1573), also spelt as Bhikan, was a medieval Indian Bhakti poet-saint, whose two hymns are included in the Guru Granth Sahib. There were two saints of that time sharing the same name — Bhagat Bhikhan and Sheikh Bhikhan, the Sufi.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Bhikhan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhagat Bhikhan",
+        "url": "https://en.wikipedia.org/wiki/Bhagat_Bhikhan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhagat_dhanna",
+    "label": "Bhagat Dhanna",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1415,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Rajasthan",
+    "summary": "Bhagat Dhanna, also known Dhanna Jat, Dhanna Jatt, Dhanna Bairagi or Sant Dhanna (born 1415), was a mystic poet and a Vaishnav devotee. His followers, who were primarily from caste-based communities, came to be known as Dhanvanshi Swamis. They are spread across various districts in Rajasthan, Punjab, and Haryana. His three hymns are present in Guru Granth Sahib.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "mysticism",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Dhanna",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhagat Dhanna",
+        "url": "https://en.wikipedia.org/wiki/Bhagat_Dhanna",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_baba_farid",
+    "label": "Baba Farid",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": 1266,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Pakpattan",
+    "summary": "Farīduddīn Masūd Ganjshakar (c. 4 April 1188 – 7 May 1266), commonly known as Bābā Farīd or Sheikh Farīd (also in Anglicised spelling Fareed, Fareed ud-Deen, Masood, etc.), was a 12th-13th century Punjabi Muslim mystic, poet and preacher. Revered by Hindus, Muslims and Sikhs alike, he remains one of the most revered Muslim mystics of South Asia during the Islamic Golden Age.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "mysticism",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Baba_Farid",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Baba Farid",
+        "url": "https://en.wikipedia.org/wiki/Baba_Farid",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhagat_parmanand",
+    "label": "Bhagat Parmanand",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bhagat Parmanand (pronunciation: [bʱæɡæt paɾmaːnũnd]) was a Vaishnava mystic and saint-poet, one of whose hymns is included in the Guru Granth Sahib.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "mysticism",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Parmanand",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhagat Parmanand",
+        "url": "https://en.wikipedia.org/wiki/Bhagat_Parmanand",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhagat_pipa",
+    "label": "Bhagat Pipa",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Jhalawar district",
+    "summary": "Bhagat Pipa (born 1425) was a Rajput ruler of Gagaraungarh who abdicated the throne to become a Hindu mystic poet and saint of the Bhakti movement. He was born in the Malwa region of North India (east Rajasthan) in approximately AD 1425. Pipa's exact date of birth and death are unknown, but it is believed that he lived in the late fourteenth and early fifteenth century.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "mysticism",
+      "ritual",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Pipa",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhagat Pipa",
+        "url": "https://en.wikipedia.org/wiki/Bhagat_Pipa",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ravidas",
+    "label": "Ravidas",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1433,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ravidas or Raidas was an Indian mystic poet-saint of the Bhakti movement during the 15th to 16th century CE. Venerated as a guru (spiritual teacher) in the modern regions of Uttar Pradesh, Bihar, Rajasthan, Gujarat, Maharashtra, Madhya Pradesh, Punjab, and Haryana, he was a poet, social reformer and spiritual figure. The life details of Ravidas are uncertain and contested.",
     "key_texts": [],
     "tags": [
       "sikhism",
@@ -1953,47 +3673,19 @@
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Alevism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ravidas",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Alevism",
-        "url": "https://en.wikipedia.org/wiki/Alevism",
+        "title": "Wikipedia: Ravidas",
+        "url": "https://en.wikipedia.org/wiki/Ravidas",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_alexander_gardner_soldier",
-    "label": "Alexander Gardner (soldier)",
-    "type": "person",
-    "tradition": "sikhism",
-    "era_start": 1785,
-    "era_end": 1877,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Colonel Alexander Haughton Campbell Gardner, also known as Gordana Khan (Persian: گوردانہ خان; Punjabi: ਗੋਰਦਾਨਾ ਖ਼ਾਨ; 1785–1877), was a traveller, soldier, and mercenary active in Afghanistan and Punjab. He served in various military positions in the region, most notably for the Sikh Empire of Ranjit Singh. Details of his life remain obscure, though several colourful accounts have been written.",
-    "key_texts": [],
-    "tags": [
-      "sikhism",
-      "person",
-      "scripture",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Gardner_(soldier)",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Alexander Gardner (soldier)",
-        "url": "https://en.wikipedia.org/wiki/Alexander_Gardner_(soldier)",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_amrit_sanskar",
-    "label": "Amrit Sanskar",
+    "id": "wiki_bhagat_sadhana",
+    "label": "Bhagat Sadhana",
     "type": "person",
     "tradition": "sikhism",
     "era_start": 1469,
@@ -2001,22 +3693,132 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Amrit Sanskar (Punjabi: ਅੰਮ੍ਰਿਤ ਸੰਸਕਾਰ, romanized: Amrita sansakāra, pronunciation: [ãːmɾʱɪt̪ sә̃nskäːɚ], lit. \"nectar ceremony\") is one of the four Sikh Sanskars. The Amrit Sanskar is the initiation rite introduced by Guru Gobind Singh when he founded the Khalsa in 1699. A Sikh who has been initiated into the Khalsa ('pure'; the Sikh brotherhood) is considered to be Amritdhari (baptised, lit.",
+    "summary": "Bhagat Sadhna, also called Sadhna Qasai, was a north Indian poet, saint, mystic and one of the devotees whose hymn was incorporated in Guru Granth Sahib. Venerated in the region of Punjab, among Sikhs and Ravidassias, his devotional hymn is widely quoted by most preachers. His one hymn is present in Adi Granth Sahib, in Raga Bilaval. The followers of Bhagat Sadhna are called Sadhna Panthis.",
     "key_texts": [],
     "tags": [
       "sikhism",
       "person",
-      "ritual",
-      "scripture",
-      "theology",
+      "mysticism",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Amrit_Sanskar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Sadhana",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Amrit Sanskar",
-        "url": "https://en.wikipedia.org/wiki/Amrit_Sanskar",
+        "title": "Wikipedia: Bhagat Sadhana",
+        "url": "https://en.wikipedia.org/wiki/Bhagat_Sadhana",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhagat_sain",
+    "label": "Bhagat Sain",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1400,
+    "era_end": 1490,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bhagat Sain (fl. 14th–15th centuries), also known as Sena Bhagat, was a Hindu mystic poet and saint of the Bhakti movement that lived in the end of the fourteenth and the beginning of the fifteenth century. His name was known in every house due to his devotion to god. Bhagat Sain was a barber of the royal court of Raja Ram Singh, ruler of Rewa. He was a disciple of Ramananda.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "mysticism",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Sain",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhagat Sain",
+        "url": "https://en.wikipedia.org/wiki/Bhagat_Sain",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bhagat_trilochan",
+    "label": "Bhagat Trilochan",
+    "type": "person",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Trilochan, also spelt as Tarlochan, was a celebrated medieval Indian saint and one of devotee whose hymns are present in Guru Granth Sahib, the holy book of Sikhs.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Trilochan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bhagat Trilochan",
+        "url": "https://en.wikipedia.org/wiki/Bhagat_Trilochan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_hemachandra",
+    "label": "Hemachandra",
+    "type": "person",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": 1172,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Hemachandra (c. 1088 – c. 1172/1173) was a 12th century Śvetāmbara Jaina ācārya, scholar, poet, mathematician, philosopher, yogi, grammarian, law theorist, historian, lexicographer, rhetorician, logician, and prosodist. Noted as a prodigy by his contemporaries, he gained the title kalikālasarvajña, \"the knower of all knowledge in his times\" and is also regarded as father of the Gujarati language.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hemachandra",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Hemachandra",
+        "url": "https://en.wikipedia.org/wiki/Hemachandra",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_umaswati",
+    "label": "Umaswati",
+    "type": "person",
+    "tradition": "jainism",
+    "era_start": 1350,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Vācaka Umāsvāti, also spelled as Vācaka Umasvati and known as Vācaka Umāsvāmī, was an Indian scholar, possibly between the 2nd and 5th centuries CE, known for his foundational writings on Jainism. He authored the Jainatext Tattvartha Sutra (literally '\"All That Is\", also called Tattvarthadhigama Sutra).",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "person",
+      "liberation",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Umaswati",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Umaswati",
+        "url": "https://en.wikipedia.org/wiki/Umaswati",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2044,6 +3846,176 @@
       {
         "title": "Wikipedia: Acharya Chandana",
         "url": "https://en.wikipedia.org/wiki/Acharya_Chandana",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bal_patil",
+    "label": "Bal Patil",
+    "type": "person",
+    "tradition": "jainism",
+    "era_start": 1932,
+    "era_end": 2011,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bal Patil (Marathi: बाळ पाटील; 1932–2011) was a Jain scholar, journalist, social activist and Jain minority status advocate from Mumbai, Maharashtra. He was appointed as a member of State Minority Commission by the Govt. of Maharashtra from 2001 to 2004.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bal_Patil",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bal Patil",
+        "url": "https://en.wikipedia.org/wiki/Bal_Patil",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bron_taylor",
+    "label": "Bron Taylor",
+    "type": "person",
+    "tradition": "jainism",
+    "era_start": 1955,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Bron Raymond Taylor (born 15 April 1955) is an American scholar and conservationist. He is professor of religion and nature at the University of Florida and has also been an affiliated scholar with the Center for Environment and Development at the University of Oslo. Taylor works principally in the areas of religion and ecology, environmental ethics and environmental philosophy.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "person",
+      "ritual",
+      "ethics",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bron_Taylor",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bron Taylor",
+        "url": "https://en.wikipedia.org/wiki/Bron_Taylor",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_burjor_avari",
+    "label": "Burjor Avari",
+    "type": "person",
+    "tradition": "jainism",
+    "era_start": 1938,
+    "era_end": 2019,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Burjor Avari (1938–2019) was a British-Indian historian and professor of South Asian history at the Manchester Metropolitan University in the UK. He received an MBE in recognition of his work in multicultural education.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Burjor_Avari",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Burjor Avari",
+        "url": "https://en.wikipedia.org/wiki/Burjor_Avari",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_champat_rai_jain",
+    "label": "Champat Rai Jain",
+    "type": "person",
+    "tradition": "jainism",
+    "era_start": 1867,
+    "era_end": 1942,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Delhi",
+    "summary": "Champat Rai Jain (6 August 1867–2 June 1942) was a Digambara Jain born in Delhi and who studied and practised law in England. He became an influential Jainism scholar and comparative religion writer between 1910s and 1930s who translated and interpreted Digambara texts.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Champat_Rai_Jain",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Champat Rai Jain",
+        "url": "https://en.wikipedia.org/wiki/Champat_Rai_Jain",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_zoroaster",
+    "label": "Zoroaster",
+    "type": "person",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Balkh",
+    "summary": "Zarathushtra Spitama, more commonly known as Zoroaster or Zarathustra, was an Iranian religious reformer who challenged the tenets of the contemporary Ancient Iranian religion, becoming the spiritual founder of Zoroastrianism. In the oldest Zoroastrian scriptures, the Gathas, which he is traditionally believed to have authored, he is described as a preacher and a poet-prophet.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "person",
+      "ritual",
+      "ethics",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zoroaster",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Zoroaster",
+        "url": "https://en.wikipedia.org/wiki/Zoroaster",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_almut_hintze",
+    "label": "Almut Hintze",
+    "type": "person",
+    "tradition": "zoroastrianism",
+    "era_start": 1957,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Almut Hintze, FBA (born 7 June 1957) is an academic, philologist, linguist and scholar of Indo-Iranian studies and Zoroastrianism. Since 2010, she has been Zartoshty Brothers Professor of Zoroastrianism at the School of Oriental and African Studies, University of London.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Almut_Hintze",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Almut Hintze",
+        "url": "https://en.wikipedia.org/wiki/Almut_Hintze",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2077,29 +4049,298 @@
     ]
   },
   {
-    "id": "wiki_abraham_hyacinthe_anquetil_duperron",
-    "label": "Abraham Hyacinthe Anquetil-Duperron",
+    "id": "wiki_plato",
+    "label": "Plato",
     "type": "person",
-    "tradition": "zoroastrianism",
-    "era_start": 1731,
-    "era_end": 1805,
+    "tradition": "greek_philosophy",
+    "era_start": -423,
+    "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Abraham Hyacinthe Anquetil-Duperron (7 December 1731 – 17 January 1805) was the first professional French Indologist. He conceived the institutional framework for the new profession. He inspired the founding of the École française d'Extrême-Orient a century after his death. The library of the Institut français de Pondichéry is named after him.",
+    "summary": "Plato ( PLAY-toe; Greek: Πλάτων, Plátōn; born c. 428–423 BC, died 348/347 BC) was an ancient Greek philosopher of Classical Athens who is most commonly considered the foundational thinker of the Western philosophical tradition.",
     "key_texts": [],
     "tags": [
-      "zoroastrianism",
+      "greek_philosophy",
+      "person",
+      "consciousness",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Plato",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Plato",
+        "url": "https://en.wikipedia.org/wiki/Plato",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aristotle",
+    "label": "Aristotle",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -384,
+    "era_end": -322,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Aristotle (Attic Greek: Ἀριστοτέλης, romanized: Aristotélēs; 384–322 BC) was an ancient Greek philosopher and polymath. His writings cover a broad range of subjects spanning the natural sciences, philosophy, linguistics, economics, politics, psychology, and the arts.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "consciousness",
+      "liberation",
+      "ethics",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristotle",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aristotle",
+        "url": "https://en.wikipedia.org/wiki/Aristotle",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_zeno_of_citium",
+    "label": "Zeno of Citium",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -262,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Larnaca",
+    "summary": "Zeno of Citium (; Koine Greek: Ζήνων ὁ Κιτιεύς, Zēnōn ho Kitieus; c. 334 – c. 262 BC) was a Hellenistic philosopher from Citium (Κίτιον, Kition), Cyprus. He was the founder of the Stoic school of philosophy, which he taught in Athens from about 300 BC. Based on the moral ideas of the Cynics, Stoicism laid great emphasis on goodness and peace of mind gained from living a life of virtue in accordance with nature.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "consciousness",
+      "ethics",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zeno_of_Citium",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Zeno of Citium",
+        "url": "https://en.wikipedia.org/wiki/Zeno_of_Citium",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_chrysippus",
+    "label": "Chrysippus",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -206,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Chrysippus of Soli (; Ancient Greek: Χρύσιππος ὁ Σολεύς, Chrusippos ho Soleus; c. 279 – c. 206 BC) was a Greek Stoic philosopher. He was a native of Soli, Cilicia, but moved to Athens as a young man, where he became a pupil of the Stoic philosopher Cleanthes. When Cleanthes died, around 230 BC, Chrysippus became the third head of the Stoic school.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "ethics",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chrysippus",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Chrysippus",
+        "url": "https://en.wikipedia.org/wiki/Chrysippus",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_cleanthes",
+    "label": "Cleanthes",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -330,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Çanakkale Province",
+    "summary": "Cleanthes (; Ancient Greek: Κλεάνθης; c. 330 BC – c. 230 BC), of Assos, was a Greek Stoic philosopher and boxer who was the successor to Zeno of Citium as the second head (scholarch) of the Stoic school in Athens. Originally a boxer, he came to Athens where he took up philosophy, listening to Zeno's lectures. He supported himself by working as a water-carrier at night. After the death of Zeno, c.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
       "person",
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Hyacinthe_Anquetil-Duperron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cleanthes",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Abraham Hyacinthe Anquetil-Duperron",
-        "url": "https://en.wikipedia.org/wiki/Abraham_Hyacinthe_Anquetil-Duperron",
+        "title": "Wikipedia: Cleanthes",
+        "url": "https://en.wikipedia.org/wiki/Cleanthes",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_epictetus",
+    "label": "Epictetus",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": 55,
+    "era_end": 135,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Pamukkale",
+    "summary": "Epictetus ( EH-pick-TEE-təss; Ancient Greek: Ἐπίκτητος, Epíktētos; c. 50 – c. 135 AD) was a Greek Stoic philosopher. He was born into slavery at Hierapolis, Phrygia (present-day Pamukkale, in western Turkey) and lived in Rome until his banishment, after which he spent the rest of his life in Nicopolis in northwestern Greece.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Epictetus",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Epictetus",
+        "url": "https://en.wikipedia.org/wiki/Epictetus",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_seneca_the_younger",
+    "label": "Seneca the Younger",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -4,
+    "era_end": 65,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Córdoba, Spain",
+    "summary": "Lucius Annaeus Seneca the Younger ( SEN-ik-ə; c. 4 BC – AD 65), usually known mononymously as Seneca, was a Stoic philosopher of Ancient Rome, a statesman, a dramatist, and in one work, a satirist, from the post-Augustan age of Latin literature. Seneca was born in Colonia Patricia Corduba in Hispania, and was trained in rhetoric and philosophy in Rome.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "ethics",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Seneca the Younger",
+        "url": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_marcus_aurelius",
+    "label": "Marcus Aurelius",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": 121,
+    "era_end": 180,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Marcus Aurelius Antoninus ( or-EE-lee-əs; Latin: [ˈmaːrkʊs au̯ˈreːli.us antoːˈniːnʊs]; 26 April 121 – 17 March 180) was Roman emperor from 161 to 180 and a Stoic philosopher. He was a member of the Nerva–Antonine dynasty, the last of the rulers later known as the Five Good Emperors and the last emperor of the Pax Romana, an age of relative peace, calm, and stability for the Roman Empire lasting from 27 BC to 180 AD.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "consciousness",
+      "meditation",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Marcus Aurelius",
+        "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_heraclitus",
+    "label": "Heraclitus",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Heraclitus (; Ancient Greek: Ἡράκλειτος, romanized: Hērákleitos; fl. c. 500 BC) was an ancient Greek pre-Socratic philosopher from the city of Ephesus, which was then part of the Persian Empire. He exerts a wide influence on Western philosophy, both ancient and modern, through the works of such authors as Plato, Aristotle, the Stoics, Georg Wilhelm Friedrich Hegel, Friedrich Nietzsche, and Martin Heidegger.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "consciousness",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Heraclitus",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Heraclitus",
+        "url": "https://en.wikipedia.org/wiki/Heraclitus",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_parmenides",
+    "label": "Parmenides",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "the Province of Salerno",
+    "summary": "Parmenides of Elea (; Ancient Greek: Παρμενίδης ὁ Ἐλεάτης; fl. late sixth or early fifth century BC) was a pre-Socratic Greek philosopher from Elea in Magna Graecia (Southern Italy). Parmenides was born in the Greek colony of Elea to a wealthy and illustrious family.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "consciousness",
+      "scripture",
+      "metaphysics",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Parmenides",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Parmenides",
+        "url": "https://en.wikipedia.org/wiki/Parmenides",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2161,35 +4402,6 @@
     ]
   },
   {
-    "id": "wiki_cynicism_philosophy",
-    "label": "Cynicism (philosophy)",
-    "type": "person",
-    "tradition": "greek_philosophy",
-    "era_start": -600,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Cynicism (Ancient Greek: κυνισμός) is a school of thought in ancient Greek philosophy, originating in the Classical period and extending into the Hellenistic and Roman Imperial periods.",
-    "key_texts": [],
-    "tags": [
-      "greek_philosophy",
-      "person",
-      "ethics",
-      "scripture",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Cynicism_(philosophy)",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Cynicism (philosophy)",
-        "url": "https://en.wikipedia.org/wiki/Cynicism_(philosophy)",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
     "id": "wiki_damo_philosopher",
     "label": "Damo (philosopher)",
     "type": "person",
@@ -2218,8 +4430,40 @@
     ]
   },
   {
-    "id": "wiki_danish_philosophy",
-    "label": "Danish philosophy",
+    "id": "wiki_alfred_north_whitehead",
+    "label": "Alfred North Whitehead",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": 1861,
+    "era_end": 1947,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Ramsgate",
+    "summary": "Alfred North Whitehead (15 February 1861 – 30 December 1947) was an English mathematician and philosopher. He created the philosophical school known as process philosophy, which has been applied in a wide variety of disciplines, including ecology, theology, education, physics, biology, economics, and psychology. In his early career Whitehead wrote primarily on mathematics, logic, and physics.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "mysticism",
+      "ethics",
+      "scripture",
+      "theology",
+      "metaphysics",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_North_Whitehead",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alfred North Whitehead",
+        "url": "https://en.wikipedia.org/wiki/Alfred_North_Whitehead",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ammonius_hermiae",
+    "label": "Ammonius Hermiae",
     "type": "person",
     "tradition": "greek_philosophy",
     "era_start": -600,
@@ -2227,34 +4471,7 @@
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Danish philosophy has a long tradition as part of Western philosophy. Perhaps the most influential Danish philosopher was Søren Kierkegaard, the creator of Christian existentialism, which inspired the philosophical movement of Existentialism. Kierkegaard had a few Danish followers, including Harald Høffding, who later in his life moved on to join the movement of positivism.",
-    "key_texts": [],
-    "tags": [
-      "greek_philosophy",
-      "person",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Danish_philosophy",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Danish philosophy",
-        "url": "https://en.wikipedia.org/wiki/Danish_philosophy",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_academic_skepticism",
-    "label": "Academic skepticism",
-    "type": "person",
-    "tradition": "greek_philosophy",
-    "era_start": -266,
-    "era_end": null,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Unknown",
-    "summary": "Academic skepticism was the philosophy of the skeptical period of the Academy dating from around 266 BCE, when Arcesilaus became scholarch, until around 90 BCE, when Antiochus of Ascalon rejected skepticism, although individual philosophers, such as Favorinus and his teacher Plutarch, continued to defend skepticism after this date.",
+    "summary": "Ammonius Hermiae (; Ancient Greek: Ἀμμώνιος ὁ Ἑρμείου, romanized: Ammōnios ho Hermeiou, lit. 'Ammonius, son of Hermias'; c. 440 – between 517 and 526) was a Greek philosopher from Alexandria in the eastern Roman empire during Late Antiquity. A Neoplatonist, he was the son of the philosophers Hermias and Aedesia, the brother of Heliodorus of Alexandria and the grandson of Syrianus.",
     "key_texts": [],
     "tags": [
       "greek_philosophy",
@@ -2262,27 +4479,56 @@
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Academic_skepticism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ammonius_Hermiae",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Academic skepticism",
-        "url": "https://en.wikipedia.org/wiki/Academic_skepticism",
+        "title": "Wikipedia: Ammonius Hermiae",
+        "url": "https://en.wikipedia.org/wiki/Ammonius_Hermiae",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_aenesidemus",
-    "label": "Aenesidemus",
+    "id": "wiki_ammonius_saccas",
+    "label": "Ammonius Saccas",
     "type": "person",
     "tradition": "greek_philosophy",
-    "era_start": -50,
+    "era_start": 175,
+    "era_end": 242,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ammonius Saccas (; Ancient Greek: Ἀμμώνιος Σακκᾶς; 175 AD – 243 AD) was a Hellenistic Platonist self-taught philosopher from Alexandria, generally regarded as the precursor of Neoplatonism or one of its founders. He is mainly known as the teacher of Plotinus, whom he taught from 232 to 243.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "person",
+      "consciousness",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ammonius_Saccas",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ammonius Saccas",
+        "url": "https://en.wikipedia.org/wiki/Ammonius_Saccas",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_apollonius_cronus",
+    "label": "Apollonius Cronus",
+    "type": "person",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
     "era_end": null,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Aenesidemus (Ancient Greek: Αἰνησίδημος or Αἰνεσίδημος) was a 1st-century BC Greek Pyrrhonist philosopher from Knossos who revived the doctrines of Pyrrho and introduced ten skeptical \"modes\" (tropai) for the suspension of judgment. He broke with the Academic Skepticism that was predominant in his time, synthesizing the teachings of Heraclitus and Timon of Phlius with philosophical skepticism.",
+    "summary": "Apollonius Cronus (Greek: Ἀπολλώνιος Κρόνος; fl. 4th century BCE) from Cyrene was a philosopher of the Megarian school. Very little is known about him. He was the pupil of Eubulides, and was the teacher of Diodorus Cronus, as Strabo relates: Apollonius Cronus, was from Cyrene, ...",
     "key_texts": [],
     "tags": [
       "greek_philosophy",
@@ -2290,43 +4536,97 @@
       "scripture",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aenesidemus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Apollonius_Cronus",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Aenesidemus",
-        "url": "https://en.wikipedia.org/wiki/Aenesidemus",
+        "title": "Wikipedia: Apollonius Cronus",
+        "url": "https://en.wikipedia.org/wiki/Apollonius_Cronus",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
   },
   {
-    "id": "wiki_alchemy",
-    "label": "Alchemy",
+    "id": "wiki_bertrand_russell",
+    "label": "Bertrand Russell",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1872,
+    "era_end": 1970,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Monmouthshire",
+    "summary": "Bertrand Arthur William Russell, 3rd Earl Russell (18 May 1872 – 2 February 1970), was an English philosopher, logician, mathematician, and public intellectual. He influenced mathematics, logic, set theory, and various areas of analytic philosophy. He was one of the early 20th century's prominent logicians and a founder of analytic philosophy, along with his predecessor Gottlob Frege, his friend and colleague G. E.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bertrand Russell",
+        "url": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_black_elk",
+    "label": "Black Elk",
     "type": "person",
     "tradition": "indigenous",
-    "era_start": 1150,
-    "era_end": null,
+    "era_start": 1863,
+    "era_end": 1950,
     "origin_lat": null,
     "origin_lng": null,
     "origin_place": "Unknown",
-    "summary": "Alchemy (from the Arabic word al-kīmīā, الكیمیاء) is an ancient branch of natural philosophy, a philosophical and protoscientific tradition that was historically practised in China, India, the Muslim world, and Europe. In its Western form, alchemy is first attested in a number of pseudepigraphical texts written in Greco-Roman Egypt during the first few centuries AD.",
+    "summary": "Heȟáka Sápa, commonly known as Black Elk (baptized Nicholas; December 1, 1863 – August 19, 1950), was a wičháša wakȟáŋ (\"medicine man, holy man\") and heyoka of the Oglala Lakota people. He was a second cousin of the war leader Crazy Horse and fought with him in the Battle of Little Bighorn. He survived the Wounded Knee Massacre in 1890. He toured and performed in Europe as part of Buffalo Bill's Wild West.",
     "key_texts": [],
     "tags": [
       "indigenous",
       "person",
-      "mysticism",
-      "ritual",
-      "scripture",
       "theology",
       "lineage"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Alchemy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Elk",
     "image": null,
     "sources": [
       {
-        "title": "Wikipedia: Alchemy",
-        "url": "https://en.wikipedia.org/wiki/Alchemy",
+        "title": "Wikipedia: Black Elk",
+        "url": "https://en.wikipedia.org/wiki/Black_Elk",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_handsome_lake",
+    "label": "Handsome Lake",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1735,
+    "era_end": 1815,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Handsome Lake (Ganyodaiyo') (1735 – 10 August 1815) was a Seneca religious leader of the Iroquois people. He was a half-brother to Cornplanter (Gayentwahgeh), a Seneca war chief. Handsome Lake, a leader and prophet, played a major role in reviving traditional religion among the Haudenosaunee (People of the Longhouse), or Six Nations Iroquois Confederacy.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "consciousness",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Handsome_Lake",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Handsome Lake",
+        "url": "https://en.wikipedia.org/wiki/Handsome_Lake",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2417,6 +4717,238 @@
     ]
   },
   {
+    "id": "wiki_anthony_kenny",
+    "label": "Anthony Kenny",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1931,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Sir Anthony John Patrick Kenny (born 16 March 1931) is a British philosopher whose interests lie in the philosophy of mind, ancient and scholastic philosophy, the philosophy of religion, and the philosophy of Wittgenstein of whose literary estate he is an executor. With Peter Geach, he has made a significant contribution to analytical Thomism, a movement whose aim is to present the thought of St.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "consciousness",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Kenny",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anthony Kenny",
+        "url": "https://en.wikipedia.org/wiki/Anthony_Kenny",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_antoine_augustin_calmet",
+    "label": "Antoine Augustin Calmet",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1672,
+    "era_end": 1757,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Meuse (department)",
+    "summary": "Antoine Augustin Calmet (French: [ɑ̃twan oɡystɛ̃ kalmɛ]; 26 February 1672 – 25 October 1757) was a French Benedictine abbot, born in Ménil-la-Horgne, then in the Duchy of Bar, part of the Holy Roman Empire (now the French department of Meuse, located in the region of Lorraine). Calmet was a monk as well as a learned man, and one of the most distinguished members of the Congregation of St. Vanne.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Augustin_Calmet",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Antoine Augustin Calmet",
+        "url": "https://en.wikipedia.org/wiki/Antoine_Augustin_Calmet",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_antony_flew",
+    "label": "Antony Flew",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1923,
+    "era_end": 2010,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Antony Garrard Newton Flew (; 11 February 1923 – 8 April 2010) was an English philosopher. Belonging to the analytic and evidentialist schools of thought, Flew worked on the philosophy of religion. During the course of his career he taught philosophy at the universities of Oxford, Aberdeen, Keele, and Reading in the United Kingdom, and at York University in Toronto, Canada.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "consciousness",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antony_Flew",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Antony Flew",
+        "url": "https://en.wikipedia.org/wiki/Antony_Flew",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_baruch_spinoza",
+    "label": "Baruch Spinoza",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1632,
+    "era_end": 1677,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Baruch (de) Spinoza (24 November 1632 – 21 February 1677), also known under his Latinized pen name Benedictus de Spinoza, was a philosopher of Portuguese-Jewish origin, who was born and lived in the Dutch Republic.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "consciousness",
+      "liberation",
+      "ethics",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Baruch Spinoza",
+        "url": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_blaise_pascal",
+    "label": "Blaise Pascal",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1623,
+    "era_end": 1662,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Blaise Pascal (19 June 1623 – 19 August 1662) was a French mathematician, physicist, inventor, philosopher, and Catholic writer. Pascal was a child prodigy who was educated by his father Étienne Pascal, a tax collector in Rouen. His earliest mathematical work was on projective geometry; he wrote a significant treatise on the subject of conic sections at the age of 16.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "mysticism",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Blaise Pascal",
+        "url": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_charles_hartshorne",
+    "label": "Charles Hartshorne",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1897,
+    "era_end": 2000,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Kittanning, Pennsylvania",
+    "summary": "Charles Hartshorne (; June 5, 1897 – October 9, 2000) was an American philosopher who concentrated primarily on the philosophy of religion and metaphysics, but also contributed to ornithology. He developed the neoclassical idea of God and produced a modal proof of the existence of God that was a development of Anselm of Canterbury's ontological argument, which influenced Gödel's proof.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "consciousness",
+      "mysticism",
+      "theology",
+      "metaphysics",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Hartshorne",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Charles Hartshorne",
+        "url": "https://en.wikipedia.org/wiki/Charles_Hartshorne",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_clifford_geertz",
+    "label": "Clifford Geertz",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1926,
+    "era_end": 2006,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Clifford James Geertz ( ; August 23, 1926 – October 30, 2006) was an American anthropologist who is remembered mostly for his strong support for and influence on the practice of symbolic anthropology and who was considered \"for three decades ... the single most influential cultural anthropologist in the United States.\" He served until his death as professor emeritus at the Institute for Advanced Study, Princeton.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Clifford_Geertz",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Clifford Geertz",
+        "url": "https://en.wikipedia.org/wiki/Clifford_Geertz",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_anthony_f_c_wallace",
+    "label": "Anthony F. C. Wallace",
+    "type": "person",
+    "tradition": "indigenous",
+    "era_start": 1923,
+    "era_end": 2015,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Anthony Francis Clarke Wallace (April 15, 1923 – October 5, 2015) was a Canadian-American anthropologist who specialized in Native American cultures, especially the Haudenosaunee. His research expressed an interest in the intersection of cultural anthropology and psychology. He was famous for the theory of revitalization movements.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_F._C._Wallace",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anthony F. C. Wallace",
+        "url": "https://en.wikipedia.org/wiki/Anthony_F._C._Wallace",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
     "id": "wiki_agostino_steuco",
     "label": "Agostino Steuco",
     "type": "person",
@@ -2440,36 +4972,6 @@
       {
         "title": "Wikipedia: Agostino Steuco",
         "url": "https://en.wikipedia.org/wiki/Agostino_Steuco",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
-    "id": "wiki_al_hallaj",
-    "label": "Al-Hallaj",
-    "type": "person",
-    "tradition": "synthesis",
-    "era_start": 1800,
-    "era_end": 922,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Fars province",
-    "summary": "Mansour al-Hallaj (Arabic: ابو المغيث الحسين بن منصور الحلاج, romanized: Abū 'l-Muġīth al-Ḥusayn ibn Manṣūr al-Ḥallāj) or Mansour Hallaj (Persian: منصور حلاج, romanized: Mansūr-e Hallāj) (c. 858 – 26 March 922) (Hijri c. 244 AH – 309 AH) was a mystic, poet, and teacher of Sufism.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "person",
-      "mysticism",
-      "scripture",
-      "theology",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Al-Hallaj",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Al-Hallaj",
-        "url": "https://en.wikipedia.org/wiki/Al-Hallaj",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]
@@ -2592,35 +5094,6 @@
     ]
   },
   {
-    "id": "wiki_averroes",
-    "label": "Averroes",
-    "type": "person",
-    "tradition": "synthesis",
-    "era_start": 1126,
-    "era_end": 1198,
-    "origin_lat": null,
-    "origin_lng": null,
-    "origin_place": "Córdoba, Spain",
-    "summary": "Ibn Rushd (14 April 1126 – 11 December 1198), Latinized as Averroes, was an Andalusian polymath and jurist who was proficient in a variety of intellectual fields, including philosophy, theology, medicine, astronomy, physics, psychology, mathematics, neurology, Islamic jurisprudence and law, and linguistics.",
-    "key_texts": [],
-    "tags": [
-      "synthesis",
-      "person",
-      "scripture",
-      "theology",
-      "lineage"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Averroes",
-    "image": null,
-    "sources": [
-      {
-        "title": "Wikipedia: Averroes",
-        "url": "https://en.wikipedia.org/wiki/Averroes",
-        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
-      }
-    ]
-  },
-  {
     "id": "wiki_benjamin_creme",
     "label": "Benjamin Creme",
     "type": "person",
@@ -2646,6 +5119,511 @@
       {
         "title": "Wikipedia: Benjamin Creme",
         "url": "https://en.wikipedia.org/wiki/Benjamin_Creme",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_david_hume",
+    "label": "David Hume",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1711,
+    "era_end": 1776,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Edinburgh",
+    "summary": "David Hume (; born David Home; 7 May 1711 – 25 August 1776) was a Scottish philosopher, historian, economist and essayist who is known for his highly influential system of empiricism, philosophical scepticism and metaphysical naturalism. Beginning with A Treatise of Human Nature (1739–40), Hume strove to create a naturalistic science of man that examined the psychological basis of human nature.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "consciousness",
+      "liberation",
+      "ethics",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Hume",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: David Hume",
+        "url": "https://en.wikipedia.org/wiki/David_Hume",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_edith_stein",
+    "label": "Edith Stein",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1891,
+    "era_end": 1942,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Echt-Susteren",
+    "summary": "Edith Stein (German: [ʃtaɪn]; in religion Teresa Benedicta of the Cross; 12 October 1891 – 9 August 1942) was a German philosopher who converted to Catholicism and became a Discalced Carmelite nun. She was murdered in the gas chamber at the Auschwitz II-Birkenau concentration camp on 9 August 1942, and is canonized as a martyr and saint of the Catholic Church; she is also one of six patron saints of Europe.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Stein",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Edith Stein",
+        "url": "https://en.wikipedia.org/wiki/Edith_Stein",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_emanuel_swedenborg",
+    "label": "Emanuel Swedenborg",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1688,
+    "era_end": 1772,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Emanuel Swedenborg (, Swedish: [ɛˈmɑ̂ːnʉɛl ˈsvêːdɛnˌbɔrj] ; born Emanuel Swedberg; 29 January 1688 – 29 March 1772) was a Swedish polymath; a scientist, engineer, astronomer, anatomist, Christian theologian, philosopher, and mystic. He became best known for his book on the afterlife, Heaven and Hell (1758). Swedenborg had a prolific career as an inventor and scientist.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "consciousness",
+      "mysticism",
+      "liberation",
+      "ritual",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Emanuel Swedenborg",
+        "url": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_francesco_giorgi",
+    "label": "Francesco Giorgi",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1466,
+    "era_end": 1540,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Francesco Giorgi Veneto (1466–1540) was an Italian Franciscan friar, and author of the work De harmonia mundi totius from 1525. In it Giorgio proposed an idea of the Universe created according to the universal system of proportion, which may be studied as laws of mathematics used by architects. The Cambridge History of Renaissance Philosophy describes him as 'idiosyncratic'.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Giorgi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Francesco Giorgi",
+        "url": "https://en.wikipedia.org/wiki/Francesco_Giorgi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_friedrich_schleiermacher",
+    "label": "Friedrich Schleiermacher",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1768,
+    "era_end": 1834,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "the Province of Silesia",
+    "summary": "Friedrich Daniel Ernst Schleiermacher (; German: [ˈfʁiːdʁɪç ˈʃlaɪɐˌmaxɐ]; 21 November 1768 – 12 February 1834) was a German Reformed theologian, pastor, philosopher, and biblical scholar known for his attempt to reconcile the criticisms of the Enlightenment with traditional Protestant Christianity.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "consciousness",
+      "liberation",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schleiermacher",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Friedrich Schleiermacher",
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Schleiermacher",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_frithjof_schuon",
+    "label": "Frithjof Schuon",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1907,
+    "era_end": 1998,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Basel-Stadt",
+    "summary": "Frithjof Schuon ( SHOO-on; German: [ˈfʁɪtjɔf ˈʃuːɔn]; 18 June 1907 – 5 May 1998) was a Swiss philosopher and spiritual leader, belonging to the Traditionalist School of Perennialism. He was the author of more than twenty works in French on metaphysics, spirituality, religion, anthropology, and art. He was also a painter and a poet.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "ritual",
+      "ethics",
+      "theology",
+      "metaphysics",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Frithjof_Schuon",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Frithjof Schuon",
+        "url": "https://en.wikipedia.org/wiki/Frithjof_Schuon",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_georg_wilhelm_friedrich_hegel",
+    "label": "Georg Wilhelm Friedrich Hegel",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1770,
+    "era_end": 1831,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "the Duchy of Württemberg",
+    "summary": "Georg Wilhelm Friedrich Hegel (27 August 1770 – 14 November 1831) was a German philosopher and a major figure in the tradition of German idealism. His influence on Western philosophy extends across a wide range of topics—from metaphysical issues in epistemology and ontology, to political philosophy, to philosophy of art and philosophy of religion. Hegel was born in Stuttgart.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "consciousness",
+      "mysticism",
+      "liberation",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Georg Wilhelm Friedrich Hegel",
+        "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_gerald_heard",
+    "label": "Gerald Heard",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1889,
+    "era_end": 1971,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Henry FitzGerald Heard (6 October 1889 – 14 August 1971), commonly called Gerald Heard, was an English-born American historian, science writer and broadcaster, public lecturer, educator, and philosopher. He wrote many articles and over 35 books.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "consciousness",
+      "mysticism",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Heard",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Gerald Heard",
+        "url": "https://en.wikipedia.org/wiki/Gerald_Heard",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_gottfried_wilhelm_leibniz",
+    "label": "Gottfried Wilhelm Leibniz",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1646,
+    "era_end": 1716,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Gottfried Wilhelm Leibniz (or Leibnitz; 1 July 1646 [O.S. 21 June] – 14 November 1716) was a German polymath active as a mathematician, philosopher, scientist, and diplomat who is credited, alongside Isaac Newton, with the creation of calculus in addition to many other branches of mathematics, such as binary arithmetic and statistics.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "consciousness",
+      "liberation",
+      "ethics",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Gottfried Wilhelm Leibniz",
+        "url": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_helena_blavatsky",
+    "label": "Helena Blavatsky",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1831,
+    "era_end": 1891,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Yekaterinoslav Governorate",
+    "summary": "Helena Petrovna Blavatsky (née Hahn von Rottenstern; 12 August [O.S. 31 July] 1831 – 8 May 1891), often known as Madame Blavatsky, was a Ukrainian and American mystic and writer who co-founded the Theosophical Society in 1875. She gained an international following as the primary founder of Theosophy as a belief system.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Helena_Blavatsky",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Helena Blavatsky",
+        "url": "https://en.wikipedia.org/wiki/Helena_Blavatsky",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_helena_roerich",
+    "label": "Helena Roerich",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1879,
+    "era_end": 1954,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Sankt-Peterburgsky Uyezd",
+    "summary": "Helena Ivanovna Roerich (Russian: Елена Ивановна Рерих; née Shaposhnikova (Шапошникова); 12 February [O.S. 31 January] 1879 – 5 October 1955) was a Russian theosophist, writer, philosopher, and public figure. She and her husband Nicholas Roerich were the principal articulators of the Agni Yoga neo-theosophical teachings, which they claimed had been transmitted to them from the ascended master Morya.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "mysticism",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Helena_Roerich",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Helena Roerich",
+        "url": "https://en.wikipedia.org/wiki/Helena_Roerich",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_henry_corbin",
+    "label": "Henry Corbin",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1903,
+    "era_end": 1978,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Henry Corbin (14 April 1903 – 7 October 1978) was a French philosopher, theologian, and Iranologist, professor of Islamic studies at the École pratique des hautes études. He was influential in extending the modern study of traditional Islamic philosophy from early falsafa to later and \"mystical\" figures such as Suhrawardi, Ibn Arabi, and Mulla Sadra Shirazi.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Corbin",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Henry Corbin",
+        "url": "https://en.wikipedia.org/wiki/Henry_Corbin",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_huston_smith",
+    "label": "Huston Smith",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1919,
+    "era_end": 2016,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Huston Cummings Smith (May 31, 1919 – December 30, 2016) was an American-Chinese scholar of religious studies, He authored at least thirteen books on world's religions and philosophy, and his book about comparative religion, The World's Religions (originally titled The Religions of Man) sold over three million copies as of 2017.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Huston_Smith",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Huston Smith",
+        "url": "https://en.wikipedia.org/wiki/Huston_Smith",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_inayat_khan",
+    "label": "Inayat Khan",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1882,
+    "era_end": 1927,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Vadodara",
+    "summary": "Inayat Khan Rehmat Khan (Urdu: عنایت خان رحمت خان; 5 July 1882 – 5 February 1927), was an Indian professor of musicology, singer, exponent of the sarasvati vina, poet, philosopher, writer, and pioneer of the transmission of Sufism to the West. At the urging of his students, and on the basis of his ancestral Sufi tradition and four-fold training and authorisation at the hands of Sayyid Abu Hashim Madani (d.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "mysticism",
+      "scripture",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Inayat_Khan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Inayat Khan",
+        "url": "https://en.wikipedia.org/wiki/Inayat_Khan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_jean_borella",
+    "label": "Jean Borella",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1930,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Jean Borella (born in Nancy, France, May 21, 1930) is a Christian philosopher and theologian. Borella's works are inspired by Ancient and Christian Neoplatonism, but also by the Traditionalist School of René Guénon and Frithjof Schuon.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Borella",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Jean Borella",
+        "url": "https://en.wikipedia.org/wiki/Jean_Borella",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_joseph_campbell",
+    "label": "Joseph Campbell",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1904,
+    "era_end": 1987,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Greenwich Village",
+    "summary": "Joseph John Campbell (March 26, 1904 – October 30, 1987) was an American writer and the husband of Jean Erdman. He was a professor of literature at Sarah Lawrence College who worked in comparative mythology and comparative religion. His work covers many aspects of the human condition.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Campbell",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Joseph Campbell",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Campbell",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_julius_evola",
+    "label": "Julius Evola",
+    "type": "person",
+    "tradition": "synthesis",
+    "era_start": 1898,
+    "era_end": 1974,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Giulio Cesare Andrea \"Julius\" Evola (Italian: [ˈɛːvola]; 19 May 1898 – 11 June 1974) was an Italian far-right philosopher and writer. Evola regarded his values as traditionalist, aristocratic, martial and imperialist. An esoteric thinker in Fascist Italy, he also had ties to Nazi Germany. In the post-war era, he was an ideological mentor of the Italian neo-fascist and militant right.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "person",
+      "mysticism",
+      "scripture",
+      "theology",
+      "lineage"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Evola",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Julius Evola",
+        "url": "https://en.wikipedia.org/wiki/Julius_Evola",
         "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
       }
     ]

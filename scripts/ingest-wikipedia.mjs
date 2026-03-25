@@ -40,59 +40,141 @@ const SEED_PAGES = {
     "Hindu philosophy",
     "Vedanta",
     "Yoga",
-    "Bhakti"
+    "Bhakti",
+    "Ramanuja",
+    "Madhvacharya",
+    "Patanjali",
+    "Abhinavagupta",
+    "Chaitanya Mahaprabhu",
+    "Ramananda",
+    "Nimbarka",
+    "Vishishtadvaita"
   ],
   buddhism: [
     "Buddhism",
     "Buddhist philosophy",
     "Mahayana",
     "Theravada",
-    "Vajrayana"
+    "Vajrayana",
+    "Dogen",
+    "Huineng",
+    "Atisha",
+    "Tsongkhapa",
+    "Shantideva",
+    "Padmasambhava",
+    "Madhyamaka"
   ],
   islam: [
     "Islam",
     "Sufism",
     "Islamic philosophy",
-    "Islamic theology"
+    "Islamic theology",
+    "Al-Farabi",
+    "Avicenna",
+    "Averroes",
+    "Mulla Sadra",
+    "Suhrawardi",
+    "Ibn Ata Allah",
+    "Ibn Arabi"
   ],
   christianity: [
     "Christianity",
     "Christian mysticism",
     "Christian theology",
-    "Desert Fathers"
+    "Desert Fathers",
+    "Augustine of Hippo",
+    "Thomas Aquinas",
+    "John of the Cross",
+    "Francis of Assisi",
+    "Origen",
+    "Pseudo-Dionysius the Areopagite",
+    "Gregory of Nyssa",
+    "Maximus the Confessor"
   ],
   judaism: [
     "Judaism",
     "Kabbalah",
     "Jewish mysticism",
-    "Hasidic Judaism"
+    "Hasidic Judaism",
+    "Isaac Luria",
+    "Moses de Leon",
+    "Nachman of Breslov",
+    "Judah Halevi",
+    "Saadia Gaon",
+    "Baal Shem Tov"
   ],
   taoism: [
     "Taoism",
     "Chinese philosophy",
     "Tao Te Ching",
-    "Zhuangzi (book)"
+    "Zhuangzi (book)",
+    "Liezi",
+    "Wang Bi",
+    "Ge Hong",
+    "Neidan",
+    "Taoist meditation"
   ],
-  sikhism: ["Sikhism", "Guru Granth Sahib"],
-  jainism: ["Jainism", "Jain philosophy"],
-  zoroastrianism: ["Zoroastrianism", "Avesta"],
+  sikhism: [
+    "Sikhism",
+    "Guru Granth Sahib",
+    "Guru Angad",
+    "Guru Amar Das",
+    "Guru Ram Das",
+    "Guru Arjan",
+    "Guru Gobind Singh",
+    "Bhai Gurdas"
+  ],
+  jainism: [
+    "Jainism",
+    "Jain philosophy",
+    "Acharya Kundakunda",
+    "Hemachandra",
+    "Umaswati"
+  ],
+  zoroastrianism: [
+    "Zoroastrianism",
+    "Avesta",
+    "Zarathustra",
+    "Magi",
+    "Frashokereti"
+  ],
   greek_philosophy: [
     "Ancient Greek philosophy",
     "Stoicism",
     "Neoplatonism",
-    "Pythagoreanism"
+    "Pythagoreanism",
+    "Plato",
+    "Aristotle",
+    "Zeno of Citium",
+    "Chrysippus",
+    "Cleanthes",
+    "Epictetus",
+    "Seneca the Younger",
+    "Marcus Aurelius",
+    "Cynicism (philosophy)",
+    "Epicureanism",
+    "Skepticism",
+    "Heraclitus",
+    "Parmenides"
   ],
   indigenous: [
     "Shamanism",
     "Animism",
     "Indigenous religion",
-    "Mythology"
+    "Mythology",
+    "Black Elk",
+    "Handsome Lake",
+    "Deganawida",
+    "Andean cosmovision"
   ],
   synthesis: [
     "Perennial philosophy",
     "Comparative religion",
     "Mysticism",
-    "Esotericism"
+    "Esotericism",
+    "Integral theory",
+    "Transpersonal psychology",
+    "World philosophy"
   ]
 };
 
@@ -184,6 +266,101 @@ const TAG_KEYWORDS = {
   theology: ["theology", "theological", "divine", "god"],
   metaphysics: ["metaphysics", "ontology", "cosmology"]
 };
+
+const PERSON_CATEGORY_TERMS =
+  /\b(philosophers|theologians|mystics|saints|gurus|monks|poets|writers|scholars|rabbis|imams|biographies|biography)\b/;
+
+const PERSON_ROLE_TERMS =
+  /\b(philosopher|theologian|mystic|saint|guru|monk|poet|writer|scholar|teacher|rabbi|imam|cleric|sage)\b/;
+
+const PERSON_EXCLUSION_TERMS =
+  /\b(philosophy|religion|movement|school|tradition|book|text|scripture|doctrine|concept|theory|order|organization|temple|church|festival)\b/;
+
+const TEXT_TERMS =
+  /\b(book|text|scripture|sutra|sutras|gita|quran|qur'an|bible|tanakh|upanishad|veda|canon|hymn|hadith|gospel|tractate|teachings)\b/;
+
+const CONCEPT_TERMS =
+  /\b(concept|belief|doctrine|principle|practice|ethic|ontology|metaphysics|epistemology|cosmology|meditation|ritual)\b/;
+
+const SCHOOL_TERMS =
+  /\b(philosophy|school|tradition|movement|order|lineage|sect|ism|monastic|mysticism)\b/;
+
+const TITLE_TYPE_OVERRIDES = new Map(
+  Object.entries({
+    "marcus aurelius": "person",
+    "seneca the younger": "person",
+    "epictetus": "person",
+    "zeno of citium": "person",
+    "chrysippus": "person",
+    "cleanthes": "person",
+    "plato": "person",
+    "aristotle": "person",
+    "socrates": "person",
+    "ramanuja": "person",
+    "patanjali": "person",
+    "dogen": "person",
+    "tsongkhapa": "person",
+    "augustine of hippo": "person",
+    "thomas aquinas": "person",
+    "al-farabi": "person",
+    "avicenna": "person",
+    "averroes": "person",
+    "isaac luria": "person",
+    "nachman of breslov": "person",
+    "guru gobind singh": "person",
+    "stoicism": "school",
+    "epicureanism": "school",
+    "cynicism (philosophy)": "school",
+    "skepticism": "school",
+    "neoplatonism": "school",
+    "madhyamaka": "school",
+    "vishishtadvaita": "school"
+  })
+);
+
+const TITLE_TRADITION_OVERRIDES = new Map(
+  Object.entries({
+    "marcus aurelius": "greek_philosophy",
+    "seneca the younger": "greek_philosophy",
+    "epictetus": "greek_philosophy",
+    "zeno of citium": "greek_philosophy",
+    "chrysippus": "greek_philosophy",
+    "cleanthes": "greek_philosophy",
+    "plato": "greek_philosophy",
+    "aristotle": "greek_philosophy",
+    "heraclitus": "greek_philosophy",
+    "parmenides": "greek_philosophy",
+    "augustine of hippo": "christianity",
+    "thomas aquinas": "christianity",
+    "john of the cross": "christianity",
+    "francis of assisi": "christianity",
+    "al-farabi": "islam",
+    "avicenna": "islam",
+    "averroes": "islam",
+    "mulla sadra": "islam",
+    "ramanuja": "hinduism",
+    "madhvacharya": "hinduism",
+    "patanjali": "hinduism",
+    "abhinavagupta": "hinduism",
+    "dogen": "buddhism",
+    "atisha": "buddhism",
+    "tsongkhapa": "buddhism",
+    "shantideva": "buddhism",
+    "isaac luria": "judaism",
+    "nachman of breslov": "judaism",
+    "moses de leon": "judaism",
+    "guru gobind singh": "sikhism",
+    "guru arjan": "sikhism",
+    "guru amar das": "sikhism",
+    "guru angad": "sikhism",
+    "zarathustra": "zoroastrianism",
+    "stoicism": "greek_philosophy",
+    "epicureanism": "greek_philosophy",
+    "cynicism (philosophy)": "greek_philosophy",
+    "skepticism": "greek_philosophy",
+    "neoplatonism": "greek_philosophy"
+  })
+);
 
 function parseArgs(argv) {
   const options = { ...DEFAULTS };
@@ -325,7 +502,8 @@ function shouldSkipLinkTitle(title) {
 }
 
 function linkPriority(title) {
-  const text = normalizeTitle(title).toLowerCase();
+  const normalizedTitle = normalizeTitle(title);
+  const text = normalizedTitle.toLowerCase();
   let score = 0;
 
   if (shouldSkipLinkTitle(text)) {
@@ -346,6 +524,21 @@ function linkPriority(title) {
     score += 1;
   }
 
+  const overrideType = TITLE_TYPE_OVERRIDES.get(text);
+  if (overrideType === "person") {
+    score += 6;
+  } else if (overrideType === "school") {
+    score += 4;
+  }
+
+  if (/\((philosopher|saint|mystic|poet|scholar|theologian|rabbi|imam|guru|teacher|monk)\)/i.test(normalizedTitle)) {
+    score += 4;
+  }
+
+  if (/^[A-Z][a-z]+(?:\s[A-Z][a-z.'-]+){1,3}$/.test(normalizedTitle)) {
+    score += 2;
+  }
+
   if (REJECT_TERMS.some((term) => text.includes(term))) {
     score -= 4;
   }
@@ -364,63 +557,101 @@ function textHasAny(text, terms) {
   return terms.some((term) => haystack.includes(normalizeSearchText(term)));
 }
 
-function hasPersonSignals(categoriesText, text) {
-  const roleSignal =
+function hasBirthDeathCategories(categoriesText) {
+  return (
     /\b\d{1,4}\s*(bc|bce|ce|ad)?\s+births\b/.test(categoriesText) ||
-    /\b\d{1,4}\s*(bc|bce|ce|ad)?\s+deaths\b/.test(categoriesText) ||
-    /\b(philosophers|theologians|mystics|saints|gurus|monks|poets|writers|scholars)\b/.test(
-      categoriesText
-    ) ||
-    /\b(philosopher|theologian|mystic|saint|guru|monk|poet|writer|scholar|teacher)\b/.test(text);
+    /\b\d{1,4}\s*(bc|bce|ce|ad)?\s+deaths\b/.test(categoriesText)
+  );
+}
 
-  if (roleSignal) {
+function hasPersonSignals(record) {
+  const title = normalizeTitle(record.title);
+  const categoriesText = (record.categories || []).join(" ").toLowerCase();
+  const text = `${title} ${record.extract || ""}`.toLowerCase();
+  const firstSentence = String(record.extract || "").split(".")[0].toLowerCase();
+
+  const hasBirthDeath = hasBirthDeathCategories(categoriesText);
+  const hasPersonCategory = PERSON_CATEGORY_TERMS.test(categoriesText);
+  const hasPersonRole = PERSON_ROLE_TERMS.test(text);
+  const titleRoleHint = /\((philosopher|saint|mystic|poet|scholar|theologian|rabbi|imam|guru|teacher|monk)\)/i.test(
+    title
+  );
+
+  const sentenceLooksLikeBiography =
+    /\b(was|is)\b/.test(firstSentence) &&
+    PERSON_ROLE_TERMS.test(firstSentence) &&
+    !PERSON_EXCLUSION_TERMS.test(firstSentence);
+
+  if (hasBirthDeath) {
     return true;
   }
 
-  const hasBirthDeath =
-    /\b\d{1,4}\s*(bc|bce|ce|ad)?\s+births\b/.test(categoriesText) ||
-    /\b\d{1,4}\s*(bc|bce|ce|ad)?\s+deaths\b/.test(categoriesText);
+  if (PERSON_EXCLUSION_TERMS.test(firstSentence) && !hasPersonCategory && !titleRoleHint) {
+    return false;
+  }
 
-  return hasBirthDeath && textHasAny(text, RELEVANT_TERMS);
+  if (titleRoleHint && hasPersonRole) {
+    return true;
+  }
+
+  if (hasPersonCategory && (hasPersonRole || sentenceLooksLikeBiography)) {
+    return true;
+  }
+
+  return false;
 }
 
-function hasTextSignals(categoriesText, text) {
-  return (
-    /\b(books|texts|scriptures|sutras|hymns|poems|writings|literature|canons)\b/.test(categoriesText) ||
-    /\b(book|scripture|sutra|gita|quran|qur'an|bible|tanakh|upanishad|veda|canon|poem|hadith)\b/.test(
-      text
-    )
-  );
-}
-
-function hasConceptSignals(categoriesText, text) {
-  return (
-    /\b(concepts|doctrines|beliefs|rituals|practices|philosophical terms|metaphysics|ethics)\b/.test(
-      categoriesText
-    ) ||
-    /\b(concept|belief|doctrine|principle|practice|term|ethic|ontology|metaphysics)\b/.test(
-      text
-    )
-  );
-}
-
-function guessNodeType(record) {
+function hasTextSignals(record) {
   const categoriesText = (record.categories || []).join(" ").toLowerCase();
   const text = `${record.title} ${record.extract || ""}`.toLowerCase();
 
-  if (hasPersonSignals(categoriesText, text)) {
+  return (
+    /\b(books|texts|scriptures|sutras|hymns|poems|writings|literature|canons|gospels|hadiths|tractates)\b/.test(
+      categoriesText
+    ) || TEXT_TERMS.test(text)
+  );
+}
+
+function hasConceptSignals(record) {
+  const categoriesText = (record.categories || []).join(" ").toLowerCase();
+  const text = `${record.title} ${record.extract || ""}`.toLowerCase();
+
+  return (
+    /\b(concepts|doctrines|beliefs|rituals|practices|philosophical terms|metaphysics|ethics|ontology)\b/.test(
+      categoriesText
+    ) || CONCEPT_TERMS.test(text)
+  );
+}
+
+function hasSchoolSignals(record) {
+  const categoriesText = (record.categories || []).join(" ").toLowerCase();
+  const text = `${record.title} ${record.extract || ""}`.toLowerCase();
+  return SCHOOL_TERMS.test(categoriesText) || SCHOOL_TERMS.test(text);
+}
+
+function guessNodeType(record) {
+  const overrideType = TITLE_TYPE_OVERRIDES.get(normalizeLookupKey(record.title));
+  if (overrideType) {
+    return overrideType;
+  }
+
+  if (hasPersonSignals(record)) {
     return "person";
   }
 
-  if (hasTextSignals(categoriesText, text)) {
+  if (hasTextSignals(record)) {
     return "text";
   }
 
-  if (hasConceptSignals(categoriesText, text)) {
+  if (hasConceptSignals(record)) {
     return "concept";
   }
 
-  return "school";
+  if (hasSchoolSignals(record)) {
+    return "school";
+  }
+
+  return "concept";
 }
 
 function isRelevantRecord(record, isSeed = false) {
@@ -436,10 +667,7 @@ function isRelevantRecord(record, isSeed = false) {
     return false;
   }
 
-  const hasStrongSignal =
-    hasPersonSignals(categoriesText, text) ||
-    hasTextSignals(categoriesText, text) ||
-    hasConceptSignals(categoriesText, text);
+  const hasStrongSignal = hasPersonSignals(record) || hasTextSignals(record) || hasConceptSignals(record);
 
   const hasRelevantKeyword = textHasAny(text, RELEVANT_TERMS);
   const hasRejectKeyword = textHasAny(text, REJECT_TERMS);
@@ -579,6 +807,11 @@ function buildTags(record, traditionId, type) {
 }
 
 function choosePrimaryTradition(record) {
+  const overrideTradition = TITLE_TRADITION_OVERRIDES.get(normalizeLookupKey(record.title));
+  if (overrideTradition) {
+    return overrideTradition;
+  }
+
   const ids = Array.from(record.traditions || []);
   if (!ids.length) {
     return "synthesis";
