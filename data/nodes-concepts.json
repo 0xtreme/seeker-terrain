@@ -591,5 +591,2253 @@
         "note": "Baseline seed reference; strengthen with primary sources for academic use."
       }
     ]
+  },
+  {
+    "id": "wiki_hindu_philosophy",
+    "label": "Hindu philosophy",
+    "type": "concept",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Hindu philosophy or Vedic philosophy is the set of philosophical systems that developed in tandem with the first Hindu religious traditions during the iron and classical ages of India.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "concept",
+      "non_duality",
+      "meditation",
+      "ritual",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hindu_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Hindu philosophy",
+        "url": "https://en.wikipedia.org/wiki/Hindu_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_yoga",
+    "label": "Yoga",
+    "type": "concept",
+    "tradition": "hinduism",
+    "era_start": 1950,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Yoga (UK: , US: ; Sanskrit: योग 'yoga' [joːɡɐ] ; lit. 'yoke' or 'union') is a group of physical, mental, and spiritual practices or disciplines that originated with its own philosophy in ancient India, aimed at controlling body and mind to attain liberation (moksha), as practiced in the Hindu, Jain, and Buddhist traditions.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "concept",
+      "non_duality",
+      "consciousness",
+      "meditation",
+      "liberation",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoga",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Yoga",
+        "url": "https://en.wikipedia.org/wiki/Yoga",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abrahamic_religions",
+    "label": "Abrahamic religions",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Abrahamic religions are a set of monotheistic religions that respect or admire the religious figure Abraham, namely Judaism, Christianity, and Islam, though the term also often encompasses several smaller faiths. The religions of this set share doctrinal, historical, and geographic overlap that contrasts them with Indian religions, Iranian religions, and East Asian religions.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abrahamic_religions",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abrahamic religions",
+        "url": "https://en.wikipedia.org/wiki/Abrahamic_religions",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adivasi",
+    "label": "Adivasi",
+    "type": "concept",
+    "tradition": "hinduism",
+    "era_start": 2011,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Adivasi (also spelled Adibasi) are the heterogeneous tribal groups across the Indian subcontinent. The term Adivasi, a 20th-century construct meaning \"ancient inhabitants\", is now widely used as a self-designation by many of the communities who are officially recognized as \"Scheduled Tribes\" in India and as \"Ethnic minorities\" in Bangladesh.",
+    "key_texts": [],
+    "tags": [
+      "hinduism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adivasi",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adivasi",
+        "url": "https://en.wikipedia.org/wiki/Adivasi",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahom_religion",
+    "label": "Ahom religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1850,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Ahom Religion (also known as Phuralung religion) is the ethnic religion of the Ahom people. The Ahom people came into Assam in 1228, led by a Tai prince Sukaphaa, and admixed with the local people. The people who came into Assam included two clans of priests, joined later by a third, who brought with them their own religion, rituals, practices and scriptures.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahom_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahom religion",
+        "url": "https://en.wikipedia.org/wiki/Ahom_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_alaska_native_religion",
+    "label": "Alaska Native religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Traditional Alaskan Native religion involves mediation between people and spirits, souls, and other immortal beings. Such beliefs and practices were once widespread among Inuit (including Iñupiat), Yupik, Aleut, and Northwest Coastal Indian cultures, but today are less common. They were already in decline among many groups when the first major ethnological research was done.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alaska_Native_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alaska Native religion",
+        "url": "https://en.wikipedia.org/wiki/Alaska_Native_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ancient_egyptian_religion",
+    "label": "Ancient Egyptian religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": -30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ancient Egyptian religion was a complex system of polytheistic beliefs and rituals that formed an integral part of ancient Egyptian culture. It centered on the Egyptians' interactions with many deities believed to be present and in control of the world. About 1,500 deities are known. Rituals such as prayer and offerings were provided to the gods to gain their favor.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ritual",
+      "ethics",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ancient Egyptian religion",
+        "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ancient_semitic_religion",
+    "label": "Ancient Semitic religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ancient Semitic religion encompasses the polytheistic religions of the Semitic peoples from the ancient Near East and Northeast Africa. Since the term Semitic represents a rough category when referring to cultures, as opposed to languages, the definitive bounds of the term \"ancient Semitic religion\" are only approximate but exclude the religions of \"non-Semitic\" speakers of the region such as Egyptians, Elamites,...",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Semitic_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ancient Semitic religion",
+        "url": "https://en.wikipedia.org/wiki/Ancient_Semitic_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_anishinaabe_religions",
+    "label": "Anishinaabe religions",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The term Anishinaabe is used as a collective noun by a group of different Algonquian-speaking peoples inhabiting parts of northeastern North America called the Anishinaabe. These peoples each have their own traditional Native American religions, although have also seen substantial conversion to Christianity.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anishinaabe_religions",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anishinaabe religions",
+        "url": "https://en.wikipedia.org/wiki/Anishinaabe_religions",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_antireligion",
+    "label": "Antireligion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Antireligion is opposition to religion or traditional religious beliefs and practices. It involves opposition to organized religion, religious practices or religious institutions. The term antireligion has also been used to describe opposition to specific forms of supernatural worship or practice, whether organized or not.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antireligion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Antireligion",
+        "url": "https://en.wikipedia.org/wiki/Antireligion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aztec_religion",
+    "label": "Aztec religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Aztec religion is a polytheistic and monistic pantheism in which the Nahua concept of teotl was construed as the supreme god Ometeotl, as well as a diverse pantheon of lesser gods and manifestations of nature. The popular religion tended to embrace the mythological and polytheistic aspects, and the Aztec Empire's state religion sponsored both the monism of the upper classes and the popular heterodoxies.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ritual",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aztec_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aztec religion",
+        "url": "https://en.wikipedia.org/wiki/Aztec_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_babylonian_religion",
+    "label": "Babylonian religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Babylonian religion is the religious practice of Babylonia. Babylonia's mythology was largely influenced by its Sumerian counterparts and was written on clay tablets inscribed with the cuneiform script derived from Sumerian cuneiform. The myths were usually either written in Sumerian or Akkadian.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Babylonian_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Babylonian religion",
+        "url": "https://en.wikipedia.org/wiki/Babylonian_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abhisheka",
+    "label": "Abhisheka",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Abhishek (Sanskrit: अभिषेक, romanized: Abhiṣeka) is a religious rite or method of prayer in which a devotee pours a liquid offering on an image or murti of a deity. This is common to religions such as Jainism, Hinduism, Buddhism.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abhisheka",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abhisheka",
+        "url": "https://en.wikipedia.org/wiki/Abhisheka",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_achintya_bheda_abheda",
+    "label": "Achintya Bheda Abheda",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Achintya-Bheda-Abheda (अचिन्त्यभेदाभेद, acintyabhedābheda in IAST) is a school of Vedanta representing the philosophy of inconceivable one-ness and difference. In Sanskrit, achintya means 'inconceivable', bheda translates as 'difference', and abheda translates as 'non-difference'.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "non_duality",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Achintya_Bheda_Abheda",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Achintya Bheda Abheda",
+        "url": "https://en.wikipedia.org/wiki/Achintya_Bheda_Abheda",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_achourya",
+    "label": "Achourya",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Achourya (Sanskrit: अचौर्यः, IAST: Acauryaḥ) or Asteya (Sanskrit: अस्तेय; IAST: Asteya) is the Sanskrit term for \"non-stealing\". It is a virtue in Jainism. The practice of asteya demands that one must not steal, nor have the intent to steal, another's property through action, speech, and thoughts. Asteya is one of the five major vows of Hinduism and Jainism.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Achourya",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Achourya",
+        "url": "https://en.wikipedia.org/wiki/Achourya",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adyghe_xabze",
+    "label": "Adyghe Xabze",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Adyghe Khabze is the traditional worldview and moral code of the Circassian people. It regulates most aspects of individual as well as social social life, and has historically served as the unwritten constitution of Circassia, regulating legal proceedings, conflict resolution, military affairs, and governance.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adyghe_Xabze",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adyghe Xabze",
+        "url": "https://en.wikipedia.org/wiki/Adyghe_Xabze",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_afterlife",
+    "label": "Afterlife",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The afterlife or life after death is a speculation concerning existence after death, in which the essential part of an individual's stream of consciousness or identity continues to exist after the death of their physical body. The surviving essential aspect varies between belief systems; it may be some partial element, or the entire soul or spirit, which carries with it one's personal identity.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "consciousness",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Afterlife",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Afterlife",
+        "url": "https://en.wikipedia.org/wiki/Afterlife",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_buddhist_philosophy",
+    "label": "Buddhist philosophy",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Buddhist philosophy is the ancient Indian philosophical system that developed within the religio-philosophical tradition of Buddhism. It comprises all the philosophical investigations and systems of rational inquiry that developed among various schools of Buddhism in ancient India following the parinirvāṇa of Gautama Buddha (c.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "consciousness",
+      "meditation",
+      "liberation",
+      "ethics",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Buddhist_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Buddhist philosophy",
+        "url": "https://en.wikipedia.org/wiki/Buddhist_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahimsa",
+    "label": "Ahimsa",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahimsa (Sanskrit: अहिंसा, IAST: ahiṃsā; IPA: [ɐ́.ɦĩ.sɑː]; lit. 'nonviolence') is the ancient Indian principle of nonviolence which applies to actions towards all living beings. It is a key virtue in Jainism and Buddhism. Ahimsa (also spelled Ahinsa) is one of the cardinal virtues of Jainism, where it is the first of the Pancha Mahavrata.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ritual",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahimsa",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahimsa",
+        "url": "https://en.wikipedia.org/wiki/Ahimsa",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahmadiyya",
+    "label": "Ahmadiyya",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahmadiyya (, also UK: ), officially the Ahmadiyya Muslim Jama'at (Arabic: الجماعة الإسلامية الأحمدية, romanized: al-Jamāʿah al-Islāmīyyah al-Aḥmadīyyah; Urdu: جماعتِ احمدیہ مسلمہ, romanized: Jamā‘at-i-Aḥmadiyah Muslimah) is an Islamic messianic movement originating in British India in the late 19th century.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmadiyya",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahmadiyya",
+        "url": "https://en.wikipedia.org/wiki/Ahmadiyya",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ainu_people",
+    "label": "Ainu people",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Ainu (/ˈaɪnuː/) are an indigenous ethnic group who reside in northern Japan and southeastern Russia, including Hokkaido and the Tōhoku region of Honshu, as well as the land surrounding the Sea of Okhotsk, such as Sakhalin, the Kuril Islands, the Kamchatka Peninsula, and the Khabarovsk Krai. They have occupied these areas, known to them as \"Ainu Mosir\" (Ainu: アイヌモシㇼ, lit.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ainu_people",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ainu people",
+        "url": "https://en.wikipedia.org/wiki/Ainu_people",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_akriyavada",
+    "label": "Akriyavada",
+    "type": "concept",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Akriyavada is the doctrine, considered heretical by Buddhists, that moral acts do not have any consequences. This belief was taught by many of the Buddha's contemporaries, but since it contradicts belief in karma it was denounced by the Buddha. His own teachings are considered kiriyavada. Akriya means – inactive, without action of any kind.",
+    "key_texts": [],
+    "tags": [
+      "buddhism",
+      "concept",
+      "ethics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Akriyavada",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Akriyavada",
+        "url": "https://en.wikipedia.org/wiki/Akriyavada",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_islamic_philosophy",
+    "label": "Islamic philosophy",
+    "type": "concept",
+    "tradition": "islam",
+    "era_start": 0,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Islamic philosophy is philosophy that emerges from the Islamic tradition. Two terms traditionally used in the Islamic world are sometimes translated as philosophy—falsafa (lit. 'philosophy'), which refers to philosophy as well as logic, mathematics, and physics; and kalam (lit.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "concept",
+      "mysticism",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Islamic_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Islamic philosophy",
+        "url": "https://en.wikipedia.org/wiki/Islamic_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahl_al_bayt",
+    "label": "Ahl al-Bayt",
+    "type": "concept",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahl al-Bayt (Arabic: أهل البيت, lit. 'people of the house') refers to the family of the Islamic prophet Muhammad. In Sunni Islam, the term has also been extended to all descendants of the Banu Hashim (Muhammad's clan) and even to all Muslims. In Shia Islam, the term is limited to Muhammad, his daughter Fatima, his cousin and son-in-law Ali, and their two sons, Ḥasan and Ḥusayn.",
+    "key_texts": [],
+    "tags": [
+      "islam",
+      "concept",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahl_al-Bayt",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahl al-Bayt",
+        "url": "https://en.wikipedia.org/wiki/Ahl_al-Bayt",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_christian_theology",
+    "label": "Christian theology",
+    "type": "concept",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Christian theology is the theology – the systematic study of the divine and religion – of Christian belief and practice. It concentrates primarily upon the texts of the Old Testament and of the New Testament, as well as on Christian tradition. Christian theologians use biblical exegesis, rational analysis and argument.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "concept",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_theology",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Christian theology",
+        "url": "https://en.wikipedia.org/wiki/Christian_theology",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adoptionism",
+    "label": "Adoptionism",
+    "type": "concept",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Adoptionism, closely associated with dynamic monarchianism, is an early Christian nontrinitarian theological doctrine, subsequently revived in various forms. Adoptionism is a theology about relationship, which does not affirm the virgin birth and holds that Jesus was adopted as the Son of God at his baptism, his resurrection, or his ascension. Dynamic Monarchianism does not hold Jesus' sonship was through adoption.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "concept",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adoptionism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adoptionism",
+        "url": "https://en.wikipedia.org/wiki/Adoptionism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_affusion",
+    "label": "Affusion",
+    "type": "concept",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Affusion is a method of baptism where water is poured on the head of the person being baptized. The word \"affusion\" comes from the Latin affusio, meaning \"to pour on\". Affusion is one of four methods of baptism used by Christians, which also include total or partial immersion baptism and aspersion or sprinkling.",
+    "key_texts": [],
+    "tags": [
+      "christianity",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Affusion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Affusion",
+        "url": "https://en.wikipedia.org/wiki/Affusion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_jewish_mysticism",
+    "label": "Jewish mysticism",
+    "type": "concept",
+    "tradition": "judaism",
+    "era_start": -100,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Academic study of Jewish mysticism, especially since Gershom Scholem's Major Trends in Jewish Mysticism (1941), draws distinctions between different forms of mysticism which were practiced in different eras of Jewish history. Of these, Kabbalah, which emerged in 12th-century southwestern Europe, is the most well known, but it is not the only typological form, nor was it the first form which emerged.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "concept",
+      "mysticism",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jewish_mysticism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Jewish mysticism",
+        "url": "https://en.wikipedia.org/wiki/Jewish_mysticism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_hasidic_judaism",
+    "label": "Hasidic Judaism",
+    "type": "concept",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Hasidism (Hebrew: חסידות, romanized: Ḥăsīdūt) or Hasidic Judaism is a religious movement within Judaism that arose in the 18th century as a spiritual revival movement in contemporary Western Ukraine before spreading rapidly throughout Eastern Europe. Today, most of those affiliated with the movement, known as hassidim, reside in Israel and in the United States.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "concept",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hasidic_Judaism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Hasidic Judaism",
+        "url": "https://en.wikipedia.org/wiki/Hasidic_Judaism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_acosmism",
+    "label": "Acosmism",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Acosmism, held in contrast or equivalent to pantheism, denies the reality of the universe, seeing it as ultimately illusory (the prefix \"ἀ-\" in Greek meaning negation; like \"un-\" in English), and only the infinite unmanifest Absolute as real. Conceptual versions of Acosmism are found in eastern and western philosophies.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Acosmism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Acosmism",
+        "url": "https://en.wikipedia.org/wiki/Acosmism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_afrikaner_jews",
+    "label": "Afrikaner-Jews",
+    "type": "concept",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Afrikaner-Jews (Afrikaans: Afrikaner-Jode, also called Boerejode) are Jewish Afrikaners. At the beginning of the 19th century, when greater freedom of religious practice was permitted in South Africa, small numbers of Ashkenazi Jews arrived from Britain and Germany. They established the first Ashkenazi Hebrew congregation in 1841.",
+    "key_texts": [],
+    "tags": [
+      "judaism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Afrikaner-Jews",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Afrikaner-Jews",
+        "url": "https://en.wikipedia.org/wiki/Afrikaner-Jews",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_africana_philosophy",
+    "label": "Africana philosophy",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Africana philosophy is the work of philosophers of African descent and others whose work deals with the subject matter of the African diaspora. The name does not refer to a particular philosophy, philosophical system, method, or tradition. Rather, Africana philosophy is a third-order, metaphilosophical, umbrella-concept used to bring organizing oversight to various efforts of philosophizing.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Africana_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Africana philosophy",
+        "url": "https://en.wikipedia.org/wiki/Africana_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_applied_ethics",
+    "label": "Applied ethics",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Applied ethics is the practical aspect of moral considerations. It is ethics with respect to real-world actions and their moral considerations in private and public life, the professions, health, technology, law, and leadership.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Applied_ethics",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Applied ethics",
+        "url": "https://en.wikipedia.org/wiki/Applied_ethics",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_applied_philosophy",
+    "label": "Applied philosophy",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Applied philosophy (philosophy from Greek: φιλοσοφία, philosophia, 'love of wisdom') is a branch of philosophy that studies philosophical problems of practical concern. The topic covers a broad spectrum of issues in environment, medicine, science, engineering, policy, law, politics, economics and education.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Applied_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Applied philosophy",
+        "url": "https://en.wikipedia.org/wiki/Applied_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_buddhist_meditation",
+    "label": "Buddhist meditation",
+    "type": "concept",
+    "tradition": "taoism",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Buddhist meditation is the practice of meditation in Buddhism. The closest words for meditation in the classical languages of Buddhism are bhāvanā (\"mental development\") and jhāna/dhyāna (a state of meditative absorption resulting in a calm and luminous mind).",
+    "key_texts": [],
+    "tags": [
+      "taoism",
+      "concept",
+      "consciousness",
+      "meditation",
+      "liberation",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Buddhist_meditation",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Buddhist meditation",
+        "url": "https://en.wikipedia.org/wiki/Buddhist_meditation",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_hankaar",
+    "label": "Hankaar",
+    "type": "concept",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahankar, commonly rendered as Hankaar or Hankār (Punjabi: ਹੰਕਾਰ, pronunciation: [ɦaunkäːaɝ]) based upon its pronunciation in Punjabi, is a Gurmukhi word originating from the Sanskrit word Ahankāra (Sanskrit: अहंकार) which translates to mean \"ego\" or \"excessive pride\" due to one's possessions, material wealth, spirituality, beauty, talents, physical strength, intelligence, authoritative powers, charity work, amid ...",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hankaar",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Hankaar",
+        "url": "https://en.wikipedia.org/wiki/Hankaar",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ali_illahism",
+    "label": "Ali-Illahism",
+    "type": "concept",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ali-Illahism (Persian: علی‌اللّهی; Arabic: علي إلهي) is a syncretic religion which has been practiced in parts of the Luristan region in Iran which combines elements of Shia Islam with older religions.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "concept",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ali-Illahism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ali-Illahism",
+        "url": "https://en.wikipedia.org/wiki/Ali-Illahism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aliran_kepercayaan",
+    "label": "Aliran Kepercayaan",
+    "type": "concept",
+    "tradition": "sikhism",
+    "era_start": 1469,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Aliran Kepercayaan (lit. 'the branches/flows of beliefs') is an official cover term for groups of followers of various religious movements. It also includes various, partly syncretic forms of mysticism of new religious movements in Indonesia, such as kebatinan, kejiwaan and kerohanian. In the Indonesian language, it is also used for new religious movements in other parts of the world.",
+    "key_texts": [],
+    "tags": [
+      "sikhism",
+      "concept",
+      "mysticism"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aliran_Kepercayaan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aliran Kepercayaan",
+        "url": "https://en.wikipedia.org/wiki/Aliran_Kepercayaan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_jain_philosophy",
+    "label": "Jain philosophy",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Jain philosophy or Jaina philosophy refers to the ancient Indian philosophical system of the Jain religion. It comprises all the philosophical investigations and systems of inquiry that developed among the early branches of Jainism in ancient India following the nirvana of Mahāvīra (c. 6th or 5th century BCE).",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept",
+      "liberation",
+      "ethics",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jain_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Jain philosophy",
+        "url": "https://en.wikipedia.org/wiki/Jain_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_absolute_philosophy",
+    "label": "Absolute (philosophy)",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In philosophy (often specifically metaphysics), the absolute, in most common usage, is an absolute perfect, self-sufficient reality that depends upon nothing external to itself. In theology, the term is also used to designate the supreme being or God.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Absolute_(philosophy)",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Absolute (philosophy)",
+        "url": "https://en.wikipedia.org/wiki/Absolute_(philosophy)",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adharma",
+    "label": "Adharma",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Adharma is the Sanskrit antonym of dharma. It means \"that which is not in accord with the dharma\". Connotations include betrayal, discord, disharmony, unnaturalness, wrongness, evil, immorality, unrighteousness, wickedness, and vice. Adharma (Sanskrit: अधर्म) is derived from combining \"a\" with \"dharma\", which literally implies \"not-dharma\". It means immoral, sinful, wrong, wicked, unjust, unbalanced, or unnatural.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept",
+      "ritual",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adharma",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adharma",
+        "url": "https://en.wikipedia.org/wiki/Adharma",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahimsa_in_jainism",
+    "label": "Ahimsa in Jainism",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In Jainism, ahiṃsā (Ahimsā, alternatively spelled 'ahinsā', Sanskrit: अहिंसा IAST: ahiṃsā, Pāli: avihinsā) is a fundamental principle forming the cornerstone of its ethics and doctrine. The term ahiṃsā means nonviolence, non-injury, and the absence of desire to harm any life forms. Veganism, vegetarianism and other nonviolent practices and rituals of Jains flow from the principle of ahimsa.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept",
+      "liberation",
+      "ritual",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahimsa in Jainism",
+        "url": "https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ajiva",
+    "label": "Ajiva",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ajiva (Sanskrit) is anything that has no soul or life, the polar opposite of \"jīva\" (soul). Because ajiva has no life, it does not accumulate karma and cannot die. Examples of ajiva include chairs, computers, paper, plastic, etc.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ajiva",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ajiva",
+        "url": "https://en.wikipedia.org/wiki/Ajiva",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_akram_vignan_movement",
+    "label": "Akram Vignan Movement",
+    "type": "concept",
+    "tradition": "jainism",
+    "era_start": -700,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Akram Vignan movement, also spelled Akram Vijnan, is a new religious movement originated in 1960s in Gujarat, India. It was founded by Dada Bhagwan and later spread to Maharashtra and Gujarati diaspora communities around the world. After death of Dada Bhagwan, the movement split in two factions: one led by Niruben Amin and the other led by Kanubhai Patel.",
+    "key_texts": [],
+    "tags": [
+      "jainism",
+      "concept",
+      "liberation"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Akram_Vignan_Movement",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Akram Vignan Movement",
+        "url": "https://en.wikipedia.org/wiki/Akram_Vignan_Movement",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aspect_religion",
+    "label": "Aspect (religion)",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Aspect is a term used across several religions and in theology to describe a particular manifestation or conception of a deity or other divine being. Depending on the religion, these might be disjoint or overlapping parts, or methods of perceiving or conceptualizing the deity in a particular context.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aspect_(religion)",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aspect (religion)",
+        "url": "https://en.wikipedia.org/wiki/Aspect_(religion)",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ab_zohr",
+    "label": "Ab-Zohr",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Ab-Zohr (; Avestan: 𐬀𐬞⸱ 𐬰𐬀𐬊𐬚𐬭𐬀, romanized: ap-zaoθra; Middle Persian: 𐭠𐭯 𐭦𐭥𐭧𐭫, romanized: ab-zohr) is the culminating rite of the greater Yasna service, the principal Zoroastrian act of worship that accompanies the recitation of the Yasna liturgy.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ab-Zohr",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ab-Zohr",
+        "url": "https://en.wikipedia.org/wiki/Ab-Zohr",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aban",
+    "label": "Aban",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Apas (, Avestan: āpas) is the Avestan language term for \"the waters\", which, in its innumerable aggregate states, is represented by the Apas, the hypostases of the waters. Āb (plural Ābān) is the Middle Persian-language form.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aban",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aban",
+        "url": "https://en.wikipedia.org/wiki/Aban",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_afrinagan",
+    "label": "Afrinagan",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Afrinagan, or Āfringān, is an Avestan term referring to either a collection of Zoroastrian prayers which are part of the Khordeh Avesta or to the ceremonies in which these prayers play a central role.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Afrinagan",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Afrinagan",
+        "url": "https://en.wikipedia.org/wiki/Afrinagan",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahura",
+    "label": "Ahura",
+    "type": "concept",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahura (Avestan: 𐬀𐬵𐬎𐬭𐬀) is an Avestan language designation of a type of deity inherited by Zoroastrianism from the prehistoric Indo-Iranian religion, and denotes a particular class of Zoroastrian divinities. The term is assumed to be linguistically related to the Asuras of Indian Vedic era.",
+    "key_texts": [],
+    "tags": [
+      "zoroastrianism",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahura",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahura",
+        "url": "https://en.wikipedia.org/wiki/Ahura",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_continental_philosophy",
+    "label": "Continental philosophy",
+    "type": "concept",
+    "tradition": "greek_philosophy",
+    "era_start": 1950,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Continental philosophy is a group of Western philosophies first prominent in 20th-century continental Europe that derive from a broadly Kantian tradition of focusing on the individual and society.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Continental_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Continental philosophy",
+        "url": "https://en.wikipedia.org/wiki/Continental_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_definitions_of_philosophy",
+    "label": "Definitions of philosophy",
+    "type": "concept",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Definitions of philosophy aim at determining what all forms of philosophy have in common and how to distinguish philosophy from other disciplines. Many different definitions have been proposed but there is very little agreement on which is the correct one.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Definitions_of_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Definitions of philosophy",
+        "url": "https://en.wikipedia.org/wiki/Definitions_of_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abstract_object_theory",
+    "label": "Abstract object theory",
+    "type": "concept",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Abstract object theory (AOT) is a branch of metaphysics regarding abstract objects. Originally devised by metaphysician Edward Zalta in 1981, the theory was an expansion of mathematical Platonism.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "concept",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abstract_object_theory",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abstract object theory",
+        "url": "https://en.wikipedia.org/wiki/Abstract_object_theory",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adiaphora",
+    "label": "Adiaphora",
+    "type": "concept",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Adiaphoron (; plural: adiaphora; from the Greek ἀδιάφορον (pl. ἀδιάφορα), meaning 'not different or differentiable') is the negation of διαφορά diaphora, 'difference'.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "concept",
+      "consciousness",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adiaphora",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adiaphora",
+        "url": "https://en.wikipedia.org/wiki/Adiaphora",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aesthetic_emotions",
+    "label": "Aesthetic emotions",
+    "type": "concept",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Aesthetic emotions are emotions that are felt during aesthetic activity or appreciation. These emotions may be of the everyday variety (such as fear, wonder or sympathy) or may be specific to aesthetic contexts. Examples of the latter include the sublime, the beautiful, and the kitsch.",
+    "key_texts": [],
+    "tags": [
+      "greek_philosophy",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aesthetic_emotions",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aesthetic emotions",
+        "url": "https://en.wikipedia.org/wiki/Aesthetic_emotions",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_animism",
+    "label": "Animism",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Animism (from Latin: anima meaning 'breath, spirit, life') is the belief that places, objects, and creatures all possess a distinct spiritual essence. Animism perceives all things—animals, plants, rocks, rivers, weather systems, human handiwork, and in some cases words—as being animated, having agency and free will.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Animism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Animism",
+        "url": "https://en.wikipedia.org/wiki/Animism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_indigenous_religion",
+    "label": "Indigenous religion",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Indigenous religion or native religion is a category used in the study of religion to demarcate the religious belief systems of communities described as being \"indigenous\". This category is often juxtaposed against others such as the \"world religions\" and \"new religious movements\". The term is commonly applied to a range of different belief systems across the Americas, Australasia, Asia, Africa, and Europe.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Indigenous_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Indigenous religion",
+        "url": "https://en.wikipedia.org/wiki/Indigenous_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_myth",
+    "label": "Myth",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Myth is a genre of folklore consisting primarily of narratives that play a fundamental role in a society. For scholars, this is totally different from the ordinary sense of the term myth, meaning a belief that is not true, as the veracity of a piece of folklore is entirely irrelevant to determining whether it constitutes a myth.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Myth",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Myth",
+        "url": "https://en.wikipedia.org/wiki/Myth",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_african_traditional_medicine",
+    "label": "African traditional medicine",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "African traditional medicine is a range of traditional medicine disciplines involving indigenous herbalism and African spirituality, typically including diviners, midwives, and herbalists.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/African_traditional_medicine",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: African traditional medicine",
+        "url": "https://en.wikipedia.org/wiki/African_traditional_medicine",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_brazilian_traditional_medicine",
+    "label": "Brazilian traditional medicine",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Traditional Brazilian medicine (Portuguese: Medicina indígena) includes many native South American elements, and imported African ones. It is predominantly used in areas where indigenous groups and African descendants reside, like in the northeast coast, nearly all interior regions including Amazon regions, savannahs, rainforest, foothills, and Pantanal. According to Romulo R. N.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "ritual"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brazilian_traditional_medicine",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Brazilian traditional medicine",
+        "url": "https://en.wikipedia.org/wiki/Brazilian_traditional_medicine",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_accidental_travel",
+    "label": "Accidental travel",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Accidental travel is a speculative fiction plot device in which ordinary people accidentally find themselves outside of their normal place or time, often for no apparent reason, a particular type of the \"fish-out-of-water\" plot. In Russian fandom, the trope is known under the term popadantsy, plural form for popadanets, female: popadanka, a person who accidentally finds himself elsewhere/elsewhen.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Accidental_travel",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Accidental travel",
+        "url": "https://en.wikipedia.org/wiki/Accidental_travel",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_acupressure",
+    "label": "Acupressure",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Acupressure is an alternative medicine technique often used in conjunction with acupuncture or reflexology. It is based on the concept of \"life energy\" (qi), which purportedly flows through \"meridians\" in the body. There is no scientific evidence for the existence of acupuncture points, meridians, or qi.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Acupressure",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Acupressure",
+        "url": "https://en.wikipedia.org/wiki/Acupressure",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_acupuncture",
+    "label": "Acupuncture",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -100,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Acupuncture is a form of alternative medicine and a component of traditional Chinese medicine (TCM) in which thin needles are inserted into the body. Acupuncture is a pseudoscience; the theories and practices of TCM are not based on scientific knowledge, and it has been characterized as quackery.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Acupuncture",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Acupuncture",
+        "url": "https://en.wikipedia.org/wiki/Acupuncture",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adrenal_fatigue",
+    "label": "Adrenal fatigue",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Adrenal fatigue is a pseudoscientific term used by alternative medicine providers to suggest that the adrenal glands are exhausted and unable to produce adequate quantities of hormones, primarily cortisol, due to chronic stress or infections.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrenal_fatigue",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adrenal fatigue",
+        "url": "https://en.wikipedia.org/wiki/Adrenal_fatigue",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_alternative_cancer_treatments",
+    "label": "Alternative cancer treatments",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Alternative cancer treatment describes any cancer treatment or practice that is not part of the conventional standard of cancer care. These include special diets and exercises, chemicals, herbs, devices, and manual procedures. Most alternative cancer treatments do not have high-quality evidence supporting their use and many have been described as fundamentally pseudoscientific.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alternative_cancer_treatments",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alternative cancer treatments",
+        "url": "https://en.wikipedia.org/wiki/Alternative_cancer_treatments",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_alternative_medicine",
+    "label": "Alternative medicine",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Alternative medicine refers to practices that aim to achieve the healing effects of medicine, but that by definition lack biological plausibility, testability, repeatability, or supporting evidence of effectiveness. Such practices are not part of evidence-based medicine.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alternative_medicine",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alternative medicine",
+        "url": "https://en.wikipedia.org/wiki/Alternative_medicine",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_alternative_veterinary_medicine",
+    "label": "Alternative veterinary medicine",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Alternative veterinary medicine is the use of alternative medicine in the treatment of animals. Types of alternative therapies used for veterinary treatments may include, but are not limited to, acupuncture, herbal medicine, homeopathy, ethnomedicine and chiropractic. The term includes many treatments that do not have enough evidence to support them being a standard method within many veterinary practices.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alternative_veterinary_medicine",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alternative veterinary medicine",
+        "url": "https://en.wikipedia.org/wiki/Alternative_veterinary_medicine",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_amulet",
+    "label": "Amulet",
+    "type": "concept",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "An amulet is a spiritual object believed to confer protection or grace upon its possessor. The word amulet comes from the Latin word amuletum, which Pliny's Natural History describes as \"an object that protects a person from trouble\". Anything can function as an amulet; items commonly so used include statues, coins, drawings, plant parts, animal parts, and written words.",
+    "key_texts": [],
+    "tags": [
+      "indigenous",
+      "concept",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amulet",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Amulet",
+        "url": "https://en.wikipedia.org/wiki/Amulet",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_comparative_religion",
+    "label": "Comparative religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Comparative religion is the branch of religious studies that systematically compares the doctrines, practices, themes and impacts (including migration) of the world's religions. In general, the comparative study of religion yields a deeper understanding of the fundamental philosophical concerns of religion such as ethics, metaphysics and the nature and forms of salvation.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "liberation",
+      "ritual",
+      "ethics",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Comparative_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Comparative religion",
+        "url": "https://en.wikipedia.org/wiki/Comparative_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_mysticism",
+    "label": "Mysticism",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Mysticism encompasses religious traditions of human transformation aided by various practices and religious experiences. Popularly, mysticism is used synonymously with mystical experience, a neologism which refers to an ecstatic unitive experience of becoming one with God, the Absolute, or all that exists.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "non_duality",
+      "consciousness",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mysticism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Mysticism",
+        "url": "https://en.wikipedia.org/wiki/Mysticism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_all_religions_are_one",
+    "label": "All Religions are One",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "All Religions are One is a series of philosophical aphorisms by William Blake, written in 1788. Following on from his initial experiments with relief etching in the non-textual The Approach of Doom (1787), All Religions are One and There is No Natural Religion represent Blake's first successful attempt to combine image and text via relief etching, and are thus the earliest of his illuminated manuscripts.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/All_Religions_are_One",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: All Religions are One",
+        "url": "https://en.wikipedia.org/wiki/All_Religions_are_One",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_elite_religion",
+    "label": "Elite religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In sociology, elite religion is defined as the symbols, rituals and beliefs which are recognized as legitimate by the leadership of that religion. Elite religion is often contrasted with folk religion, or the religious symbols and beliefs of the masses. Elite religion is then the \"official religion\" as championed by the leaders of a religion.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ritual"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elite_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Elite religion",
+        "url": "https://en.wikipedia.org/wiki/Elite_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_enlightenment_in_buddhism",
+    "label": "Enlightenment in Buddhism",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1850,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The English term enlightenment is the Western translation of various Buddhist terms, most notably bodhi and vimutti. The abstract noun bodhi (; Sanskrit: बोधि; Pali: bodhi) means the knowledge or wisdom, or awakened intellect, of a Buddha. The verbal root budh- means \"to awaken\", and its literal meaning is closer to awakening.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "consciousness",
+      "meditation",
+      "liberation",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Enlightenment in Buddhism",
+        "url": "https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_evolutionary_psychology_of_religion",
+    "label": "Evolutionary psychology of religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The evolutionary psychology of religion is the study of religious belief using evolutionary psychology principles. It is one approach to the psychology of religion. As with all other organs and organ functions, the brain's functional structure is argued to have a genetic basis, and is therefore subject to the effects of natural selection and evolution.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Evolutionary_psychology_of_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Evolutionary psychology of religion",
+        "url": "https://en.wikipedia.org/wiki/Evolutionary_psychology_of_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_folk_religion",
+    "label": "Folk religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Folk religion, traditional religion, or vernacular religion comprises, according to religious studies and folkloristics, various forms and expressions of religion that are distinct from the doctrines and practices of organized religion. The precise definition of folk religion varies among scholars.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Folk_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Folk religion",
+        "url": "https://en.wikipedia.org/wiki/Folk_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_lived_religion",
+    "label": "Lived religion",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Lived religion is the ethnographic and holistic framework in the sociology of religion and religious studies more broadly for understanding the religion as it is practiced by ordinary people in the contexts of everyday life, including domestic, work, commercial, community, and institutional religious settings.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lived_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Lived religion",
+        "url": "https://en.wikipedia.org/wiki/Lived_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_metaphysics",
+    "label": "Metaphysics",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Metaphysics is the branch of philosophy that examines the basic structure of reality. It is traditionally seen as the study of mind-independent features of the world, but some theorists view it as an inquiry into the conceptual framework of human understanding.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "consciousness",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Metaphysics",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Metaphysics",
+        "url": "https://en.wikipedia.org/wiki/Metaphysics",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_agape",
+    "label": "Agape",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Agape (; from Ancient Greek ἀγάπη (agápē)) is \"the highest form of love, charity\" and \"the love of God for [human beings] and of [human beings] for God\". This is in contrast to philia, brotherly love, or philautia, self-love, as it embraces a profound sacrificial love that transcends and persists regardless of circumstance.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Agape",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Agape",
+        "url": "https://en.wikipedia.org/wiki/Agape",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_anthropocentrism",
+    "label": "Anthropocentrism",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Anthropocentrism ( from Ancient Greek ἄνθρωπος (ánthrōpos) 'human' and κέντρον (kéntron) 'center') is the belief that human beings are the central or most important entity on the planet. The term can be used interchangeably with humanocentrism, and some refer to the concept as human supremacy or human exceptionalism.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthropocentrism",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anthropocentrism",
+        "url": "https://en.wikipedia.org/wiki/Anthropocentrism",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_anthroposophy",
+    "label": "Anthroposophy",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Anthroposophy is a spiritual new religious movement which was founded in the early 20th century by the esotericist Rudolf Steiner that postulates the existence of an objective, intellectually comprehensible spiritual world, accessible to human experience. Followers of anthroposophy aim to engage in spiritual discovery through a mode of thought independent of sensory experience.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "mysticism",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthroposophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anthroposophy",
+        "url": "https://en.wikipedia.org/wiki/Anthroposophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_apokatastasis",
+    "label": "Apokatastasis",
+    "type": "concept",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In theology, apokatastasis (Greek: ἀποκατάστασις, romanized: apokatástasis, also spelled apocatastasis) is the restoration of creation to a condition of perfection. In Christianity, the term refers to a form of Christian universalism, often associated with Origen, that includes the ultimate salvation of everyone, including the damned and the Devil.",
+    "key_texts": [],
+    "tags": [
+      "synthesis",
+      "concept",
+      "liberation",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Apokatastasis",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Apokatastasis",
+        "url": "https://en.wikipedia.org/wiki/Apokatastasis",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
   }
 ]

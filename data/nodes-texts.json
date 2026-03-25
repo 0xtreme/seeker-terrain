@@ -631,5 +631,1060 @@
         "note": "Baseline seed reference; strengthen with primary sources for academic use."
       }
     ]
+  },
+  {
+    "id": "wiki_vedanta",
+    "label": "Vedanta",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Vedanta (; Sanskrit: वेदान्त, IAST: Vedānta [ʋeːdɑ́ːntɐ]), also known as Uttara Mīmāṃsā, is one of the six orthodox (āstika) schools of Hindu philosophy and textual exegesis.",
+    "key_texts": [
+      "Vedanta"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "non_duality",
+      "consciousness",
+      "liberation",
+      "scripture",
+      "theology",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vedanta",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Vedanta",
+        "url": "https://en.wikipedia.org/wiki/Vedanta",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aitareya_upanishad",
+    "label": "Aitareya Upanishad",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Aitareya Upanishad (Sanskrit: ऐतरेयोपनिषद्, IAST: Aitareyopaniṣad) is a Mukhya Upanishad, associated with the Rigveda. It comprises the fourth, fifth and sixth chapters of the second book of Aitareya Aranyaka, which is one of the four layers of Rig vedic text.",
+    "key_texts": [
+      "Aitareya Upanishad"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "consciousness",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aitareya_Upanishad",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aitareya Upanishad",
+        "url": "https://en.wikipedia.org/wiki/Aitareya_Upanishad",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_atharvaveda",
+    "label": "Atharvaveda",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Atharvaveda or Atharva Veda (Sanskrit: अथर्ववेद, IAST: Atharvaveda, from अथर्वन्, \"priest\" and वेद, \"knowledge\") is the \"knowledge storehouse of atharvans, the procedures for everyday life\". The text is the fourth Veda, and is a late addition to the Vedic scriptures of Hinduism. The language of the Atharvaveda is different from Rigvedic Sanskrit, preserving pre-Vedic Indo-European archaisms.",
+    "key_texts": [
+      "Atharvaveda"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Atharvaveda",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Atharvaveda",
+        "url": "https://en.wikipedia.org/wiki/Atharvaveda",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ayurveda",
+    "label": "Ayurveda",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ayurveda (; IAST: āyurveda) is an alternative medicine system with historical roots in the Indian subcontinent. It is heavily practised throughout India and Nepal, where as much as 80% of the population report using ayurveda. The theory and practice of ayurveda are pseudoscientific, and many ayurvedic preparations, particularly in the rasa shastra tradition, contain toxic levels of lead, mercury, and arsenic.",
+    "key_texts": [
+      "Ayurveda"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "meditation",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayurveda",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ayurveda",
+        "url": "https://en.wikipedia.org/wiki/Ayurveda",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abirami_antati",
+    "label": "Abirami Antati",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Abirami Antati (Tamil: அபிராமி அந்தாதி, romanized: Apirāmi Antāti) is a Tamil collection of poems sung on goddess Abirami, a deity venerated in Thirukkadaiyur Amirtaghatesvarar Sivan Temple, situated in Tamil Nadu, India. This poetry was composed by Abirami Bhattar (His birth name was Subramanyam Iyer) who lived during the 18th century CE, a contemporary to Serfoji I of Tanjore.",
+    "key_texts": [
+      "Abirami Antati"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abirami_Antati",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abirami Antati",
+        "url": "https://en.wikipedia.org/wiki/Abirami_Antati",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adityas",
+    "label": "Adityas",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Adityas (Sanskrit: आदित्य, lit. 'of Aditi' IAST: Āditya Sanskrit pronunciation: [aːd̪ɪt̪jɐ]) refers to a class of Hindu deities. They are usually presented as solar deities, and the offspring of the Goddess Aditi. The name Aditya, in the singular, is taken to refer to the sun god Surya.",
+    "key_texts": [
+      "Adityas"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adityas",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adityas",
+        "url": "https://en.wikipedia.org/wiki/Adityas",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_agama_hinduism",
+    "label": "Agama (Hinduism)",
+    "type": "text",
+    "tradition": "hinduism",
+    "era_start": -1100,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Agamas (Devanagari: आगम, IAST: āgama) are a collection of several Tantric literature and scriptures of Hindu schools. The term literally means tradition or \"that which has come down\", and the Agama texts describe cosmology, epistemology, philosophical doctrines, precepts on meditation and practices, four kinds of yoga, mantras, temple construction, deity worship and ways to attain sixfold desires.",
+    "key_texts": [
+      "Agama (Hinduism)"
+    ],
+    "tags": [
+      "hinduism",
+      "text",
+      "non_duality",
+      "meditation",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Agama_(Hinduism)",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Agama (Hinduism)",
+        "url": "https://en.wikipedia.org/wiki/Agama_(Hinduism)",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_bible_student_movement",
+    "label": "Bible Student movement",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Bible Student movement is a Millennialist Restorationist Christian movement. It emerged in the United States from the teachings and ministry of Charles Taze Russell (1852–1916), also known as Pastor Russell, and his founding of the Zion's Watch Tower Tract Society in 1881.",
+    "key_texts": [
+      "Bible Student movement"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bible_Student_movement",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Bible Student movement",
+        "url": "https://en.wikipedia.org/wiki/Bible_Student_movement",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abhidharmad_pa",
+    "label": "Abhidharmadīpa",
+    "type": "text",
+    "tradition": "buddhism",
+    "era_start": -500,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Abhidharmadīpa or Lamp of Abhidharma is an Abhidharma text thought to have been authored by Vasumitra as a response to Vasubandhu's Abhidharmakośakārikā. The text consists of verse and prose commentary. It currently survives as an incomplete collection of Sanskrit fragments. However, the text is valuable insofar as it confirms the identity of Vasubandhu as author of the Abhidharmakośakārikā.",
+    "key_texts": [
+      "Abhidharmadīpa"
+    ],
+    "tags": [
+      "buddhism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abhidharmad%C4%ABpa",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abhidharmadīpa",
+        "url": "https://en.wikipedia.org/wiki/Abhidharmad%C4%ABpa",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_abraham_in_islam",
+    "label": "Abraham in Islam",
+    "type": "text",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Abraham, in Islam, is a prophet and messenger of God and is an ancestor to the Ishmaelite Arabs and Israelites. Abraham plays a prominent role as an example of faith in Judaism, Christianity, and Islam. In Muslim belief, Abraham fulfilled all the commandments and trials wherein God nurtured him throughout his lifetime.",
+    "key_texts": [
+      "Abraham in Islam"
+    ],
+    "tags": [
+      "islam",
+      "text",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_in_Islam",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Abraham in Islam",
+        "url": "https://en.wikipedia.org/wiki/Abraham_in_Islam",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_adam_in_islam",
+    "label": "Adam in Islam",
+    "type": "text",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Adam (Arabic: آدم, romanized: ʾĀdam), in Islamic theology, is believed to have been the first human being on Earth and the first prophet (Arabic: نبي, nabī) of Islam. Adam's role as the father of the human race is looked upon by Muslims with reverence. Muslims also refer to his wife, Ḥawwāʾ (Arabic: حَوَّاء, Eve), as the \"mother of mankind\".",
+    "key_texts": [
+      "Adam in Islam"
+    ],
+    "tags": [
+      "islam",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_in_Islam",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Adam in Islam",
+        "url": "https://en.wikipedia.org/wiki/Adam_in_Islam",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahkam",
+    "label": "Ahkam",
+    "type": "text",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahkam (Arabic: أحكام, romanized: aḥkām, lit. 'rulings', plural of ḥukm, حُكْم) is an Islamic term with several meanings. In the Quran, the word hukm is variously used to mean arbitration, judgement, authority, or God's will. In the early Islamic period, the Kharijites gave it political connotations by declaring that they accept only the hukm of God (حُكْمُ اللّهِ).",
+    "key_texts": [
+      "Ahkam"
+    ],
+    "tags": [
+      "islam",
+      "text",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahkam",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahkam",
+        "url": "https://en.wikipedia.org/wiki/Ahkam",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahl_al_fatrah",
+    "label": "Ahl al-Fatrah",
+    "type": "text",
+    "tradition": "islam",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In Islam, Ahl al-Fatrah (Arabic: أهل الفترة, lit. 'people of the time period') refers to the people who lived at any point between the Ascension of Jesus around 30 CE and Muhammad's first revelation around 610 CE. The term denotes a period of interval, when God did not send an Islamic prophet or messenger to spread awareness of Abrahamic monotheism amongst humanity.",
+    "key_texts": [
+      "Ahl al-Fatrah"
+    ],
+    "tags": [
+      "islam",
+      "text",
+      "consciousness",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahl_al-Fatrah",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahl al-Fatrah",
+        "url": "https://en.wikipedia.org/wiki/Ahl_al-Fatrah",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahl_al_hadith",
+    "label": "Ahl al-Hadith",
+    "type": "text",
+    "tradition": "islam",
+    "era_start": 610,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ahl al-Hadith (Arabic: أَهْل الحَدِيث, romanized: Ahl al-Ḥadīth, lit. 'people of hadith') is an Islamic school of Sunni Islam that emerged during the 2nd and 3rd Islamic centuries of the Islamic era (late 8th and 9th century CE) as a movement of hadith scholars who considered the Quran and authentic hadith to be the only authority in matters of law and creed.",
+    "key_texts": [
+      "Ahl al-Hadith"
+    ],
+    "tags": [
+      "islam",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahl_al-Hadith",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahl al-Hadith",
+        "url": "https://en.wikipedia.org/wiki/Ahl_al-Hadith",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_anabaptist_theology",
+    "label": "Anabaptist theology",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Anabaptist theology, also known as Anabaptist doctrine, is a theological tradition reflecting the doctrine of the Anabaptist Churches. The major branches of Anabaptist Christianity (inclusive of Mennonites, Amish, Hutterites, Bruderhof, Schwarzenau Brethren, River Brethren and Apostolic Christians) agree on core doctrines but have nuances in practice.",
+    "key_texts": [
+      "Anabaptist theology"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anabaptist_theology",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Anabaptist theology",
+        "url": "https://en.wikipedia.org/wiki/Anabaptist_theology",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_apostolic_tradition",
+    "label": "Apostolic Tradition",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 235,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Apostolic Tradition (or Egyptian Church Order) is an early Christian treatise which belongs to the genre of the ancient Church Orders. It has been described to be of \"incomparable importance as a source of information about church life and liturgy in the third century\". Rediscovered in the 19th century, it was given the name of \"Egyptian Church Order\".",
+    "key_texts": [
+      "Apostolic Tradition"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "ritual",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Apostolic_Tradition",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Apostolic Tradition",
+        "url": "https://en.wikipedia.org/wiki/Apostolic_Tradition",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_a_latin_dictionary",
+    "label": "A Latin Dictionary",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "A Latin Dictionary (or Harpers' Latin Dictionary, often referred to as Lewis and Short or L&S) is a popular English-language lexicographical work of the Latin language, published by Harper and Brothers of New York in 1879 and printed simultaneously in the United Kingdom by Oxford University Press.",
+    "key_texts": [
+      "A Latin Dictionary"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Latin_Dictionary",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: A Latin Dictionary",
+        "url": "https://en.wikipedia.org/wiki/A_Latin_Dictionary",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ablution_in_christianity",
+    "label": "Ablution in Christianity",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "In Christianity, ablution is a prescribed washing of part or all of the body or possessions, such as clothing or ceremonial objects, with the intent of purification or dedication. In Christianity, both baptism and footwashing are forms of ablution. Before praying the canonical hours at seven fixed prayer times, Oriental Orthodox Christians wash their hands and face (cf. Agpeya, Shehimo).",
+    "key_texts": [
+      "Ablution in Christianity"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "liberation",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ablution_in_Christianity",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ablution in Christianity",
+        "url": "https://en.wikipedia.org/wiki/Ablution_in_Christianity",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_acts_of_supremacy",
+    "label": "Acts of Supremacy",
+    "type": "text",
+    "tradition": "christianity",
+    "era_start": 30,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Acts of Supremacy are two acts passed by the Parliament of England in the 16th century that established the English monarchs as the head of the Church of England; two similar laws were passed by the Parliament of Ireland establishing the English monarchs as the head of the Church of Ireland. The 1534 act declared King Henry VIII and his successors as the Supreme Head of the Church, replacing the Pope.",
+    "key_texts": [
+      "Acts of Supremacy"
+    ],
+    "tags": [
+      "christianity",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Acts_of_Supremacy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Acts of Supremacy",
+        "url": "https://en.wikipedia.org/wiki/Acts_of_Supremacy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aggadah",
+    "label": "Aggadah",
+    "type": "text",
+    "tradition": "judaism",
+    "era_start": -1200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Aggadah (Hebrew: אַגָּדָה, romanized: Aggāḏā, or הַגָּדָה Haggāḏā; Jewish Babylonian Aramaic: אֲגַדְתָּא, romanized: Aggāḏṯā; 'tales', 'legend', 'lore') is the non-legalistic exegesis which appears in the classical rabbinic literature of Judaism, particularly the Talmud and Midrash.",
+    "key_texts": [
+      "Aggadah"
+    ],
+    "tags": [
+      "judaism",
+      "text",
+      "ethics",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aggadah",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aggadah",
+        "url": "https://en.wikipedia.org/wiki/Aggadah",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_chinese_philosophy",
+    "label": "Chinese philosophy",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Chinese philosophy (simplified Chinese: 中国哲学; traditional Chinese: 中國哲學) refers to the philosophical traditions that originated and developed within the historical and cultural context of China. It encompasses systematic reflections on issues such as existence, knowledge, ethics, and politics.",
+    "key_texts": [
+      "Chinese philosophy"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "consciousness",
+      "liberation",
+      "ethics",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Chinese philosophy",
+        "url": "https://en.wikipedia.org/wiki/Chinese_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_zhuangzi_book",
+    "label": "Zhuangzi (book)",
+    "type": "text",
+    "tradition": "taoism",
+    "era_start": -221,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Zhuangzi (historically romanized Chuang Tzŭ) is an ancient Chinese text that is one of the two foundational texts of Taoism, alongside the Tao Te Ching. It was written during the late Warring States period (476–221 BC) and is named for its traditional author, Zhuang Zhou, who is customarily known as \"Zhuangzi\" (\"Master Zhuang\").",
+    "key_texts": [
+      "Zhuangzi (book)"
+    ],
+    "tags": [
+      "taoism",
+      "text",
+      "ethics",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhuangzi_(book)",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Zhuangzi (book)",
+        "url": "https://en.wikipedia.org/wiki/Zhuangzi_(book)",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_action_theory_philosophy",
+    "label": "Action theory (philosophy)",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Action theory or theory of action is an area in philosophy concerned with theories about the processes causing willful human bodily movements of a more or less complex kind. This area of thought involves epistemology, ethics, metaphysics, jurisprudence, and philosophy of mind, and has attracted the strong interest of philosophers ever since Aristotle's Nicomachean Ethics (Third Book).",
+    "key_texts": [
+      "Action theory (philosophy)"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "consciousness",
+      "ethics",
+      "scripture",
+      "metaphysics"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Action_theory_(philosophy)",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Action theory (philosophy)",
+        "url": "https://en.wikipedia.org/wiki/Action_theory_(philosophy)",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_american_philosophy",
+    "label": "American philosophy",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "American philosophy is the activity, corpus, and tradition of philosophers affiliated with the United States. The Internet Encyclopedia of Philosophy notes that while it lacks a \"core of defining features, American Philosophy can nevertheless be seen as both reflecting and shaping collective American identity over the history of the nation\".",
+    "key_texts": [
+      "American philosophy"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "liberation"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/American_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: American philosophy",
+        "url": "https://en.wikipedia.org/wiki/American_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_australian_philosophy",
+    "label": "Australian philosophy",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Australian philosophy refers to the philosophical tradition of the people of Australia and of its citizens abroad. Academic philosophy has been mostly pursued in universities (and sometimes seminaries).",
+    "key_texts": [
+      "Australian philosophy"
+    ],
+    "tags": [
+      "synthesis",
+      "text"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Australian_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Australian philosophy",
+        "url": "https://en.wikipedia.org/wiki/Australian_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_british_philosophy",
+    "label": "British philosophy",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "British philosophy refers to the philosophical tradition of the British people. The universities of Cambridge and Oxford both have long philosophical traditions.",
+    "key_texts": [
+      "British philosophy"
+    ],
+    "tags": [
+      "synthesis",
+      "text"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/British_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: British philosophy",
+        "url": "https://en.wikipedia.org/wiki/British_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_alawites",
+    "label": "Alawites",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": 1800,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Alawites (Arabic: العلويون, romanized: al-ʿAlawiyyūn) are an ethnoreligious group, many of whom identify as Arabs, who live primarily in Syria and elsewhere in the Levant. They follow Alawism, an offshoot of Shia Islam as a ghulat branch during the ninth century. Alawites venerate Ali ibn Abi Talib, the \"first Imam\" in the Twelver school, as a manifestation of the divine essence.",
+    "key_texts": [
+      "Alawites"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "mysticism",
+      "ritual",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alawites",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Alawites",
+        "url": "https://en.wikipedia.org/wiki/Alawites",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ahunavaiti_gatha",
+    "label": "Ahunavaiti Gatha",
+    "type": "text",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Ahunavaiti Gatha is the first of the five Gathas, the most important texts of Zoroastrianism. It is named after the Ahuna Vairya manthra and, with 300 verses grouped into seven hymns, it is the longest of the Gathas.",
+    "key_texts": [
+      "Ahunavaiti Gatha"
+    ],
+    "tags": [
+      "zoroastrianism",
+      "text",
+      "scripture"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahunavaiti_Gatha",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ahunavaiti Gatha",
+        "url": "https://en.wikipedia.org/wiki/Ahunavaiti_Gatha",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_hebrew_bible",
+    "label": "Hebrew Bible",
+    "type": "text",
+    "tradition": "zoroastrianism",
+    "era_start": -250,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Hebrew Bible or Jewish Bible or Tanakh (US: , UK: or ; Hebrew: תַּנַ״ךְ, romanized: tanaḵ; תָּנָ״ךְ, tānāḵ; or תְּנַ״ךְ, tənaḵ), also known in Hebrew as Miqra (; מִקְרָא, miqrāʾ), is the canonical collection of Hebrew scriptures, comprising the Torah (the five Books of Moses), the Nevi'im (the Books of the Prophets), and the Ketuvim ('Writings', eleven books).",
+    "key_texts": [
+      "Hebrew Bible"
+    ],
+    "tags": [
+      "zoroastrianism",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hebrew_Bible",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Hebrew Bible",
+        "url": "https://en.wikipedia.org/wiki/Hebrew_Bible",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_aban_yasht",
+    "label": "Aban Yasht",
+    "type": "text",
+    "tradition": "zoroastrianism",
+    "era_start": -1000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The Aban Yasht is the fifth hymn of the 21 Yashts. It is named after Aban, the Waters, but is actually in praise of Anahita. It belongs to the so called Legendary Yashts and, with 132 stanzas, it is the third longest in the collection.",
+    "key_texts": [
+      "Aban Yasht"
+    ],
+    "tags": [
+      "zoroastrianism",
+      "text",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aban_Yasht",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Aban Yasht",
+        "url": "https://en.wikipedia.org/wiki/Aban_Yasht",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_czech_philosophy",
+    "label": "Czech philosophy",
+    "type": "text",
+    "tradition": "greek_philosophy",
+    "era_start": -600,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Czech philosophy, has often eschewed \"pure\" speculative philosophy, emerging rather in the course of intellectual debates in the fields of education (e.g. Jan Amos Komenský), art (e.g. Karel Teige), literature (e.g. Milan Kundera), and especially politics (e.g. Tomáš Garrigue Masaryk, Ivan Sviták, Václav Havel).",
+    "key_texts": [
+      "Czech philosophy"
+    ],
+    "tags": [
+      "greek_philosophy",
+      "text"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Czech_philosophy",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Czech philosophy",
+        "url": "https://en.wikipedia.org/wiki/Czech_philosophy",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_a_dialogue_concerning_witches_and_witchcrafts",
+    "label": "A Dialogue Concerning Witches and Witchcrafts",
+    "type": "text",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "A Dialogue Concerning Witches and Witchcrafts was a book written by George Gifford and published in 1593. It \"is notable for its attention to the ministerial challenges posed by witch belief as well as for its entertaining dialogue designed to appeal to a wide audience\".",
+    "key_texts": [
+      "A Dialogue Concerning Witches and Witchcrafts"
+    ],
+    "tags": [
+      "indigenous",
+      "text"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Dialogue_Concerning_Witches_and_Witchcrafts",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: A Dialogue Concerning Witches and Witchcrafts",
+        "url": "https://en.wikipedia.org/wiki/A_Dialogue_Concerning_Witches_and_Witchcrafts",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_a_guide_to_grand_jury_men",
+    "label": "A Guide to Grand-Jury Men",
+    "type": "text",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "A Guide to Grand-Jury Men — in full, A Guide to Grand Jury Men, Divided in two books. In the first, is the Author's best advice to them what to do, before they bring in a Billa vera in cases of Witchcraft, with a Christian Direction to such as are too much given upon every cross to think themselves bewitched.",
+    "key_texts": [
+      "A Guide to Grand-Jury Men"
+    ],
+    "tags": [
+      "indigenous",
+      "text",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Guide_to_Grand-Jury_Men",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: A Guide to Grand-Jury Men",
+        "url": "https://en.wikipedia.org/wiki/A_Guide_to_Grand-Jury_Men",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_ancient_jewish_magic",
+    "label": "Ancient Jewish magic",
+    "type": "text",
+    "tradition": "indigenous",
+    "era_start": -3000,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "Ancient Jewish magic refers to a range of magical practices and techniques employed by Jews from the Second Temple period through the Talmudic era. These practices are known through both textual and material evidence, including magical papyri, inscriptions, amulets, and incantation bowls, which illuminate aspects of popular religion that are only partially reflected in normative rabbinic literature.",
+    "key_texts": [
+      "Ancient Jewish magic"
+    ],
+    "tags": [
+      "indigenous",
+      "text",
+      "mysticism",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Jewish_magic",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: Ancient Jewish magic",
+        "url": "https://en.wikipedia.org/wiki/Ancient_Jewish_magic",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
+  },
+  {
+    "id": "wiki_history_of_religion",
+    "label": "History of religion",
+    "type": "text",
+    "tradition": "synthesis",
+    "era_start": -3200,
+    "era_end": null,
+    "origin_lat": null,
+    "origin_lng": null,
+    "origin_place": "Unknown",
+    "summary": "The history of religion is the written record of human religious feelings, thoughts, and ideas. This period of religious history begins with the invention of writing about 5,200 years ago (3200 BCE). The prehistory of religion involves the study of religious beliefs that existed prior to the advent of written records.",
+    "key_texts": [
+      "History of religion"
+    ],
+    "tags": [
+      "synthesis",
+      "text",
+      "scripture",
+      "theology"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/History_of_religion",
+    "image": null,
+    "sources": [
+      {
+        "title": "Wikipedia: History of religion",
+        "url": "https://en.wikipedia.org/wiki/History_of_religion",
+        "note": "Imported on 2026-03-25 via automated link traversal from religion/philosophy seed pages."
+      }
+    ]
   }
 ]
