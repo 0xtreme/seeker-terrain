@@ -201,8 +201,15 @@ function updateSearchFocusBanner() {
     return;
   }
 
+  const node = state.data.nodeById.get(state.searchFocusNodeId);
+  if (!node?.label) {
+    elements.searchFocusBanner.hidden = true;
+    elements.searchFocusLabel.textContent = "";
+    return;
+  }
+
   elements.searchFocusBanner.hidden = false;
-  elements.searchFocusLabel.textContent = state.data.nodeById.get(state.searchFocusNodeId).label;
+  elements.searchFocusLabel.textContent = node.label;
 }
 
 function populateGraphLegend(data) {

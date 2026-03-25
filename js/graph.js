@@ -187,6 +187,10 @@ export function createGraphView({ container, tooltipEl, onNodeSelect }) {
 
     nodes.forEach((node) => {
       node.radius = 6 + Math.min(14, Math.sqrt(node.degree || 1) * 1.8);
+      if (!Number.isFinite(node.x) || !Number.isFinite(node.y)) {
+        node.x = width / 2 + (Math.random() - 0.5) * 120;
+        node.y = height / 2 + (Math.random() - 0.5) * 120;
+      }
     });
 
     linkSelection = linkSelection.data(edges, (edge) => edge.id).join((enter) =>
@@ -269,6 +273,9 @@ export function createGraphView({ container, tooltipEl, onNodeSelect }) {
     });
 
     linkForce.links(edges);
+    for (let i = 0; i < 45; i += 1) {
+      simulation.tick();
+    }
     simulation.alpha(0.88).restart();
 
     applyVisibilityStyles();
