@@ -50,6 +50,10 @@ const elements = {
 
   traditionFilters: document.getElementById("tradition-filters"),
   typeFilters: document.getElementById("type-filters"),
+  traditionsSelectAll: document.getElementById("traditions-select-all"),
+  traditionsUnselectAll: document.getElementById("traditions-unselect-all"),
+  typesSelectAll: document.getElementById("types-select-all"),
+  typesUnselectAll: document.getElementById("types-unselect-all"),
   eraStart: document.getElementById("era-start"),
   eraEnd: document.getElementById("era-end"),
   eraRangeLabel: document.getElementById("era-range-label"),
@@ -192,6 +196,17 @@ function updateEraLabel() {
   elements.eraRangeLabel.textContent = `${formatYear(state.filters.eraStart)} to ${formatYear(
     state.filters.eraEnd
   )}`;
+}
+
+function setChecklistSelection(container, targetSet, checked) {
+  const checkboxes = Array.from(container.querySelectorAll("input[type='checkbox']"));
+  targetSet.clear();
+  checkboxes.forEach((checkbox) => {
+    checkbox.checked = checked;
+    if (checked) {
+      targetSet.add(checkbox.value);
+    }
+  });
 }
 
 function updateSearchFocusBanner() {
@@ -660,6 +675,22 @@ function bindEvents() {
   });
 
   elements.filtersReset.addEventListener("click", resetFilters);
+  elements.traditionsSelectAll.addEventListener("click", () => {
+    setChecklistSelection(elements.traditionFilters, state.filters.traditions, true);
+    applyAll();
+  });
+  elements.traditionsUnselectAll.addEventListener("click", () => {
+    setChecklistSelection(elements.traditionFilters, state.filters.traditions, false);
+    applyAll();
+  });
+  elements.typesSelectAll.addEventListener("click", () => {
+    setChecklistSelection(elements.typeFilters, state.filters.types, true);
+    applyAll();
+  });
+  elements.typesUnselectAll.addEventListener("click", () => {
+    setChecklistSelection(elements.typeFilters, state.filters.types, false);
+    applyAll();
+  });
 
   elements.mapYear.addEventListener("input", (event) => {
     state.map.year = Number(event.target.value);
@@ -793,7 +824,7 @@ async function bootstrap() {
   initViews();
   populateFilterControls(state.data);
   populateGraphLegend(state.data);
-  setGraphLegendOpen(false);
+  setGraphLegendOpen(true);
   bindEvents();
   applyAll();
 }

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Spiritus favicon</title>
+  <desc id="desc">A circular node network icon for Spiritus knowledge graph.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#1a1a26" />
+      <stop offset="100%" stop-color="#0b0b10" />
+    </radialGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4c89a" />
+      <stop offset="100%" stop-color="#86a6f6" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)" />
+  <g fill="none" stroke="url(#line)" stroke-width="2" stroke-linecap="round" opacity="0.9">
+    <path d="M14 42L28 20" />
+    <path d="M28 20L48 24" />
+    <path d="M48 24L42 44" />
+    <path d="M42 44L14 42" />
+    <path d="M28 20L30 46" />
+  </g>
+  <g>
+    <circle cx="14" cy="42" r="4" fill="#e07b39" />
+    <circle cx="28" cy="20" r="4.5" fill="#c49a2a" />
+    <circle cx="48" cy="24" r="4" fill="#3a8c72" />
+    <circle cx="42" cy="44" r="4" fill="#5a7abf" />
+    <circle cx="30" cy="46" r="3.6" fill="#d4c89a" />
+  </g>
+</svg>

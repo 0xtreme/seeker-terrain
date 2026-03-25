@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Spiritus — Spirituality Knowledge Graph</title>
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -68,12 +69,32 @@
         </div>
 
         <section class="filter-group">
-          <h3>Traditions</h3>
+          <div class="filter-group-head">
+            <h3>Traditions</h3>
+            <div class="filter-actions" role="group" aria-label="Tradition filter actions">
+              <button id="traditions-select-all" class="ghost-btn filter-action" type="button">
+                Select all
+              </button>
+              <button id="traditions-unselect-all" class="ghost-btn filter-action" type="button">
+                Unselect all
+              </button>
+            </div>
+          </div>
           <div id="tradition-filters" class="checklist"></div>
         </section>
 
         <section class="filter-group">
-          <h3>Node Types</h3>
+          <div class="filter-group-head">
+            <h3>Node Types</h3>
+            <div class="filter-actions" role="group" aria-label="Node type filter actions">
+              <button id="types-select-all" class="ghost-btn filter-action" type="button">
+                Select all
+              </button>
+              <button id="types-unselect-all" class="ghost-btn filter-action" type="button">
+                Unselect all
+              </button>
+            </div>
+          </div>
           <div id="type-filters" class="checklist"></div>
         </section>
 
@@ -125,7 +146,7 @@
               <button id="graph-reset" class="ghost-btn" type="button">Reset Graph (R)</button>
               <button id="graph-legend-toggle" class="ghost-btn" type="button">Legend</button>
             </div>
-            <aside id="graph-legend" class="graph-legend" aria-label="Graph legend" hidden>
+            <aside id="graph-legend" class="graph-legend" aria-label="Graph legend">
               <h3>Legend</h3>
 
               <section class="legend-section">
