@@ -1,1 +1,4 @@
 .DS_Store
+
+# local-only files (kept on disk, not in git)
+.DS_Store
